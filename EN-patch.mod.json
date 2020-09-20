@@ -1,7 +1,8 @@
 {
   "name": "English Patch",
-  "version": "2.24",
-  "authors": ["Inochi-PM, Oradimi"],
+  "version": "3.01",
+  "authors": ["Inochi-PM, Oradimi, Tibo"],
+  "requireScripts": true,
   "url": "https://github.com/InochiPM/kcs2-EN-Patch",
   "updateUrl": "https://raw.githubusercontent.com/InochiPM/kcs2-EN-Patch/master/EN-patch.mod.json",
   "downloadUrl": "https://github.com/InochiPM/kcs2-EN-Patch/archive/master.zip"
