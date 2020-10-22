@@ -14,11 +14,11 @@ Object.values(KC3Master.all_ships()).forEach(k => {
 copy(JSON.stringify(ships))
 ```
  */
-for (const file of ["./ignore-ship_names.json", "./ignore-equips.json", "./ignore-ship_types.json", "./ignore-stats.json"])
+for (const file of ["./ignore-ship_names.json", "./ignore-equips.json", "./ignore-ship_types.json", "./ignore-stats.json","./ignore-terms.json"])
     for (const [k,v] of Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
         translations[k] = v
 
-for (const file of ["./ignore-stats_list.json"])
+for (const file of ["./ignore-stats_list.json","./ignore-equips_list.json","ignore-terms_list.json"])
     regexreplacements.push(...Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
 
 module.exports = (file, contents) => {

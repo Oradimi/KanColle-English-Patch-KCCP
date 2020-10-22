@@ -1,0 +1,47 @@
+{
+	"提督、明石の工廠へようこそ！": "Welcome to Akashi's",
+	"どの装備の改修を試みますか？": "Arsenal, select one!",
+	"を、改修しますね！": "will be improved!",
+	"この改修に必要となる": "You do not have enough",
+	"(無改修)": "pieces of this equipment:",
+	"が足りません。": "(Unimproved)",
+	"この改修には、無改修の": "You'll need this:",
+	"が必要です。": "(Unimproved)",
+	"（※改修で消費します）": "   （※Will be consumed）",
+	"同改修消費可能装備数": "Currently available:",
+	"改修に成功しました！": "Improvement successful!",
+	"改修に失敗しました...。": "Improvement failed...",
+
+	"遠征から戻って来ました。": "A fleet is back from an expedition.",
+
+	"出撃・任務の提督ランキングです": "     Admirals' ranking based on",
+	"(称号とともに一日二回更新されます)": "sorties/quests (Updated 2x a day)",
+	"元帥": "Gensui",
+	"大将": "Taishō",
+	"中将": "Chūjō",
+	"少将": "Shōshō",
+	"大佐": "Taisa",
+	"中佐": "Chūsa",
+	"新米中佐": "Chūsa-",
+	"少佐": "Shōsa",
+	"中堅少佐": "Shōsa-",
+	"新米少佐": "Shōsa--",
+
+	"現在発生中の任務一覧です。": "List of currently available quests.",
+	"同時に": "You can undertake up to ",
+	"個まで遂行することが可能です。": " quests at a time.",
+
+	"現在の演習候補は": "Candidates selected from the ",
+	"演習艦隊【第一群】": "1st Group",
+	"演習艦隊【第二群】": "2nd Group",
+	"【全体】": "Overall",
+	"より抽出されたものです。": " of exercise fleets.",
+	"より次回演習候補を更新後に設定。": " selected for the next set.",
+	"更新後に設定変更可能です。": "Setting applied after the reset.",
+	"演習相手は一日二回更新されます。": "Exercise set renewed twice a day.",
+	"演習": "Exercise",
+	
+	"陣形を選択してください。": "Select a formation.",
+
+	"dummy": "forNoComma"
+}

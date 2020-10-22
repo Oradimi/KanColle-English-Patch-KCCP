@@ -16,5 +16,14 @@ Download the master and extract it anywhere, then use KCCP (right click in the t
 to add the mod by checking "Enable assets modifier", saving, then clicking on "Add a patcher".
 From there, select the "EN-patch.mod.json" file inside of the master folder.
 
+Don't forget to close KanColle and clear your browser cache! If some assets still
+aren't patched, repeat the process until satisfaction. (be aware some minor stuff still
+isn't translated)
+
 To disable raw text patching (ship names etc.), open the "EN-patch.mod.json"
 file and replace ("requireScripts": true,) with ("requireScripts": false,).
+
+If for some reason you would prever full equipment names over shorter more readable ones,
+not cut by the game's UI, an alternate file is provided in the root of the mod folder.
+Just exchange it with the file in "...\EN-patch\kcs2\js\main.js" and reload mod data within
+KCCP.
