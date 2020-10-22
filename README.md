@@ -22,8 +22,4 @@ isn't translated)
 
 To disable raw text patching (ship names etc.), open the "EN-patch.mod.json"
 file and replace ("requireScripts": true,) with ("requireScripts": false,).
-
-If for some reason you would prever full equipment names over shorter more readable ones,
-not cut by the game's UI, an alternate file is provided in the root of the mod folder.
-Just exchange it with the file in "...\EN-patch\kcs2\js\main.js" and reload mod data within
-KCCP.
+Don't forget to "Reload mod data"!
