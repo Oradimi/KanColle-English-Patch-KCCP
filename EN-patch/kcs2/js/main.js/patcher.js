@@ -4,21 +4,11 @@ const { join } = require("path")
 const translations = Object.create(null)
 const regexreplacements = []
 
-/**
- * Grab from KC3 via: ```
-const ships = Object.create(null)
-Object.values(KC3Master.all_ships()).forEach(k => {
-    const name = k.api_name
-    ships[name] = KC3Meta.shipName(name)
-})
-copy(JSON.stringify(ships))
-```
- */
-for (const file of ["./ignore-ship_names.json", "./ignore-equips.json", "./ignore-ship_types.json", "./ignore-stats.json","./ignore-terms.json"])
+for (const file of ["./ignore-ship_names.json","./ignore-equips.json","./ignore-ship_types.json","./ignore-stats.json","./ignore-terms.json","./ignore-exped_desc.json","./ignore-sortie_desc.json"])
     for (const [k,v] of Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
         translations[k] = v
 
-for (const file of ["./ignore-stats_list.json","./ignore-equips_list.json","ignore-terms_list.json"])
+for (const file of ["./ignore-_regex_stats.json","./ignore-_regex_equips.json","ignore-_regex_terms.json","ignore-_regex_ship.json"])
     regexreplacements.push(...Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
 
 module.exports = (file, contents) => {

@@ -31,6 +31,9 @@
 	"同時に": "You can undertake up to ",
 	"個まで遂行することが可能です。": " quests at a time.",
 
+	"艦娘保有数が上限一杯のため、\n出撃による新しい艦娘の獲得\nはできません。": "\n\nShip slots full.",
+	"装備保有数が上限一杯のため、\n出撃による新しい艦娘の獲得\nはできません。": "\n\nEquipment slots full.",
+
 	"現在の演習候補は": "Candidates selected from the ",
 	"演習艦隊【第一群】": "1st Group",
 	"演習艦隊【第二群】": "2nd Group",
@@ -42,6 +45,9 @@
 	"演習": "Exercise",
 	
 	"陣形を選択してください。": "Select a formation.",
+
+	"装備がある場合、同時に解体されます。": "Equipment will also be scrapped.",
+	"装備がある場合、倉庫に保管されます。": "Equipment will not be scrapped.",
 
 	"dummy": "forNoComma"
 }

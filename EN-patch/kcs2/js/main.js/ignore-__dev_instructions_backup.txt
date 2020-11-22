@@ -1,0 +1,43 @@
+Print in-game drawn text (paste code in "index.php") (Use this code without "console.log" line to pause printing):
+Object.defineProperty(PIXI.Text.prototype, "text", {  get() { return this._text; }, set(text) {
+        console.log(`${text}`)
+        const replaced = KCT_TLS[text]
+        if (replaced !== undefined)
+            text = replaced
+        else if (text != null) {
+            for (const [from, to] of KCT_REPLACEMENTS)
+                text = text.replace(new RegExp(from, "g"), to)
+        }
+        text = String(text === '' || text === null || text === undefined ? ' ' : text);
+
+        if (this._text === text)
+            return;
+        
+        this._text = text;
+        this.dirty = true;
+}})
+
+json match to trim text and add "... ×":
+Find	^(.*": "[^\n]{20,}?)(?!\s×",) .*",$
+Replace	$1… ×",
+
+json match to replace linebreak with literal \n:
+Find	(\r\n)(^[\u3402-\uFA6D]|^[\u3041-\u30A0]|^[\u30A0-\u31FF]|^【|^\()
+Replace	\\n$2
+
+For the things below, find the new things using Github Desktop and paste them in the og files, do not replace!
+Equip fetch via kc3 repo (pinned on Tibo chat)
+Ship fetch with this code in the Strategy room, then paste it anywhere:
+const ships = Object.create(null)
+Object.values(KC3Master.all_ships()).forEach(k => {
+    const name = k.api_name
+    ships[name] = KC3Meta.shipName(name)
+})
+copy(JSON.stringify(ships))
+
+Batch rename using PowerShell (only works for consecutive IDs):
+$i = int_first_number
+Get-ChildItem *.psd | %{Rename-Item $_ -NewName ('duty_main_{0:D3}.psd' -f $i++))}
+
+Ruler size:
+235x47
