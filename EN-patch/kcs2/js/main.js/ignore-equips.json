@@ -174,6 +174,9 @@
 	"13号対空電探改": "T13 Air Radar Kai",
 	"艦隊司令部施設": "Fleet Command Facility",
 	"熟練艦載機整備員": "Sk. Carrier-based Aircraft Maintenance Personnel",
+	"夜間作戦航空要員": "Night Operations Aviation Personnel",
+	"夜間作戦航空要員+熟練甲板員": "(Sk. Deck Hands) Night Operations Aviation Personnel",
+	"寒冷地装備&甲板要員": "Arctic Gear & Deck Personnel",
 	"零戦52型丙(六〇一空)": "T0 Model 52C (601 Air Group) Fighter",
 	"烈風(六〇一空)": "Reppuu (601 Air Group)",
 	"彗星(六〇一空)": "Suisei (601 Air Group)",
@@ -303,8 +306,6 @@
 	"F6F-5N": "F6F-5N",
 	"SB2U": "SB2U",
 	"F4U-1D": "F4U-1D",
-	"夜間作戦航空要員": "Night Operations Aviation Personnel",
-	"夜間作戦航空要員+熟練甲板員": "(Sk. Deck Hands) Night Operations Aviation Personnel",
 	"Swordfish": "Swordfish",
 	"Swordfish Mk.II(熟練)": "Swordfish Mk.II (Sk.)",
 	"Swordfish Mk.II改(水偵型)": "Swordfish Mk.II Kai (Recon. Seaplane Model)",
@@ -371,6 +372,7 @@
 	"51cm連装砲": "51cm Twin Gun Mount",
 	"130mm B-13連装砲": "130mm B-13 Twin Gun Mount",
 	"533mm 三連装魚雷": "533mm Triple Torpedo Mount",
+	"533mm 三連装魚雷(53-39型)" : "533mm (Model 53-39) Triple Torpedo Mount",
 	"533mm五連装魚雷(初期型)": "533mm Initial Model Quint. Torpedo Mount",
 	"533mm五連装魚雷(後期型)": "533mm Late Model Quint. Torpedo Mount",
 	"三式爆雷投射機 集中配備": "T3 (Concentrated Deployment) DC Projector",
@@ -383,6 +385,7 @@
 	"152mm/55 三連装速射砲改": "152mm/55 Kai Triple Rapid Fire Gun Mount",
 	"6inch三連装速射砲 Mk.16": "6inch Mk.16 Triple Rapid Fire Gun Mount",
 	"6inch三連装速射砲 Mk.16 mod.2": "6inch Mk.16 mod.2 Triple Rapid Fire Gun Mount",
+	"6inch Mk.XXIII三連装砲": "6inch Mk.XXIII Triple Gun Mount",
 	"Me163B": "Me163B",
 	"試製 秋水": "Prototype Shuusui",
 	"秋水": "Shuusui",
@@ -399,6 +402,7 @@
 	"対潜短魚雷(試作初期型)": "Lightweight ASW Torpedo (Initial Test Model)",
 	"深山": "Shinzan",
 	"深山改": "Shinzan Kai",
+	"Do 17 Z-2": "Do 17 Z-2",
 
 	"dummy": "forNoComma"
 }

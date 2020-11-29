@@ -4,11 +4,11 @@ const { join } = require("path")
 const translations = Object.create(null)
 const regexreplacements = []
 
-for (const file of ["./ignore-ship_names.json","./ignore-equips.json","./ignore-ship_types.json","./ignore-stats.json","./ignore-terms.json","./ignore-exped_desc.json","./ignore-sortie_desc.json"])
+for (const file of ["./ignore-ship_names.json","./ignore-equips.json","./ignore-ship_types.json","./ignore-stats.json","./ignore-terms.json","./ignore-exped_desc.json","./ignore-sortie_desc.json","./ignore-map.json","./ignore-event.json"])
     for (const [k,v] of Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
         translations[k] = v
 
-for (const file of ["./ignore-_regex_stats.json","./ignore-_regex_equips.json","ignore-_regex_terms.json","ignore-_regex_ship.json"])
+for (const file of ["./ignore-_regex_stats.json","./ignore-_regex_equips.json","./ignore-_regex_terms.json","./ignore-_regex_ship.json","./ignore-_regex_map.json"])
     regexreplacements.push(...Object.entries(JSON.parse(readFileSync(join(__dirname, file)))))
 
 module.exports = (file, contents) => {

@@ -627,6 +627,12 @@
 	"Colorado改": "Colorado Kai",
 	"丹陽": "Tan Yang",
 	"雪風改二": "Yukikaze Kai Ni",
+	"Scirocco": "Scirocco",
+	"Sheffield": "Sheffield",
+	"Washington": "Washington",
+	"Scirocco改": "Scirocco Kai",
+	"Sheffield改": "Sheffield Kai",
+	"Washington改": "Washington Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -783,6 +789,8 @@
 	"南太平洋空母棲姫": "South Pacific Aircraft Carrier Princess",
 	"南太平洋空母棲姫-壊": "South Pacific Aircraft Carrier Princess (Damaged)",
 	"潜水夏姫II": "Summer Submarine Princess B",
+	"戦艦新棲姫": "New Battleship Princess",
+	"戦艦新棲姫-壊": "New Battleship Princess (Damaged)",
 	
 	"dummy": "forNoComma"
 }

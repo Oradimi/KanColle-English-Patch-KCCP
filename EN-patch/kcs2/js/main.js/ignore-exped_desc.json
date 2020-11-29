@@ -6,6 +6,12 @@
 	"隻以上": " or +",
 	"隻遠征": " ships",
 	
+	"Same name as Exped 33": "Event Node Support",
+	"支援艦隊を出撃させ、主力艦隊の\n進撃を援護せよ！\n(要:駆逐2隻)": "Launch a support fleet and\ncover the advance of the main\nfleet!\n(Required: 2 destroyers)",
+	
+	"Same name as Exped 34": "Event Boss Support",
+	"主力艦隊支援を行う別動隊を出撃\nさせ、艦隊決戦を援護せよ！\n(要:駆逐2隻)": "Deploy a detached force to\ncover the main fleet and\nhelp in the decisive battle!\n(Required: 2 destroyers)",
+
 	"練習航海": "Navigation Practice",
 	"鎮守府近海を航海し、艦隊の練度\nを高めよう！": "Let's sail around the Naval\nBase to enhance the fleet's\nproficiency!",
 
@@ -145,7 +151,7 @@
 	"南方海域へ支援艦隊を出撃させ、\n主力艦隊の進撃を援護せよ！": "Launch a support fleet into the\nSouthern Area to support the\nmain fleet's advance!\n[World 5 Node Support]",
 
 	"艦隊決戦支援任務": "Decisive Battle Fleet Support Mission",
-	"南方海域へ決戦支援を行う別動隊\nを展開し、主力艦隊を援護せよ！": "Deploy a detached force to\ncover the main fleet in the\nSouthern Area and support the\ndecisive battle!\n[World 5 Boss Support]",
+	"南方海域へ決戦支援を行う別動隊\nを展開し、主力艦隊を援護せよ！": "Deploy a detached force to\ncover the main fleet in the\nSouthern Area and assist in\nthe decisive battle!\n[World 5 Boss Support]",
 
 	"MO作戦": "Operation MO",
 	"空母2隻を含むMO機動部隊を\n投入し、南方海域制海権を確保\nせよ！": "Deploy a MO task force which\nincludes two aircraft carriers\nto secure sea control in the\nSouthern Area!",
@@ -154,7 +160,7 @@
 	"水上機母艦2隻を南方に展開し、\n哨戒用の水上機基地を建設せよ！": "Deploy two seaplane tenders\nto the south and build a\nseaplane land base for patrol!",
 
 	"東京急行": "Tōkyō Express",
-	"水雷戦隊に輸送ドラム缶を満載、\n南方への鼠輸送作戦を遂行せよ！": "Load up the torpedo squadron\nwith Drum Canisters and carry\nout a Rat Transport Operation\nto the south!",
+	"水雷戦隊に輸送ドラム缶を満載、\n南方への鼠輸送作戦を遂行せよ！": "Load up a torpedo squadron\nwith Drum Canisters and carry\nout a Rat Transport Operation\nto the south!",
 
 	"東京急行(弐)": "Tōkyō Express (2)",
 	"可能な限り輸送ドラム缶を満載、\n南方への鼠輸送作戦を続行せよ！": "Load as much Drum Canisters\nas possible and continue with\nthe Rat Transport Operation to\nthe south!",

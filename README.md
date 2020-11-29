@@ -29,5 +29,7 @@ Don't forget to "Reload mod data"!
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
 as well as for making some code specially to patch raw text in a stable way.\
 To Amelek for the chuuha/taiha cut-in texture jigsaw splitter.\
+To the EN wiki staff and the kc3 staff for providing a good part of the translations.\
+To Dark Sentinel for contributing (LBAS menu aircraft names).\
 To atikabubu, Althea, Dotsidious, TerminaHeart, LeftistTachyon in the Discord server\
 for regularly suggesting new things to fix or translate in the patch.
