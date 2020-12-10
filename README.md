@@ -1,5 +1,5 @@
 # KanColle English Patch
-![](https://i.imgur.com/kYiiHRo.png)
+![English KanColle icon](https://i.imgur.com/kYiiHRo.png)
 
 [Join the Update Notice Discord!](https://discord.gg/krMeMKB)
 
@@ -12,16 +12,20 @@ Unlike the POI method, the assets don't break when updates happen in the game.\
 No ban risk as the API is never touched.
 
 ## Instructions
+You need KCCacheProxy set up to install this mod! Follow the guide below (or above) to set it up.
+I recommend using Option B to use the patch, as it makes loading times instantly significantly faster.
+https://github.com/planetarian/KCDocumentation/blob/master/KCCacheProxy.md
+
 Download the master and extract it anywhere, then use KCCP (right click in the tray)\
 to add the mod by checking "Enable assets modifier", saving, then clicking on "Add a patcher".\
 From there, select the "EN-patch.mod.json" file inside of the master folder.
 
 Don't forget to close KanColle and clear your browser cache! If some assets still\
 aren't patched, repeat the process until satisfaction.\
-(be aware some minor stuff still isn't translated)
+(be aware that this mod is a WIP, so expect some untranslated stuff)
 
 To disable raw text patching (ship names etc.), open the "EN-patch.mod.json"\
-file and replace ("requireScripts": true,) with ("requireScripts": false,).\
+file and replace `"requireScripts": true,` with `"requireScripts": false,`.\
 Don't forget to "Reload mod data"!
 
 ## Special Thanks

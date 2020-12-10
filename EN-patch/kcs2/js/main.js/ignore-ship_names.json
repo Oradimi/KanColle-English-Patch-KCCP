@@ -633,6 +633,8 @@
 	"Scirocco改": "Scirocco Kai",
 	"Sheffield改": "Sheffield Kai",
 	"Washington改": "Washington Kai",
+	"竹": "Take",
+	"竹改": "Take Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -791,6 +793,9 @@
 	"潜水夏姫II": "Summer Submarine Princess B",
 	"戦艦新棲姫": "New Battleship Princess",
 	"戦艦新棲姫-壊": "New Battleship Princess (Damaged)",
-	
+	"潜水棲姫改II": "Submarine Princess Kai B",
+	"深海竹棲姫": "Abyssal Bamboo Princess",
+	"深海竹棲姫-壊": "Abyssal Bamboo Princess (Damaged)",
+
 	"dummy": "forNoComma"
 }
