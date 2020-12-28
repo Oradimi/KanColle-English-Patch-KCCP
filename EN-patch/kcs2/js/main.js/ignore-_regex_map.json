@@ -1,7 +1,7 @@
 {
 	"\nを入手しました！": "\nobtained!",
 	"\nを落としてしまいました…。": "\nhave been lost...",
-	"\n(電探が役立って、被害を抑えられた！)": "\n(Loss mitigated thanks to the radar!)",
+	"\n(電探が役立って、被害を抑えられた！)": "\n     (Loss mitigated thanks to the radar!)",
 
 	"dummy": "forNoComma"
 }

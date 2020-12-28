@@ -36,8 +36,8 @@
 	"艦隊に洋上補給を行います。": "Supplying the fleet at sea.",
 	"波静かな、泊地に適した海域です。": "The waves are quiet.\nThe area is suitable for an anchorage.",
 
-	"輸送物資の揚陸地点に到達しました。\n同地点付近の敵艦隊を捜索、これを撃滅せよ！": "The landing point of the convoy has been\nreached. Search for and destroy the\nenemy fleet in the vicinity of this area.",
-	"輸送物資の揚陸地点に到達しました。\n本海域の輸送作戦は無事完了しています。": "The landing point of the convoy has been\nreached. The transport operation here has\nalready been completed successfully.",
+	"輸送物資の揚陸地点に到達しました。\n同地点付近の敵艦隊を捜索、これを撃滅せよ！": "The landing point of the convoy has been\nreached. Search for and destroy the enemy\n     fleet in the vicinity of this area.",
+	"輸送物資の揚陸地点に到達しました。\n本海域の輸送作戦は無事完了しています。": "The landing point of the convoy has been\nreached. The transport operation here has\n     already been completed successfully.",
 	"輸送物資の揚陸地点に到達しました。\n物資の揚陸を開始します。": "The landing point of the convoy has been\nreached. Starting the landing of supplies.",
 
 	"dummy": "forNoComma"
