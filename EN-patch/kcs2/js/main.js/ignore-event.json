@@ -20,13 +20,14 @@
 	"目的地到着……船団入港準備！": "We've arrived at the destination...\nThe fleet is preparing to enter port!",
 	"輸送船団、抜錨！": "Convoy, weigh anchor!",
 
-	"反撃開始！各艦、突入用意――。": "Commence counterattack!\nAll ships, get ready to move in--.",
+	"反撃開始！各艦、突入用意――。": "Commence counterattack!\nAll ships, get ready to move in!",
 	"多号作戦部隊、出撃！対空警戒を厳に！": "Operation Ta Force, sortie!\nMaintain strict anti-aircraft alert!",
 	"春風船団、抜錨！対潜警戒を厳とせよ！": "Harukaze Convoy, weigh anchor!\nMaintain strict anti-submarine alert!",
 	"海峡突入！対水上見張り、厳とせよ！\n  戦闘用意ッ！": "Entering the strait! Keep a sharp lookout\nfor enemy ships! Battle stations!",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type BB",
+	"丁型駆逐艦": "Type-D Destroyer",
 
 	"dummy": "forNoComma"
 }

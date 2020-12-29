@@ -65,8 +65,8 @@
 	"12cm単装高角砲E型×": "12cm E Single High-angle... ×",
 	"25mm単装機銃×": "25mm Single Autocannon... ×",
 	"20\\.3cm\\(3号\\)連装砲×": "20.3cm (No.3) Twin Gun... ×",
-	"12cm30連装噴進砲×": "12cm 30-tube Rocket Launcher ×",
-	"12cm30連装噴進砲改二×": "12cm 30-tube Kai Ni Rocket... ×",
+	"12cm30連装噴進砲×": "12cm 30-tube Rocket... ×",
+	"12cm30連装噴進砲改二×": "12cm 30-tube Kai Ni... ×",
 	"流星改×": "Ryuusei Kai ×",
 	"流星改\\(一航戦\\)×": "Ryuusei Kai (CarDiv 1) ×",
 	"流星改\\(一航戦/熟練\\)×": "Ryuusei Kai (Sk. CarDiv... ×",
@@ -403,6 +403,8 @@
 	"深山×": "Shinzan ×",
 	"深山改×": "Shinzan Kai ×",
 	"Do 17 Z-2×" : "Do 17 Z-2 ×",
+	"四式重爆 飛龍×": "Type 4 Hiryuu Heavy... ×",
+	"四式重爆 飛龍\\(熟練\\)×": "Type 4 (Sk.) Hiryuu... ×",
 
 	"dummy": "forNoComma"
 }
