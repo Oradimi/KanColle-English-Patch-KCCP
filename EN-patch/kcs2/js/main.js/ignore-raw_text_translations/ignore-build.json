@@ -1,0 +1,6 @@
+{
+	"装備がある場合、同時に解体されます。": "Equipment will also be scrapped.",
+	"装備がある場合、倉庫に保管されます。": "Equipment will not be scrapped.",
+
+	"dummy": "forNoComma"
+}
