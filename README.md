@@ -1,7 +1,7 @@
 # KanColle English Patch
 ![English KanColle icon](https://i.imgur.com/kYiiHRo.png)
 
-[Join the Update Notice Discord!](https://discord.gg/krMeMKB)
+[Please join the English Patch Discord!](https://discord.gg/krMeMKB)
 
 Translated textures to be used by the assets modifier of [KCCacheProxy](https://github.com/Tibowl/KCCacheProxy/wiki/Installation-and-setup).\
 Now also supports raw text patching, such as ship names etc.\
@@ -20,8 +20,9 @@ Download the master and extract it anywhere, then use KCCP (right click in the t
 to add the mod by checking "Enable assets modifier", saving, then clicking on "Add a patcher".\
 From there, select the "EN-patch.mod.json" file inside of the master folder.
 
-Don't forget to close KanColle and clear your browser cache! If some assets still\
-aren't patched, repeat the process until satisfaction.\
+Don't forget to close KanColle and clear your browser cache! Be sure to select\
+all time cache rather than last hour, and only select the relevant option.\
+If some assets still aren't patched, repeat the process until satisfaction.\
 (be aware that this mod is a WIP, so expect some untranslated stuff)
 
 To disable raw text patching (ship names etc.), open the "EN-patch.mod.json"\
