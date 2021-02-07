@@ -8,11 +8,12 @@
 	"使用する資材": "Materials to be Used",
 	"所要時間": "Time Needed",
 	"高速修復": "Instant Repair",
+	"高速建造": "Instant Construction",
 	"使用する": "Use",
 	"使用しない": "Do not use",
 
 	"大規模改装する艦艇": "Vessel to be receiving\na Large Modification",
-	"改造する艦船": "Warship\n to be Remodeled",
+	"改造する艦船": "Warship to be\nRemodeled",
 
 	"dummy": "forNoComma"
 }

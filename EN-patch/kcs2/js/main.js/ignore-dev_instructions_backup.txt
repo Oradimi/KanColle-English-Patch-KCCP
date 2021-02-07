@@ -17,9 +17,12 @@ Object.defineProperty(PIXI.Text.prototype, "text", {  get() { return this._text;
         this.dirty = true;
 }})
 
-json match to trim text and add "... ×":
-Find	^(.*": "[^\n]{20,}?)(?!\s×",) .*",$
-Replace	$1… ×",
+json match to trim text and add (... $1",)
+Find	^(.*": "[^\n]{18,}?)(?!\s×",) .*",$
+Replace	$1... \$1",
+then for the short ones:
+Find	([^×])",
+Replace	$1 ×",
 
 json match to replace linebreak with literal \n:
 Find	(\r\n)(^[\u3402-\uFA6D]|^[\u3041-\u30A0]|^[\u30A0-\u31FF]|^【|^\()
