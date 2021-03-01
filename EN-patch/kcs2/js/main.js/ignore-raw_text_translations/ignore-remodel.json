@@ -9,5 +9,9 @@
 	"｢新型兵装資材｣": "｢New Mod. Armament Mat.｣",
 	"\n本改装には上記アイテムが\n必要です。": "\nThe items listed above\nare required.",
 
-	"dummy":"forNotComma"
+	"改装に必要な資材が不足しています。": "You don't have enough Material.",
+	"改装に必要な資源が不足しています。": "You don't have enough Resources.",
+	"改装に必要な資源及び資材が不足しています。": "You don't have enough Resources or Material.",
+
+	"dummy":"forNoComma"
 }
