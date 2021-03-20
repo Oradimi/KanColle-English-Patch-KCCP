@@ -35,11 +35,14 @@ or that is very often seen in the game, is translated. It is still a WIP, so any
 
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
 as well as for making some code specially to patch raw text in a stable way.\
+To Dark Sentinel for contributing (LBAS menu aircraft names, world icons, server banners).\
 To Amelek for the chuuha/taiha cut-in texture jigsaw splitter.\
+To Globalnet for the quick updater.\
 To the EN wiki staff and the kc3 staff for providing a good part of the translations.\
-To Dark Sentinel for contributing (LBAS menu aircraft names, world icons).\
-To atikabubu, Althea, Dotsidious, TerminaHeart, LeftistTachyon in the Discord server\
-for regularly suggesting new things to fix or translate in the patch.
+
+To atikabubu, Althea, Dotsidious, TerminaHeart, LeftistTachyon\
+and all the others in the Discord server for regularly suggesting\
+new things to fix or translate in the patch.
 
 ## Instructions
 You need KCCacheProxy set up to install this mod!
