@@ -639,6 +639,10 @@
 	"球磨改二丁": "Kuma Kai Ni D",
 	"能代改二": "Noshiro Kai Ni",
 	"曙改二": "Akebono Kai Ni",
+	"最上改二": "Mogami Kai Ni",
+	"最上改二特": "Mogami Kai Ni Toku",
+	"矢矧改二": "Yahagi Kai Ni",
+	"矢矧改二乙": "Yahagi Kai Ni B",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -801,6 +805,6 @@
 	"深海竹棲姫": "Abyssal Bamboo Princess",
 	"深海竹棲姫-壊": "Abyssal Bamboo Princess (Damaged)",
 
-	"_data_version": "3.08.0",
+	"_data_version": "3.09.1",
 	"dummy": "forNoComma"
 }

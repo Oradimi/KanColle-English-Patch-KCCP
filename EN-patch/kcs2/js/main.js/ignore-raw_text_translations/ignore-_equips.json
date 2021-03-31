@@ -36,9 +36,12 @@
 	"22号対水上電探": "T22 Surface Radar",
 	"33号対水上電探": "T33 Surface Radar",
 	"21号対空電探": "T21 Air Radar",
+	"21号対空電探改": "T21 Kai Air Radar",
+	"21号対空電探改二": "T21 Kai Ni Air Radar",
 	"32号対水上電探": "T32 Surface Radar",
 	"14号対空電探": "T14 Air Radar",
 	"42号対空電探": "T42 Air Radar",
+	"42号対空電探改二": "T42 Kai Ni Air Radar",
 	"改良型艦本式タービン": "Improved Turbine (Kanhon Type)",
 	"強化型艦本式缶": "Enhanced Boiler (Kanhon Type)",
 	"三式弾": "Type 3 Shell",
@@ -158,7 +161,6 @@
 	"新型高温高圧缶": "New Model Boiler (High Temperature High Pressure)",
 	"22号対水上電探改四": "T22 Kai 4 Surface Radar",
 	"22号対水上電探改四(後期調整型)": "T22 Kai 4 Late Model Surface Radar (Calibrated)",
-	"21号対空電探改": "T21 Kai Air Radar",
 	"20.3cm(2号)連装砲": "20.3cm (No.2) Twin Gun Mount",
 	"12.7cm連装高角砲(後期型)": "12.7cm Late Model Twin High-angle Gun Mount",
 	"12.7cm連装高角砲改二": "12.7cm Kai Ni Twin High-angle Gun Mount",
@@ -411,6 +413,6 @@
 	"四式重爆 飛龍": "T4 Hiryuu Heavy Bomber",
 	"四式重爆 飛龍(熟練)": "T4 (Sk.) Hiryuu Heavy Bomber",
 
-	"_data_version": "3.08.0",
+	"_data_version": "3.09.1",
 	"dummy": "forNoComma"
 }
