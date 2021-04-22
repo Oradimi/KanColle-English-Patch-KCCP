@@ -1658,14 +1658,19 @@
 	"旗艦に改装航空巡洋艦「最上改二(改二特含む)」を配備した精鋭艦隊で、南西諸島海域バシー海峡、\n沖ノ島海域、西方海域カレー洋リランカ島沖、南方海域前面に展開、敵艦隊を撃滅せよ！": "Sortie Mogami Kai Ni+ as flagship to [W2-2], [W2-4], [W4-5] and [W5-1].\nS-Rank the boss nodes.",
 	"_quest_id_939": "_quest_code_B167",
 	"西村艦隊、精鋭先行掃討隊、前進せよ！": "Nishimura Fleet, Elite Vanguard Sweeper Squadron, Advancing!",
-	"「最上改二(改二特含む)」旗艦、時雨・満潮・朝雲・山雲より2隻を配備した艦隊で、東部オリョール海、\n中部北海域ピーコック島沖、タウイタウイ泊地沖深部、マラッカ海峡ペナン島沖深部の敵を撃滅せよ！": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and\nup to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S?-Rank the boss nodes.",
+	"「最上改二(改二特含む)」旗艦、時雨・満潮・朝雲・山雲より2隻を配備した艦隊で、東部オリョール海、\n中部北海域ピーコック島沖、タウイタウイ泊地沖深部、マラッカ海峡ペナン島沖深部の敵を撃滅せよ！": "Sortie Mogami Kai Ni+ as flagship, any 2 of Shigure, Michishio, Asagumo or Yamagumo, and\nup to 3 additional ships to [W2-3], [W6-4], [W7-2-M] and [W7-3-P]. S-Rank the boss nodes.",
 	"_quest_id_940": "_quest_code_B168",
 	"二水戦旗艦、この「矢矧」が預かります！": "DesRon 2 Flagship Yahagi, Assuming Command!",
-	"旗艦に「矢矧改二(改二乙含む)」、随伴駆逐艦2隻を配備した精鋭水雷戦隊で、南西諸島防衛線、\n沖ノ島沖、サブ島沖海域、サーモン海域北方の敵艦隊を撃滅せよ！二水戦旗艦「矢矧」、抜錨！": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5],\n[W5-3] and [W5-5]. S?-Rank the boss nodes.",
+	"旗艦に「矢矧改二(改二乙含む)」、随伴駆逐艦2隻を配備した精鋭水雷戦隊で、南西諸島防衛線、\n沖ノ島沖、サブ島沖海域、サーモン海域北方の敵艦隊を撃滅せよ！二水戦旗艦「矢矧」、抜錨！": "Sortie Yahagi Kai Ni+ as flagship, 2 DD and up to 3 additional ships to [W1-4], [W2-5],\n[W5-3] and [W5-5]. S-Rank the boss nodes.",
 	"_quest_id_941": "_quest_code_2103LQ2",
 	"【春限定】春の近海哨戒お散歩！": "[Spring-Limited] A Springtime of Coastal Patrol Strolling!",
 	"【春限定】旗艦に潜水母艦または練巡・軽巡、他駆逐以下の小艦艇による5隻以下の哨戒艦隊で、\n製油所地帯沿岸、南西諸島近海、南西諸島海域バシー海峡に反復哨戒！敵を捕捉撃破せよ！": "Sortie a CL/CT/AS as flagship and up to 4(!) DE/DD/SS(V) to [W1-3], [W2-1] and [W2-2].\nS-Rank the boss nodes twice each.",
+	"_quest_id_942": "_quest_code_2104LQ1",
+	"【八周年限定】カタリナフェスティバル！": "[8th Anniversary-Limited] Catalina Festival",
+	"【八周年限定任務】旗艦に軽巡洋艦または「Fletcher」、随伴駆逐艦/海防艦計3隻以上配備の艦隊で、\n南西諸島沖、製油所地帯沿岸、南西諸島防衛線、キス島沖に反復出撃！敵艦隊の撃破に努めよ！": "Sortie a CL or Fletcher as flagship, 3 DD/DE (not including Fletcher) and 2 additional ships\nto [W1-2], [W1-3], [W1-4] and [W3-2]. A-Rank+ the boss nodes twice each.",
+	"_quest_id_943": "_quest_code_B169",
+	"新しき翼。改装航空母艦「龍鳳」、出撃せよ！": "New Wings. Remodeled Aircraft Carrier Ryuuhou, Sortie!",
+	"旗艦に「龍鳳改二(改二戊含む)」、随伴に「時雨改二」を編成した第一艦隊で南西諸島海域バシー海峡、\n東部オリョール海、沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部へ出撃。敵艦隊を捕捉撃滅せよ！": "Sortie Ryuuhou Kai Ni (E) as flagship and Shigure Kai Ni in the 1st fleet\nto [W2-2], [W2-3], [W2-4], [W2-5] and [W7-2-M]. S-Rank the boss nodes.",
 
-	"_data_version": "3.09.1",
 	"dummy": "forNoComma"
 }

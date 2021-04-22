@@ -2,6 +2,7 @@
 	"提督、明石の工廠へようこそ！": "Welcome to Akashi's",
 	"どの装備の改修を試みますか？": "Arsenal, select one!",
 	"を、改修しますね！": "will be improved!",
+	"この装備を改修するには\n同装備のロック解除が必要です。": "You need to unlock this piece\nof equipment before improving it.",
 	"この改修に必要となる": "You do not have enough pieces",
 	"(無改修)": "of this equipment:  (Unimproved)",
 	"が足りません。": "",
@@ -11,6 +12,7 @@
 	"同改修消費可能装備数": "Currently available:",
 	"改修に成功しました！": "Improvement successful!",
 	"改修に失敗しました...。": "Improvement failed...",
+	"装備改修中…": "Improving this piece of equipment...",
 
 	"dummy": "forNoComma"
 }

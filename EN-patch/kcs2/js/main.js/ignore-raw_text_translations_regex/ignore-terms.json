@@ -10,10 +10,14 @@
 	"\\[中堅少佐\\]": "[Shōsa-]",
 	"\\[新米少佐\\]": "[Shōsa--]",
 
-	"隻 編成": "-ship fleet",
-	"（現在保有数×": "(Currently available: ×",
+	"隻 編成$": "-ship fleet",
+	"^（現在保有数×": "(Currently available: ×",
+	"に装備が改修更新されました！": "\nobtained from this improvement!",
 
-	"を獲得しました！": "obtained!",
+	"を獲得しました！$": "obtained!",
+	"を入手しました！$": "obtained!",
+
+	"×([0-9])枚": "×$1",
 
 	"dummy": "forNoComma"
 }

@@ -541,7 +541,7 @@
 	"(\n|^)海防艦 (「?)平戸(」?)(\n|$)": "$1DE $2Hirato$3$4",
 	"(\n|^)戦艦 (「?)Nelson(」?)(\n|$)": "$1BB $2Nelson$3$4",
 	"(\n|^)戦艦 (「?)陸奥改二(」?)(\n|$)": "$1BB $2Mutsu Kai Ni$3$4",
-	"(\n|^)軽巡洋艦 (「?)Gotland(」?)(\n|$)": "$1CL $2Gotland$3$4",
+	"(\n|^)軽\\(航空\\)巡洋艦 (「?)Gotland(」?)(\n|$)": "$1CL(V) $2Gotland$3$4",
 	"(\n|^)駆逐艦 (「?)Maestrale(」?)(\n|$)": "$1DD $2Maestrale$3$4",
 	"(\n|^)戦艦 (「?)Nelson改(」?)(\n|$)": "$1BB $2Nelson Kai$3$4",
 	"(\n|^)駆逐艦 (「?)朝霜改二(」?)(\n|$)": "$1DD $2Asashimo Kai Ni$3$4",
@@ -644,7 +644,8 @@
 	"(\n|^)改装航空巡洋艦 (「?)最上改二特(」?)(\n|$)": "$1CAV (Sp.) $2Mogami Kai Ni Toku$3$4",
 	"(\n|^)軽巡洋艦 (「?)矢矧改二(」?)(\n|$)": "$1CL $2Yahagi Kai Ni$3$4",
 	"(\n|^)軽巡洋艦 (「?)矢矧改二乙(」?)(\n|$)": "$1CL $2Yahagi Kai Ni B$3$4",
+	"(\n|^)軽空母 (「?)龍鳳改二戊(」?)(\n|$)": "$1CVL $2Ryuuhou Kai Ni E$3$4",
+	"(\n|^)軽空母 (「?)龍鳳改二(」?)(\n|$)": "$1CVL $2Ryuuhou Kai Ni$3$4",
 
-	"_data_version": "3.09.1",
 	"dummy": "forNoComma"
 }

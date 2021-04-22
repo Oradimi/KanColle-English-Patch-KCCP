@@ -1,4 +1,10 @@
 {
+	"遠征中": "In Exped.",
+	"入渠中": "In Repair",
+
+	"展開できる装備の余剰がありません。": "There is not enough equipment left.",
+	"展開先が運用不能な装備があります。": "Some equipment cannot be used here.",
+
 	"「改装設計図」が": "Not enough",
 	"足りません。": " Blueprints.",
 

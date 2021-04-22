@@ -19,7 +19,7 @@
 
 	"陣形を選択してください。": "Select a formation.",
 
-	"some lines in this section are in _regex_map": "because string merge",
+	"some lines in this section are in _regex/map": "because string merge",
 	"司令官！うずしおが発生しました！": "Commander! Whirling tides outbreak!",
 	"水上偵察機による\n航空偵察を実施します。": "Conducting aerial reconnaissance\nby seaplane.",
 	"大型飛行艇による\n航空偵察を実施します。": "Conducting aerial reconnaissance\nby flying boat.",
@@ -35,6 +35,8 @@
 	"艦隊の針路を選択できます。\n提督、どちらの針路をとられますか？": "You can decide on the fleet's course.\nAdmiral, which heading should we take?",
 	"艦隊に洋上補給を行います。": "Supplying the fleet at sea.",
 	"波静かな、泊地に適した海域です。": "The waves are quiet.\nThis area is suitable for an anchorage.",
+
+	" 残念ですが進撃は困難です...母港に帰投します。": "It's a shame but we can't continue like this...\nReturning to the home port.",
 
 	"天祐は我に在り。艦隊泊地突入! 救出作業開始!": "We're blessed by divine grace.\nWe're now entering the anchorage!\n     Commence rescue operations!",
 	"……帰ろう。帰れば、また来ることができる。": "Let's turn back now...\nWe will be able to come back if we do so.",
