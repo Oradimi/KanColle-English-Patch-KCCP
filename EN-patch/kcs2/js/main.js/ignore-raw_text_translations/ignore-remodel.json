@@ -4,6 +4,7 @@
 
 	"展開できる装備の余剰がありません。": "There is not enough equipment left.",
 	"展開先が運用不能な装備があります。": "Some equipment cannot be used here.",
+	"展開先の装備スロットが足りません。": "There aren't enough slots on this ship.",
 
 	"「改装設計図」が": "Not enough",
 	"足りません。": " Blueprints.",

@@ -44,3 +44,8 @@ Get-ChildItem *.psd | %{Rename-Item $_ -NewName ('duty_main_{0:D3}.psd' -f $i++)
 
 Ruler size:
 235x47
+
+Git instructions
+Before commit: git add ./
+git diff --staged --name-status > diff.txt
+Then run version file builder
