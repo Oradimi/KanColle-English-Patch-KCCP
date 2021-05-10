@@ -645,6 +645,14 @@
 	"矢矧改二乙": "Yahagi Kai Ni B",
 	"龍鳳改二戊": "Ryuuhou Kai Ni E",
 	"龍鳳改二": "Ryuuhou Kai Ni",
+	"桃": "Momo",
+	"桃改": "Momo Kai",
+	"巻波": "Makinami",
+	"巻波改": "Makinami Kai",
+	"伊203": "I-203",
+	"伊203改": "I-203 Kai",
+	"Northampton": "Northampton",
+	"Northampton改": "Northampton Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -806,6 +814,9 @@
 	"潜水棲姫改II": "Submarine Princess Kai B",
 	"深海竹棲姫": "Abyssal Bamboo Princess",
 	"深海竹棲姫-壊": "Abyssal Bamboo Princess (Damaged)",
+	"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
+	"ルンガ沖重巡棲姫-壊": "Lunga Point Heavy Cruiser Princess (Damaged)",
+	"重巡リ級II": "Ri-Class Heavy Cruiser B",
 
 	"dummy": "forNoComma"
 }

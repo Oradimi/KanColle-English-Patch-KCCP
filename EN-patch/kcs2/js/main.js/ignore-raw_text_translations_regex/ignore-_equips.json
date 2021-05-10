@@ -184,6 +184,8 @@
 	"35\\.6cm連装砲改二(×|」)": "35.6cm Kai Ni Twin...$1",
 	"13号対空電探改(×|」)": "T13 Kai Air Radar$1",
 	"艦隊司令部施設(×|」)": "Fleet Command Facility$1",
+	"遊撃部隊 艦隊司令部(×|」)": "Striking Force Fleet...$1",
+	"精鋭水雷戦隊 司令部(×|」)" : "Elite Torpedo Squadron...$1",
 	"熟練艦載機整備員(×|」)": "Sk. Carrier-based Aircraft...$1",
 	"夜間作戦航空要員(×|」)": "Night Operations Aviation...$1",
 	"夜間作戦航空要員\\+熟練甲板員(×|」)": "(Sk. Deck Hands) Night...$1",
@@ -267,7 +269,6 @@
 	"九六式陸攻(×|」)": "T96 Land-based Attack...$1",
 	"一式陸攻(×|」)": "T1 Land-based Attack...$1",
 	"一式陸攻\\(野中隊\\)(×|」)": "T1 (Nonaka Squad.)...$1",
-	"SOC Seagull(×|」)": "SOC Seagull$1",
 	"OS2U(×|」)": "OS2U$1",
 	"FM-2(×|」)": "FM-2$1",
 	"S9 Osprey(×|」)": "S9 Osprey$1",
@@ -369,7 +370,6 @@
 	"試製東海(×|」)": "Prototype Toukai$1",
 	"東海\\(九〇一空\\)(×|」)": "Toukai (901 Air Group)$1",
 	"紫電改四(×|」)": "Shiden Kai 4$1",
-	"遊撃部隊 艦隊司令部(×|」)": "Striking Force Fleet...$1",
 	"北方迷彩\\(\\+北方装備\\)(×|」)": "Arctic Camo. (+ Arctic...$1",
 	"彩雲\\(偵四\\)(×|」)": "Saiun (4th Recon)$1",
 	"紫電改\\(三四三空\\) 戦闘301(×|」)": "Shiden Kai (343rd Air...$1",
@@ -414,6 +414,8 @@
 	"Do 217 K-2\\+Fritz-X(×|」)": "Do 217 K-2 + Fritz-X$1",
 	"四式重爆 飛龍(×|」)": "T4 Hiryuu Heavy Bomber$1",
 	"四式重爆 飛龍\\(熟練\\)(×|」)": "T4 (Sk.) Hiryuu Heavy...$1",
+	"SOC Seagull(×|」)": "SOC Seagull$1",
+	"SO3C Seamew改(×|」)" : "SO3C Seamew Kai$1",
 
 	"dummy": "forNoComma"
 }
