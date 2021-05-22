@@ -15,7 +15,7 @@ It also supports raw text patching, such as ship names, quests, flavor text etc.
 [Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.04-3.05)
 
 ##### How it works
-Unlike other patching methods like MITM or POI's "My Cache" folder,\
+Unlike other patching methods like MITM, POI's "My Cache" folder or ShimakazeGo's "Cache Mode hack",\
 KCCacheProxy compares the original sprites with the sprites in sprite sheets,\
 and injects the patched resources into these sprite sheets on the fly.\
 That means patches using this method will not break after updates to the game.\
@@ -45,24 +45,40 @@ and all the others in the Discord server for regularly suggesting\
 new things to fix or translate in the patch.
 
 ## Instructions
-You need KCCacheProxy set up to install this mod!
-Follow the guide below, or within the [English Patch Discord](https://discord.gg/krMeMKB), to set it up.\
-I recommend using Option B to use the patch, as it makes loading times instantly significantly faster.
+*(Please refer to the instructions in the #how-to-play-kc channel of the* *[Discord server](https://discord.gg/krMeMKB)* *instead if you're new to the game)*
+
+You need KCCacheProxy set up to install this mod!\
+Get into the Discord server, or follow this guide below to install it. I recommend going with Option B.\
 https://github.com/planetarian/KCDocumentation/blob/master/KCCacheProxy.md
 
-If you don't know how to use Git bash, download the master (green button, download the zip), and extract it anywhere.\
-*If you know how to use Git bash, clone the repository of the patch.*\
-To update, remove the patch from KCCacheProxy and repeat the entire process described here and below.
+##### Installation
+Once KCCacheProxy is set up, download the master (green button, download the zip), and extract it anywhere.\
+*If you're using Git, simply clone the repository of the patch on your computer using your preferred version of Git.*
 
-Use KCCacheProxy (right click in the tray) to add the mod by checking "Enable assets modifier",\
-saving, then clicking on "Add a patcher". From there, select the "EN-patch.mod.json" file inside of the master folder.\
-*To update, just pull and "Reload mod data" if you're using Git bash.*
+Use KCCacheProxy (right click in the task bar tray, bottom right) to add the mod\
+by checking "Enable assets modifier", saving, then clicking on "Add a patcher".\
+From there, select the "EN-patch.mod.json" file inside of the master folder.
 
-Don't forget to close KanColle and clear your browser cache for the first installation, and each time you want to update!\
+If you've downloaded the full cache dump, you can additionally click\
+on "Pre-patch ALL assets" to make the game faster.\
+Be sure to wait for everything to be done.
+
+*Cache Clear*\
+If it is running, close KanColle, and clear your browser's cache.\
 Be sure to select all time cache rather than last hour, and only select the relevant option.\
-*On Chrome, hit Ctrl+Shift+Del, choose "All time" on "Period", and in the "General" tab,*\
-*check __only__ "Images and files in cache", and delete.*\
-If some assets still aren't patched, repeat the process until satisfaction.
+*On Chrome, hit Ctrl+Shift+Del, choose "All time" on "Period", and in the "General" tab,\
+check **only** "Images and files in cache", and delete.*\
+If some assets still aren't patched, repeat the process until satisfaction. You're done!
 
-*To disable raw text patching (ship names etc.), open the "EN-patch.mod.json" file and*\
-*replace `"requireScripts": true,` with `"requireScripts": false,`. Don't forget to "Reload mod data"!*
+##### Updating
+Go into your English Patch folder, and double-click on "quick_updater_v0.2.1".\
+Let the program do its thing, then close it.\
+*If you're using Git, just pull from the repo.*
+
+Open KCCacheProxy (right click in the task bar tray, bottom right), click on "Reload mod data",\
+and clear your browser cache (see above for the cache clear instructions).
+
+##### Additional note
+*To disable raw text patching (ship names etc.), open the "EN-patch.mod.json" file\
+and replace `"requireScripts": true,` with `"requireScripts": false,`.\
+Don't forget to "Reload mod data"!*

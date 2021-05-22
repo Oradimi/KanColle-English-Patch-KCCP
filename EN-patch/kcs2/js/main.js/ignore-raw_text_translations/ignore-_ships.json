@@ -653,6 +653,11 @@
 	"伊203改": "I-203 Kai",
 	"Northampton": "Northampton",
 	"Northampton改": "Northampton Kai",
+	"涼波": "Suzunami",
+	"涼波改": "Suzunami Kai",
+	"宗谷": "Souya",
+	"Honolulu": "Honolulu",
+	"Honolulu改": "Honolulu Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -817,6 +822,9 @@
 	"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
 	"ルンガ沖重巡棲姫-壊": "Lunga Point Heavy Cruiser Princess (Damaged)",
 	"重巡リ級II": "Ri-Class Heavy Cruiser B",
+	"軽巡新棲姫": "New Light Cruiser Princess",
+	"軽巡新棲姫-壊": "New Light Cruiser Princess (Damaged)",
+	"輸送ワ級II": "Wa-Class Transport Ship B",
 
 	"dummy": "forNoComma"
 }

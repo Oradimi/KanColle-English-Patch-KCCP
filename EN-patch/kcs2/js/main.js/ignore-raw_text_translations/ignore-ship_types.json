@@ -23,6 +23,9 @@
 	"工作艦 ": "AR ",
 	"潜水母艦 ": "AS ",
 	"補給艦 ": "AO ",
+	"特務艦 ": "AGS ",
+	"灯台補給船 ": "AGL ",
+	"南極観測船 ": "AGB ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -48,11 +51,19 @@
 	"工作艦": "AR",
 	"潜水母艦": "AS",
 	"補給艦": "AO",
+	"特務艦": "AGS",
+	"灯台補給船": "AGL",
+	"南極観測船": "AGB",
 
 	"高速戦艦": "FBB",
-	"新型戦艦": "New Type BB",
+	"新型戦艦": "New Type Battleship",
 	"丁型駆逐艦": "Type-D Destroyer",
 	"半壊丁型駆逐艦": "Half-Broken Type-D Destroyer",
+	"物資集積地": "Supply Depot",
+	"司令潜水艦": "Command Submarine",
+	"任務部隊沈没巡洋艦": "Task Force Sunken Cruiser",
+	"航空基地": "Air Base",
+	"大型軽巡洋艦": "Large-scaled Light Cruiser",
 
 	"dummy": "forNoComma"
 }

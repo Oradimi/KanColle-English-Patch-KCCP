@@ -372,7 +372,7 @@
 	"紫電改四(×|」)": "Shiden Kai 4$1",
 	"北方迷彩\\(\\+北方装備\\)(×|」)": "Arctic Camo. (+ Arctic...$1",
 	"彩雲\\(偵四\\)(×|」)": "Saiun (4th Recon)$1",
-	"紫電改\\(三四三空\\) 戦闘301(×|」)": "Shiden Kai (343rd Air...$1",
+	"紫電改\\(三四三空\\) 戦闘301(×|」)": "Shiden Kai (343 Air...$1",
 	"SK レーダー(×|」)": "SK Radar$1",
 	"SK\\+SG レーダー(×|」)": "SK+SG Radar$1",
 	"SG レーダー\\(初期型\\)(×|」)": "SG Radar (Initial Model)$1",
@@ -416,6 +416,9 @@
 	"四式重爆 飛龍\\(熟練\\)(×|」)": "T4 (Sk.) Hiryuu Heavy...$1",
 	"SOC Seagull(×|」)": "SOC Seagull$1",
 	"SO3C Seamew改(×|」)" : "SO3C Seamew Kai$1",
+	"零式艦戦21型\\(台南空\\)(×|」)": "Type 0 Fighter Model 21 (Tainan Air Group)$1",
+	"零式艦戦32型\\(台南空\\)(×|」)": "Type 0 Fighter Model 32 (Tainan Air Group)$1",
+	"零式艦戦22型\\(251空\\)(×|」)": "Type 0 Fighter Model 22 (251 Air Group)$1",
 
 	"dummy": "forNoComma"
 }
