@@ -17,8 +17,8 @@
 
 	"-家具屋　特別注文-": "-Furniture Special Order-",
 
-	"が現在装備している": "will unequip this",
-	"に装備します": "will equip this",
+	"が現在装備している": "\nwill unequip this",
+	"に装備します": "\nwill equip this",
 
 	"dummy": "forNoComma"
 }
