@@ -1,5 +1,6 @@
 # Simple updater to update the English Patch.
 $ProgressPreference = 'SilentlyContinue';
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 Write-Host "Welcome to the KanColle English Patch quick updater!";
 Write-Host "You can use this updater to update your patch from v3.01.0 to any more recent version.";
