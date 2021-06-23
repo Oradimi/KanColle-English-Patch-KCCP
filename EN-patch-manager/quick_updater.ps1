@@ -1,6 +1,6 @@
 # Simple updater to update the English Patch.
 $ProgressPreference = 'SilentlyContinue';
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
 
 Write-Host "Welcome to the KanColle English Patch quick updater!";
 Write-Host "You can use this updater to update your patch from v3.01.0 to any more recent version.";
@@ -13,7 +13,7 @@ Write-Host "";
 Write-Host "Updating version.json...";
 $pwd = Get-Location | select -ExpandProperty Path; # Gets current path. Note will only work if the script is ran from the master directory.
 $pwd = $pwd.replace("\","/") + "/";
-$gitPath = "https://raw.githubusercontent.com/InochiPM/KanColle-English-Patch-KCCP/master/";
+$gitPath = "https://raw.githubusercontent.com/Oradimi/KanColle-English-Patch-KCCP/master/";
 Invoke-WebRequest ($gitPath + "version.json") -O ($pwd + "version.json"); # Gets the file containing diff info # Gets the file containing diff info
 Write-Host "";
 Write-Host "Parsing contents...";
@@ -119,4 +119,4 @@ Write-Host "within KCCacheProxy, and clear your browser cache!";
 Write-Host "For Chrome, hit Ctrl+Shift+Del in Chrome,";
 Write-Host "select 'All time' and only the last box.";
 Write-Host "Press any key to close...";
-$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown'); 
+$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');

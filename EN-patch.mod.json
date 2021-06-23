@@ -1,9 +1,9 @@
 {
   "name": "KanColle English Patch",
-  "version": "3.11.3",
+  "version": "3.12.0",
   "authors": ["Inochi-PM, Oradimi, Tibo"],
   "requireScripts": true,
-  "url": "https://github.com/InochiPM/KanColle-English-Patch-KCCP",
-  "updateUrl": "https://raw.githubusercontent.com/InochiPM/KanColle-English-Patch-KCCP/master/EN-patch.mod.json",
-  "downloadUrl": "https://github.com/InochiPM/KanColle-English-Patch-KCCP/archive/master.zip"
+  "url": "https://github.com/Oradimi/KanColle-English-Patch-KCCP",
+  "updateUrl": "https://raw.githubusercontent.com/Oradimi/KanColle-English-Patch-KCCP/master/EN-patch.mod.json",
+  "downloadUrl": "https://github.com/Oradimi/KanColle-English-Patch-KCCP/archive/master.zip"
 }
