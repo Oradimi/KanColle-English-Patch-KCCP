@@ -71,12 +71,13 @@ check **only** "Images and files in cache", and delete.*\
 If some assets still aren't patched, repeat the process until satisfaction. You're done!
 
 ##### Updating
-Go into your English Patch folder, and double-click on "quick_updater_v0.2.1".\
-Let the program do its thing, then close it.\
-*If you're using Git, just pull from the repo.*
+Go into your English Patch folder, and double-click on "quick_updater_v0.3.0".\
+Let the program do its thing, then close it. If you're using Chrome, you're done!\
+If you're not, be sure to clear the cache in the browser you're using to play KanColle!
 
-Open KCCacheProxy (right click in the task bar tray, bottom right), click on "Reload mod data",\
-and clear your browser cache (see above for the cache clear instructions).
+If you're using Git, pull from the repo, then open KCCacheProxy\
+(right click in the task bar tray, bottom right), click on "Reload mod data",\
+and clear your browser cache (see above for the Chrome cache clear instructions).
 
 ##### Additional note
 *To disable raw text patching (ship names etc.), open the "EN-patch.mod.json" file\
