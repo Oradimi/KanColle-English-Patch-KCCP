@@ -662,6 +662,7 @@
 	"(\n|^)軽巡洋艦 (「?)Honolulu(」?)(\n|$)": "$1CL $2Honolulu$3$4",
 	"(\n|^)軽巡洋艦 (「?)Honolulu改(」?)(\n|$)": "$1CL $2Honolulu Kai$3$4",
 	"(\n|^)駆逐艦 (「?)高波改二(」?)(\n|$)": "$1DD $2Takanami Kai Ni$3$4",
+	"(\n|^)軽空母 (「?)Gambier Bay Mk.II(」?)(\n|$)": "$1CVL $2Gambier Bay Mk.II$3$4",
 
 	"dummy": "forNoComma"
 }
