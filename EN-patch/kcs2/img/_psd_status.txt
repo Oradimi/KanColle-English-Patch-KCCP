@@ -1,0 +1,22 @@
+album - complete
+arsenal - needs remaster and separation
+battle - more details in the folder
+battle_result - complete (guide might need instructions)
+common - more details in the folder
+duty - complete
+interior - needs remaster
+item - more details in the folder
+jukebox - complete
+map - more details in the folder
+minigame - complete
+organize - more details in the folder
+port - more details in the folder
+record - psds missing
+remodel - more details in the folder
+repair - complete
+revamp - more details in the folder
+sally - more details in the folder
+supply - needs separation
+title - needs separation + psds missing
+tutorial - needs complete overhaul (all psds missing)
+wedding - complete (guide needs explanation)

@@ -1,0 +1,2 @@
+Each psd contains the necessary layers for two pngs:
+the odd and the even numbered.

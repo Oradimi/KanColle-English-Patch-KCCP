@@ -1,0 +1,9 @@
+bg_ - complete
+area_icon - complete
+event - special case
+expedition - complete
+main - needs partial remaster and separation
+misc - needs remaster and separation
+selectable_reward - needs remaster and separation
+sort - psds missing
+error - complete

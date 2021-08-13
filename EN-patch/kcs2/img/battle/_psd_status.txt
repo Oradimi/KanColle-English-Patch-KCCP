@@ -1,0 +1,10 @@
+airunit - complete
+cutin_anti_air - complete
+cutin_damage - needs instructions
+cutin_gouchin - needs remaster and separation
+jin_ - complete
+jin - complete
+main - complete (Do not pursue and Night Battle need remaster)
+night - complete (guide might need instructions)
+telop_ - complete
+zrk - complete (might need a guide with instructions)

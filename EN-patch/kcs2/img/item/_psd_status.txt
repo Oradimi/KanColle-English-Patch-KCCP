@@ -1,0 +1,15 @@
+common - complete
+fshop - complete
+ilist - complete
+ilist_hishimochi - complete
+ilist_iwashi - complete
+ilist_medal - complete
+ilist_medal_kou - complete
+ilist_present_box - complete
+ilist_sanma - complete
+ilist_setsubun - complete
+ishop - complete
+menu_1 - complete
+menu_2 - complete
+menu_3 - from base game assets (needs psd for other languages)
+payitemicon - complete

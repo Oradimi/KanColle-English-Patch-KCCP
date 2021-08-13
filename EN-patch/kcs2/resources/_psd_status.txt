@@ -1,0 +1,6 @@
+area - complete
+map - complete
+slot - complete (updated frequently by devs!)
+useitem - complete
+world - complete
+worldselect - complete (might need a partial remaster)
