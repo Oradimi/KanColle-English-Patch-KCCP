@@ -1,5 +1,22 @@
 {
-	
+	"MA3作戦": "Operation MA3",
+	"アレクサンドリア沖/クレタ島沖": "Coast off Alexandria/Crete",
+	"スエズ運河より地中海方面へ\n進出！周辺海域を制圧しつつ\nマルタ島への増援輸送作戦を\n実施せよ！特務艦隊、出撃！": "Advance from the Suez\nCanal to the\nMediterranean! Conduct\na reinforcement transport\noperation to Malta while\ncontrolling the surrounding\nwaters! Fleet, sortie!",
+
+	"カラブリア岬沖海戦": "Battle of Calabria",
+	"地中海/マルタ島沖/ティレニア海": "Mediterranean Sea/Coast off Malta/Tyrrhenian Sea",
+	"地中海の要衝マルタ島へ基地\n航空隊を進出し、これと協同\nして地中海の敵港湾拠点及び\n敵水上艦隊主力を撃滅せよ！": "",
+
+	"これよりスエズ運河から、地中海に！": "We're now going entering the\nMediterranean Sea from the Suez Canal!",
+	"付近に敵増援部隊を認む。警戒を厳に！": "We have enemy reinforcements\nin the vicinity. Remain vigilant!",
+	"艦隊は、紅海よりスエズ運河に！": "The Fleet is going from the\nRed Sea to the Suez Canal!",
+	"Force H、出撃する! 敵港湾拠点を叩き、敵地中海\n艦隊主力第1及び第2艦隊を捜索、これを撃滅せよ!": "Force H, sortie! Strike the enemy harbor point, and\nsearch and destroy the enemy's 1st and 2nd\n     Mediterranean Fleets!",
+	"対空、対水上警戒を厳とせよ！\n合戦用意！ 全艦隊、戦闘態勢をとれ！": "Anti-aircraft and anti-surface alert! Prepare\nfor battle! All ships, take battle stations!",
+	"敵影見ず…されど敵艦隊らしき通信を傍受せり。\n警戒を厳に。周辺海域捜索の要を認む！": "No sign of the enemy, but we have intercepted a\ntransmission that appears to be from them.\nRemain vigilant. We must search the surroundings!",
+	"最前線マルタ島です。周辺警戒を厳に！": "This is Malta, the front line.\nStay alert!",
+
+	"港湾要塞都市": "Fortress Harbour City",
+	"改装弩級戦艦": "Improved Dreadnought BB",
 
 	"dummy": "forNoComma"
 }

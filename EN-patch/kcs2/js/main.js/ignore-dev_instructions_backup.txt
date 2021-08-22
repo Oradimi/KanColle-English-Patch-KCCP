@@ -46,6 +46,16 @@ Ruler size:
 235x47
 
 Git instructions
-Before commit: git add ./
+> commit and push dev branch as normal.
+> before committing main, still on dev branch:
+git add .
+git reset -- *psd *txt
 git diff --staged --name-status > diff.txt
-Then run version file builder
+> run version file builder
+git checkout main
+git checkout dev *png
+git checkout dev *json
+git checkout dev EN-patch/kcs2/js/main.js/ignore-raw_text_translations/*json
+git checkout dev EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/*json
+> check for files that shouldn't be there
+> commit and push main branch
