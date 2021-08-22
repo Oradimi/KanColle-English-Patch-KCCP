@@ -1,0 +1,2 @@
+001 and 002 are both in the 001 psd
+003 and 004 are reduced in size manually using Windows built-in resize

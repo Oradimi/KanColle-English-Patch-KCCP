@@ -426,6 +426,13 @@
 	"零式艦戦21型(台南空)": "Type 0 Fighter Model 21 (Tainan Air Group)",
 	"零式艦戦32型(台南空)": "Type 0 Fighter Model 32 (Tainan Air Group)",
 	"零式艦戦22型(251空)": "Type 0 Fighter Model 22 (251 Air Group)",
+	"305mm/46 連装砲": "305mm/46 Twin Gun Mount",
+	"305mm/46 三連装砲": "305mm/46 Triple Gun Mount",
+	"320mm/44 連装砲": "320mm/44 Twin Gun Mount",
+	"320mm/44 三連装砲": "320mm/44 Triple Gun Mount",
+	"65mm/64 単装速射砲改": "65mm/64 Kai Single Rapid Fire Gun Mount",
+	"SM.79": "SM.79",
+	"SM.79 bis": "SM.79 bis",
 
 	"dummy": "forNoComma"
 }

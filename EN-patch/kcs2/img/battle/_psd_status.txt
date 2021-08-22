@@ -4,7 +4,7 @@ cutin_damage - needs instructions
 cutin_gouchin - needs remaster and separation
 jin_ - complete
 jin - complete
-main - complete (Do not pursue and Night Battle need remaster)
+main - complete
 night - complete (guide might need instructions)
 telop_ - complete
 zrk - complete (might need a guide with instructions)

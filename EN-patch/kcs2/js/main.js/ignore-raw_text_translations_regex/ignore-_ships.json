@@ -663,6 +663,11 @@
 	"(\n|^)軽巡洋艦 (「?)Honolulu改(」?)(\n|$)": "$1CL $2Honolulu Kai$3$4",
 	"(\n|^)駆逐艦 (「?)高波改二(」?)(\n|$)": "$1DD $2Takanami Kai Ni$3$4",
 	"(\n|^)軽空母 (「?)Gambier Bay Mk.II(」?)(\n|$)": "$1CVL $2Gambier Bay Mk.II$3$4",
+	"(\n|^)潜水母艦 (「?)長鯨(」?)(\n|$)": "$1AS $2Chougei$3$4",
+	"(\n|^)潜水母艦 (「?)長鯨改(」?)(\n|$)": "$1AS $2Chougei Kai$3$4",
+	"(\n|^)戦艦 (「?)Conte di Cavour(」?)(\n|$)": "$1BB $2Conte di Cavour$3$4",
+	"(\n|^)戦艦 (「?)Conte di Cavour改(」?)(\n|$)": "$1BB $2Conte di Cavour Kai$3$4",
+	"(\n|^)戦艦 (「?)Conte di Cavour nuovo(」?)(\n|$)": "$1BB $2Conte di Cavour Nuovo$3$4",
 
 	"dummy": "forNoComma"
 }

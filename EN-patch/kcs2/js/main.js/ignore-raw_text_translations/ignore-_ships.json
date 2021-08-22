@@ -660,6 +660,11 @@
 	"Honolulu改": "Honolulu Kai",
 	"高波改二": "Takanami Kai Ni",
 	"Gambier Bay Mk.II": "Gambier Bay Mk.II",
+	"長鯨": "Chougei",
+	"長鯨改": "Chougei Kai",
+	"Conte di Cavour": "Conte di Cavour",
+	"Conte di Cavour改": "Conte di Cavour Kai",
+	"Conte di Cavour nuovo": "Conte di Cavour Nuovo",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -731,6 +736,8 @@
 	"戦艦夏姫": "Summer Battleship Princess",
 	"港湾夏姫": "Summer Harbor Princess",
 	"港湾夏姫-壊": "Summer Harbor Princess (Damaged)",
+	"港湾夏姫II": "Summer Harbor Princess B",
+	"港湾夏姫II-壊": "Summer Harbor Princess B (Damaged)",
 	"重巡夏姫": "Summer Heavy Cruiser Princess",
 	"水母水姫": "Seaplane Tender Water Princess",
 	"深海海月姫": "Abyssal Jellyfish Princess",
@@ -827,6 +834,8 @@
 	"軽巡新棲姫": "New Light Cruiser Princess",
 	"軽巡新棲姫-壊": "New Light Cruiser Princess (Damaged)",
 	"輸送ワ級II": "Wa-Class Transport Ship B",
+	"地中海弩級水姫": "Medit. Dreadnought Water Princess",
+	"地中海弩級水姫-壊": "Medit. Dreadnought Water Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }
