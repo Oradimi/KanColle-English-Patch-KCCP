@@ -665,6 +665,10 @@
 	"Conte di Cavour": "Conte di Cavour",
 	"Conte di Cavour改": "Conte di Cavour Kai",
 	"Conte di Cavour nuovo": "Conte di Cavour Nuovo",
+	"第三〇号海防艦": "Kaiboukan No.30",
+	"第三〇号海防艦改": "Kaiboukan No.30 Kai",
+	"Victorious": "Victorious",
+	"Victorious改": "Victorious Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -771,6 +775,8 @@
 	"潜水新棲姫 バカンスmode": "New Submarine Princess Vacation Mode",
 	"集積地棲姫 バカンスmode": "Supply Depot Princess Vacation Mode",
 	"集積地棲姫 バカンスmode-壊": "Supply Depot Princess Vacation Mode (Damaged)",
+	"集積地棲姫II バカンスmode": "Supply Depot Princess B Vacation Mode",
+	"集積地棲姫II バカンスmode-壊": "Supply Depot Princess B Vacation Mode (Damaged)",
 	"泊地水鬼 バカンスmode": "Anchorage Water Demon Vacation Mode",
 	"護衛独還姫": "German Escort Princess",
 	"護衛独還姫-壊": "German Escort Princess (Damaged)",
@@ -836,6 +842,12 @@
 	"輸送ワ級II": "Wa-Class Transport Ship B",
 	"地中海弩級水姫": "Medit. Dreadnought Water Princess",
 	"地中海弩級水姫-壊": "Medit. Dreadnought Water Princess (Damaged)",
+	"深海地中海棲姫\nバカンスmode": "Abyssal Mediterranean Princess\nVacation Mode",
+	"深海地中海棲姫 バカンスmode": "Abyssal Mediterranean Princess Vacation Mode",
+	"深海地中海棲姫\nバカンスmode-壊": "Abyssal Mediterranean Princess\nVacation Mode (Damaged)",
+	"深海地中海棲姫 バカンスmode-壊": "Abyssal Mediterranean Princess Vacation Mode (Damaged)",
+	"欧州装甲空母棲姫": "European Armored Carrier Princess",
+	"欧州装甲空母棲姫-壊": "European Armored Carrier Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

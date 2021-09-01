@@ -117,6 +117,7 @@
 	"大発動艇(八九式中戦車&陸戦隊)": "Daihatsu (T89 Medium Tank & Landing Force) Landing Craft",
 	"特大発動艇": "Toku Daihatsu Landing Craft",
 	"特大発動艇+戦車第11連隊": "Toku Daihatsu (w/ 11th Tank Regiment) Landing Craft",
+	"大発動艇(II号戦車/北アフリカ仕様)": "Daihatsu Landing Craft (Panzer II/North African Specification)",
 	"M4A1 DD": "M4A1 DD",
 	"装甲艇(AB艇)": "Soukoutei (Armored Boat Class)",
 	"武装大発": "Armed Daihatsu",
@@ -433,6 +434,10 @@
 	"65mm/64 単装速射砲改": "65mm/64 Kai Single Rapid Fire Gun Mount",
 	"SM.79": "SM.79",
 	"SM.79 bis": "SM.79 bis",
+	"SM.79 bis(熟練)": "SM.79 bis (Skilled)",
+	"Corsair Mk.II": "Corsair Mk.II",
+	"Corsair Mk.II(Ace)": "Corsair Mk.II (Ace)",
+	"試製 陣風": "Prototype Jinpuu",
 
 	"dummy": "forNoComma"
 }
