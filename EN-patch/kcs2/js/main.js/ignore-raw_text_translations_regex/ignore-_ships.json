@@ -668,6 +668,10 @@
 	"(\n|^)戦艦 (「?)Conte di Cavour(」?)(\n|$)": "$1BB $2Conte di Cavour$3$4",
 	"(\n|^)戦艦 (「?)Conte di Cavour改(」?)(\n|$)": "$1BB $2Conte di Cavour Kai$3$4",
 	"(\n|^)戦艦 (「?)Conte di Cavour nuovo(」?)(\n|$)": "$1BB $2Conte di Cavour Nuovo$3$4",
+	"(\n|^)海防艦 (「?)第三〇号海防艦(」?)(\n|$)": "$1DE $2Kaiboukan No.30$3$4",
+	"(\n|^)海防艦 (「?)第三〇号海防艦改(」?)(\n|$)": "$1DE $2Kaiboukan No.30 Kai$3$4",
+	"(\n|^)装甲空母 (「?)Victorious(」?)(\n|$)": "$1CVB $2Victorious$3$4",
+	"(\n|^)装甲空母 (「?)Victorious改(」?)(\n|$)": "$1CVB $2Victorious Kai$3$4",
 
 	"dummy": "forNoComma"
 }

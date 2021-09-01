@@ -14,6 +14,8 @@
 	"改修に成功しました！": "Improvement successful!",
 	"改修に失敗しました...。": "Improvement failed...",
 	"装備改修中…": "Improving this piece of equipment...",
+	"現在選択された装備": "The currently selected equipment:",
+	"は、これ以上の改修ができません。": "cannot be upgraded further.",
 
 	"dummy": "forNoComma"
 }
