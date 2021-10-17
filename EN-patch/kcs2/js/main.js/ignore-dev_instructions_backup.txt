@@ -46,12 +46,12 @@ Ruler size:
 235x47
 
 Git instructions
-> commit and push dev branch as normal.
-> before committing main, still on dev branch:
 git add .
 git reset -- *psd *txt
 git diff --staged --name-status > diff.txt
 > run version file builder
+> commit and push dev branch as normal
+> before committing main, still on dev branch:
 git checkout main
 git checkout dev *png
 git checkout dev *json
