@@ -518,7 +518,7 @@
 	"(\n|^)軽巡洋艦 (「?)多摩改二(」?)(\n|$)": "$1CL $2Tama Kai Ni$3$4",
 	"(\n|^)駆逐艦 (「?)文月改二(」?)(\n|$)": "$1DD $2Fumizuki Kai Ni$3$4",
 	"(\n|^)正規空母 (「?)Intrepid(」?)(\n|$)": "$1CV $2Intrepid$3$4",
-	"(\n|^)正規空母 (「?)Saratoga Mk.II Mod.2(」?)(\n|$)": "$1CV $2Saratoga Mk.II Mod.2$3$4",
+	"(\n|^)装甲空母 (「?)Saratoga Mk.II Mod.2(」?)(\n|$)": "$1CVB $2Saratoga Mk.II Mod.2$3$4",
 	"(\n|^)海防艦 (「?)日振(」?)(\n|$)": "$1DE $2Hiburi$3$4",
 	"(\n|^)海防艦 (「?)大東(」?)(\n|$)": "$1DE $2Daitou$3$4",
 	"(\n|^)改装航空戦艦 (「?)伊勢改二(」?)(\n|$)": "$1BBV (Sp.) $2Ise Kai Ni$3$4",
@@ -672,6 +672,9 @@
 	"(\n|^)海防艦 (「?)第三〇号海防艦改(」?)(\n|$)": "$1DE $2Kaiboukan No.30 Kai$3$4",
 	"(\n|^)装甲空母 (「?)Victorious(」?)(\n|$)": "$1CVB $2Victorious$3$4",
 	"(\n|^)装甲空母 (「?)Victorious改(」?)(\n|$)": "$1CVB $2Victorious Kai$3$4",
+	"(\n|^)駆逐艦 (「?)山風改二(」?)(\n|$)": "$1CVB $2Yamakaze Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)山風改二丁(」?)(\n|$)": "$1CVB $2Yamakaze Kai Ni D$3$4",
+	"(\n|^)駆逐艦 (「?)親潮改二(」?)(\n|$)": "$1CVB $2Oyashio Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
