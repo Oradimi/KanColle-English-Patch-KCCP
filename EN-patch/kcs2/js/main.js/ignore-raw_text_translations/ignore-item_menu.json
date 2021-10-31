@@ -9,5 +9,16 @@
 	"下記のチョイスが可能です。": "Select one of the following.",
 	"よろしいですか？": "Is this okay?",
 
+	"「秋刀魚」を調理します。": "Cooking Pacific Saury.",
+	"下記の調理法が選択可能です。": "You can choose one of the following recipes.",
+	"「秋刀魚」を": "Cook the Saury ",
+	"にしますか？": "?",
+	"刺身": "as Sashimi",
+	"塩焼": "with salt",
+	"蒲焼": "as Kabayaki",
+	"この調理には「秋刀魚」が3尾必要です。": "You need 3 Sauries for this cuisine.",
+	"この調理には「秋刀魚」が5尾必要です。": "You need 5 Sauries for this cuisine.",
+	"この調理には「秋刀魚」が7尾必要です。": "You need 7 Sauries for this cuisine.",
+
 	"dummy": "forNoComma"
 }
