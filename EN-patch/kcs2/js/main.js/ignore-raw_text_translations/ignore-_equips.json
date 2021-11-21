@@ -440,6 +440,10 @@
 	"Corsair Mk.II": "Corsair Mk.II",
 	"Corsair Mk.II(Ace)": "Corsair Mk.II (Ace)",
 	"試製 陣風": "Prototype Jinpuu",
+	"21inch艦首魚雷発射管6門(初期型)": "21inch (Initial Model) 6-tube Bow Torpedo Launcher",
+	"21inch艦首魚雷発射管6門(後期型)": "21inch (Late Model) 6-tube Bow Torpedo Launcher",
+	"潜水艦後部魚雷発射管4門(初期型)": "Submarine (Initial Model) 4-tube Stern Torpedo Launcher",
+	"潜水艦後部魚雷発射管4門(後期型)": "Submarine (Late Model) 4-tube Stern Torpedo Launcher",
 
 	"dummy": "forNoComma"
 }
