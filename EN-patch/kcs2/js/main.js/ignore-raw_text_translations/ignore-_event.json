@@ -1,7 +1,19 @@
 {
-	"北海道沖秋刀魚漁支援": "Saury Fishing\nSupport off Hokkaido",
-	"三陸沖/北海道根室半島沖": "Sea off Sanriku/Nemuro Peninsula in Hokkaido",
-	"大湊より、精鋭戦隊を出撃！\n三陸沖から北海道根室沖海域\nの安全を確保、秋刀魚漁支援\nを実施せよ！艦隊、抜錨ッ！": "From Ominato, sortie the\nelite squadron! Secure the\nwaters off the Sanriku coast,\nand Nemuro in Hokkaido, and\nprovide support for the saury\nfishery! Fleet, set sail!",
+	"北方近海の哨戒": "Patrolling near the\nNorthern Waters",
+	"三陸沖/北海道根室半島沖": "Sea off of Sanriku/Nemuro Peninsula in Hokkaido",
+	"大湊より、出撃！三陸沖から\n北海道根室沖の海域を哨戒、\n北方近海の安全確保を図れ！\n第百四戦隊、抜錨ッ！": "Depart from Ominato! Patrol the waters off Sanriku and Nemuro, Hokkaido, and secure the waters near the north! 104th Squadron, set sail!",
+
+	"南号作戦": "Operation Nangou",
+	"昭南方面～本土航路": "Towards Shounan/Singapore - Mainland Route",
+	"昭南(シンガポール)より日本\n本土方面に戦略物資を輸送す\nる南号作戦を実施せよ！対潜\n警戒を厳に！ヒ船団、抜錨！": "Carry out Operation Nangou to transport strategic materials from Singapore to the Japanese mainland! Stay alert for submarines! Fleet, set sail!",
+
+	"八丈島沖絶対哨戒線": "Hachijou Island Seas\nDecisive Patrol Line",
+	"八丈島沖/房総半島東方沖": "Sea off of Hachijou Island/Off East of Bōsō Peninsula",
+	"八丈島の防備を固め、同海域\n周辺の敵潜水艦を制圧！また\n呉より来援する連合艦隊と共\nに敵機動部隊群を迎撃せよ！": "Fortify the defenses of Hachijou Island and subdue the enemy submarines in the area! Also, intercept the enemy task force group with the combined fleet coming from Kure!",
+
+	"連合艦隊、出撃！対空警戒を厳に房総沖に\n前進せよ！ この海域から敵を叩き出せッ！": "Combined fleet, sortie! Proceed to the waters\noff Bōsō while staying on strict anti-aircraft\n     alert! Knock the enemy out of this area!",
+
+	"新型潜水艦": "New Model SS",
 
 	"dummy": "forNoComma"
 }

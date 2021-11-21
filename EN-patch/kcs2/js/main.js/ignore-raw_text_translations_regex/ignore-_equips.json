@@ -436,10 +436,14 @@
 	"65mm/64 単装速射砲改(×|」)": "65mm/64 Kai Single Rapid Fire Gun Mount$1",
 	"SM\\.79(×|」)": "SM.79$1",
 	"SM\\.79 bis(×|」)": "SM.79 bis$1",
-	"SM\\.79 bis\\(熟練\\)(×|」)": "SM.79 bis (Skilled)",
-	"Corsair Mk\\.II(×|」)": "Corsair Mk.II",
-	"Corsair Mk\\.II\\(Ace\\)(×|」)": "Corsair Mk.II (Ace)",
-	"試製 陣風(×|」)": "Prototype Jinpu",
+	"SM\\.79 bis\\(熟練\\)(×|」)": "SM.79 bis (Skilled)$1",
+	"Corsair Mk\\.II(×|」)": "Corsair Mk.II$1",
+	"Corsair Mk\\.II\\(Ace\\)(×|」)": "Corsair Mk.II (Ace)$1",
+	"試製 陣風(×|」)": "Prototype Jinpu$1",
+	"21inch艦首魚雷発射管6門\\(初期型\\)(×|」)": "21inch (Initial Model) 6-tube Bow Torpedo Launcher$1",
+	"21inch艦首魚雷発射管6門\\(後期型\\)(×|」)": "21inch (Late Model) 6-tube Bow Torpedo Launcher$1",
+	"潜水艦後部魚雷発射管4門\\(初期型\\)(×|」)": "Submarine (Initial Model) 4-tube Stern Torpedo Launcher$1",
+	"潜水艦後部魚雷発射管4門\\(後期型\\)(×|」)": "Submarine (Late Model) 4-tube Stern Torpedo Launcher$1",
 
 	"dummy": "forNoComma"
 }
