@@ -1,6 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 *.psd
+*.txt
 EN-patch/kcs2/img/battle_result/battle_result_main.png/_outdated/patched/battle_result_main_031.png
 EN-patch/kcs2/img/battle_result/battle_result_main.png/_outdated/patched/battle_result_main_030.png
 EN-patch/kcs2/img/battle_result/battle_result_main.png/_outdated/patched/battle_result_main_029.png

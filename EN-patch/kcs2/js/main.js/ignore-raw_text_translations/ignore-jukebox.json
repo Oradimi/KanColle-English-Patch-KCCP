@@ -60,6 +60,10 @@
 	"♪「佐世保の時雨」": "♪「Shigure of Sasebo」",
 	"♪「頌春令和の海」": "♪「The Sea of the Reiwa New Year」",
 	"♪「西村艦隊の戦い」": "♪「Battle of the Nishimura Fleet」",
+	"♪「ペデスタル作戦」": "♪「Operation Pedestal」",
+	"♪「Trick or Fleet!」": "♪「Trick or Fleet!」",
+	"♪「根室沖の輝き」": "♪「Glimmer of the Coast of Nemuro」",
+	"♪「Fleet for the end of the year」": "♪「Fleet for the end of the year」",
 	
 	"母港": "Home Port",
 	"連合艦隊旗艦": "Combined Fleet Flagship",
@@ -112,6 +116,10 @@
 	"佐世保の時雨": "Shigure of Sasebo",
 	"頌春令和の海": "The Sea of the Reiwa New Year",
 	"西村艦隊の戦い": "Battle of the Nishimura Fleet",
+	"ペデスタル作戦": "Operation Pedestal",
+	"Trick or Fleet!": "Trick or Fleet!",
+	"根室沖の輝き": "Glimmer of the Coast of Nemuro",
+	"Fleet for the end of the year": "Fleet for the end of the year",
 
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
 	"「連合艦隊旗艦」　リクエスト中♪": "「Combined Fleet Flagship」currently playing ♪",
@@ -164,6 +172,10 @@
 	"「佐世保の時雨」　リクエスト中♪": "「Shigure of Sasebo」currently playing ♪",
 	"「頌春令和の海」　リクエスト中♪": "「The Sea of the Reiwa New Year」currently playing ♪",
 	"「西村艦隊の戦い」　リクエスト中♪": "「Battle of the Nishimura Fleet」currently playing ♪",
+	"「ペデスタル作戦」　リクエスト中♪": "「Operation Pedestal」currently playing ♪",
+	"「Trick or Fleet!」　リクエスト中♪": "「Trick or Fleet!」currently playing ♪",
+	"「根室沖の輝き」　リクエスト中♪": "「Glimmer of the Coast of Nemuro」currently playing ♪",
+	"「Fleet for the end of the year」　リクエスト中♪": "「Fleet for the end of the year」currently playing ♪",
 
 	"dummy": "forNoComma"
 }
