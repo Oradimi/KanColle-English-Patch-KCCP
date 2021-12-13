@@ -18,5 +18,5 @@ revamp - more details in the folder
 sally - more details in the folder
 supply - needs separation
 title - needs separation + psds missing
-tutorial - needs complete overhaul (all psds missing)
+tutorial - complete (might fine tune later)
 wedding - complete (guide needs explanation)

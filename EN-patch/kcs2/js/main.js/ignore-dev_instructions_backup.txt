@@ -19,7 +19,7 @@ Object.defineProperty(PIXI.Text.prototype, "text", {  get() { return this._text;
 
 json match to trim text and add (... $1",)
 Find	^(.*": "[^\n]{18,}?)(?!\s×",) .*",$
-Replace	$1... \$1",
+Replace	$1...\$1",
 then for the short ones:
 Find	([^×])",
 Replace	$1 ×",
