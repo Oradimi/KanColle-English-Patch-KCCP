@@ -172,5 +172,10 @@
 	"マラッカ海峡を抜けて": "Passing Through\nthe Strait of Malacca",
 	"精強な重巡及び駆逐艦を中核\nとする小艦隊でマラッカ海峡\nを突破する。ペナン島沖の敵\n戦力を撃破して、前進せよ！": "Break through the Strait of\nMalacca with a small fleet of\nstrong heavy cruisers and\ndestroyers as its core. Defeat\nthe enemy forces off Penang\nIsland and advance!",
 
+	"map_code": "7-4",
+	"昭南本土航路": "Shounan-Mainland Route",
+	"ヒ船団海上護衛作戦": "Hi Convoy Maritime\nEscort Operation",
+	"南方から本土方面に重要資源を\n輸送するヒ船団。同船団を敵潜\n及び敵機動部隊から護る海上護\n衛作戦を発動する！抜錨せよ！": "The Hi Convoy transports vital\nresources from the south to\nthe mainland. Protect the fleet\nfrom enemy submarines and\ntask forces by launching a\nmaritime escort operation!\nWeigh anchor!",
+
 	"dummy": "forNoComma"
 }
