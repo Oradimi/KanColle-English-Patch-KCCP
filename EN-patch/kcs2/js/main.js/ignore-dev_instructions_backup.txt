@@ -53,9 +53,6 @@ git diff --staged --name-status > diff.txt
 > commit and push dev branch as normal
 > before committing main, still on dev branch:
 git checkout main
-git checkout dev *png
-git checkout dev *json
-git checkout dev EN-patch/kcs2/js/main.js/ignore-raw_text_translations/*json
-git checkout dev EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/*json
+git checkout --no-overlay dev *png *json
 > check for files that shouldn't be there
 > commit and push main branch
