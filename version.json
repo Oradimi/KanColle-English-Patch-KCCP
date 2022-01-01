@@ -5447,5 +5447,15 @@
       "EN-patch/kcs2/resources/slot/remodel/449_1543.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/449_1543.png/patched.png"
     ]
+  },
+  {
+    "version": "3.17.1",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json"
+    ]
   }
 ]
