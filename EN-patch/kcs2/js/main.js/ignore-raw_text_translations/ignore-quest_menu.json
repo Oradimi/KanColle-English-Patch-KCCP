@@ -3,8 +3,12 @@
 	"同時に": "You can undertake up to ",
 	"個まで遂行することが可能です。": " quests at a time.",
 
+	"南西海域に「基地航空隊」を展開中…": "Deploying the \"Land-based Aerial Squadrons\"\nto the Southwestern Area...",
+	"中部海域に「基地航空隊」を展開中…": "Deploying the \"Land-based Aerial Squadrons\"\nto the Central Area...",
 	"飛行場設営完了！　中部海域に「基地航空隊」を展開しました！": "Airfield setup complete! We've deployed our\n\"Land-based Aerial Squadrons\" to the Central Area!",
 	"飛行場設営完了！　南西海域に「基地航空隊」を展開しました！": "Airfield setup complete! We've deployed our\n\"Land-based Aerial Squadrons\" to the Southwestern Area!",
+
+	"第一航空戦隊「Ryuusei Kai」精鋭艦攻隊\n「Ryuusei Kai (Sk. CarDiv...」編成完了！出撃開始！": "Formation of the 1st Air Squadron「Ryuusei Kai」to\nElite Torpedo Bomber Squadron「Ryuusei Kai (Sk. CarDiv 1)」\ncomplete! Starting Sortie!",
 
 	"dummy": "forNoComma"
 }

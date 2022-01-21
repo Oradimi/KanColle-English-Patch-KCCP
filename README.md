@@ -1,35 +1,37 @@
-![English KanColle icon](https://i.imgur.com/kYiiHRo.png)
+![English KanColle icon](https://raw.githubusercontent.com/Oradimi/KanColle-English-Patch-KCCP/master/EN-patch/kcs2/img/title/title_main.png/patched/title_main_004.png)
 # KanColle English Patch
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C76IFME)
 ## Discord server
 [Please join the English Patch Discord!](https://discord.gg/krMeMKB)
-- Receive pings for polls and update notices about the patch (optional)
-- Detailed information to get into the game if you're new
-- Advice and resources to learn how to play the game (wip)
+- Receive pings for polls and update notices about the patch (Ping Squad, optional)
+- Receive pings for game updates, DMM festivals, and more! (Ping Squad+, optional)
+- Detailed information to get into the game if you're new ([Tutorial Video, with the patch](https://www.youtube.com/watch?v=XjG6kRgm9qc))
+- Advice and resources to learn how to play the game
 - Most up-to-date instructions to install the patch
 - People to talk about KanColle to, and links to more populated KanColle related servers
 
 ## Features
 ##### What it is
 This patch is composed of translated textures to be used by the assets modifier of [KCCacheProxy](https://github.com/Tibowl/KCCacheProxy/wiki/Installation-and-setup).\
-It also supports raw text patching, such as ship names, quests, flavor text etc.
-[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.04-3.05)
+It also supports raw text patching, such as ship names, quests, flavor text etc.\
+[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.04a to v3.17.1)
 
 ##### How it works
 Unlike other patching methods like MITM, POI's "My Cache" folder or ShimakazeGo's "Cache Mode hack",\
 KCCacheProxy compares the original sprites with the sprites in sprite sheets,\
 and injects the patched resources into these sprite sheets on the fly.\
-That means patches using this method will not break after updates to the game.\
+That means patches using this method will not break after updates to the game.
 
 ##### English Patch specificities and disclaimer
 This patch does not interfere with any of the files that communicate directly with the game servers.\
 Everything that is altered by the patch is local: english textures will be stored locally on your PC,\
 and raw text is patched just before it gets rendered on your screen.\
 There is currently nothing within the KanColle client to detect such changes.\
-Modifiying game assets is technically still against the Terms of Service, so use at your own risk.
+Modifiying game assets is technically against the Terms of Service, so use at your own risk.
 
 ##### What is currently translated
 A more detailed summary is in the works, but everything that is essential to comfortable gameplay,\
-or that is very often seen in the game, is translated. It is still a WIP, so anything can change.
+or that is very often seen in the game, is translated.
 
 ## Special Thanks
 
@@ -40,12 +42,16 @@ To Amelek for the chuuha/taiha cut-in texture jigsaw splitter.\
 To Globalnet for the quick updater.\
 To the EN wiki staff and the kc3 staff for providing a good part of the translations.
 
-To atikabubu, Althea, Dotsidious, TerminaHeart, LeftistTachyon\
-and all the others in the Discord server for regularly suggesting\
+To all the others in the Discord server for regularly suggesting\
 new things to fix or translate in the patch.
 
 ## Instructions
-*(Please refer to the instructions in the #how-to-play-kc channel of the* *[Discord server](https://discord.gg/krMeMKB)* *instead if you're new to the game)*
+Please refer to the instructions in the #how-to-play-kc channel of the [Discord server](https://discord.gg/krMeMKB).\
+Whether you are new or not, you can also check out the [video guide](https://www.youtube.com/watch?v=XjG6kRgm9qc)\
+that covers everything you need to know.\
+If you don't want to use the video, proceed with the instructions below.
+
+##### Prerequisites
 
 You need KCCacheProxy set up to install this mod!\
 Get into the Discord server, or follow this guide below to install it. I recommend going with Option B.\
