@@ -20,5 +20,7 @@
 
 	"×([0-9])枚": "×$1",
 
+	"」を開発完了！": "」development complete!",
+
 	"dummy": "forNoComma"
 }
