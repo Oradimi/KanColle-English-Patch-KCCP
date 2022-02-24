@@ -1,5 +1,21 @@
 {
+	"南西諸島の哨戒": "Patrolling the\nNansei Islands",
+	"九州沖/南西諸島方面": "Seas off Kyuushuu/Nansei Islands Area",
+	"九州方面より艦隊を展開し、\n佐世保、那覇などの南西諸島\n方面の要港周辺を哨戒！海上\n輸送路の安全を図れ！": "Deploy a fleet from Kyushu and patrol the vicinity of Sasebo, Naha, and other key ports in the Nansei Islands! Ensure the safety of maritime transportation routes!",
 
+	"アパリ防衛輸送": "Aparri Defense\nTransport",
+	"高雄警備府～比島北部沖": "Takao Guard District - North of the Philippines",
+	"台湾よりバシー海峡を越え、\n比島北部友軍へ防衛輸送作戦\nを実施！また、南西方面艦隊\nと協力、制空権を確保せよ！": "From Taiwan, cross the Bashi Strait and conduct a defensive transport operation to our friendly forces north of the Philippines! Also, cooperate with the Nansei Area Fleet to secure air superiority!",
+
+	"捷三号作戦警戒": "Operation Shou-Gou 3",
+	"関東/太平洋沖": "Kantou/Off the Pacific Ocean",
+	"我が本土強襲を企図する深海\n機動部隊を八丈島沖で捕捉、\n我が捷号作戦主力を以て、敵\n艦隊を邀撃せよ！艦隊出撃！": "Capture the abyssal task force planning to attack the mainland off Hachijoujima, and intercept the enemy fleet with the main force of Operation Shou-Gou! Launch the fleet!",
+
+	"佐世保鎮守府に入港しました。": "We have entered the Sasebo Naval Base.",
+	"友軍の港に入港しました。": "We have entered a friendly port.",
+	"周辺海域に敵機動部隊の動向あり！\n警戒せよ！": "There's movement of enemy task forces in\nthe surrounding waters! Be on the lookout!",
+
+	"南西方面艦隊、出撃！\nバシー海峡の制海権を確保せよ！": "Nansei Area Fleet, sortie!\nSecure control of the Bashi Strait!",
 
 	"dummy": "forNoComma"
 }

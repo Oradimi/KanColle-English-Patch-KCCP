@@ -131,6 +131,7 @@
 	"S-51J(×|」)": "S-51J$1",
 	"S-51J改(×|」)": "S-51J Kai$1",
 	"三式指揮連絡機\\(対潜\\)(×|」)": "T3 Command Liaison...$1",
+	"三式指揮連絡機改(×|」)": "T3 Kai Command Liaison...$1",
 	"10cm連装高角砲\\(砲架\\)(×|」)": "10cm Carriage Twin...$1",
 	"10cm連装高角砲\\+高射装置(×|」)": "10cm (w/ AAFD) Twin...$1",
 	"10cm連装高角砲改\\+増設機銃(×|」)": "10cm (w/ Add. Machine...$1",
@@ -187,6 +188,7 @@
 	"35\\.6cm連装砲改(×|」)": "35.6cm Kai Twin Gun...$1",
 	"35\\.6cm連装砲改二(×|」)": "35.6cm Kai Ni Twin...$1",
 	"13号対空電探改(×|」)": "T13 Kai Air Radar$1",
+	"13号対空電探改\\(後期型\\)(×|」)": "T13 Kai (Late Model) Air...$1",
 	"艦隊司令部施設(×|」)": "Fleet Command Facility$1",
 	"遊撃部隊 艦隊司令部(×|」)": "Striking Force Fleet...$1",
 	"精鋭水雷戦隊 司令部(×|」)": "Elite Torpedo Squadron...$1",
@@ -449,6 +451,7 @@
 	"潜水艦後部魚雷発射管4門\\(後期型\\)(×|」)": "Submarine (Late Model)...$1",
 	"二式複戦 屠龍(×|」)": "T2 Toryuu Two-seat...$1",
 	"二式複戦 屠龍 丙型(×|」)": "T2 Toryuu Mod. C Two-seat...$1",
+	"キ96(×|」)": "Ki-96$1",
 
 	"dummy": "forNoComma"
 }
