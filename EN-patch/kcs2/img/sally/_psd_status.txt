@@ -8,8 +8,4 @@ jin - might need partial remaster
 map_parts - complete
 practice - needs remaster and separation
 sortie - needs remaster and separation
-top - needs partial remaster
-supply - needs separation
-title - needs separation + psds missing
-tutorial - needs remaster and separation + all psds missing
-wedding - complete (guide needs explanation)
+top - complete

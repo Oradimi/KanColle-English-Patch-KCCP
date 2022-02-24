@@ -26,6 +26,7 @@
 	"特務艦 ": "AGS ",
 	"灯台補給船 ": "AGL ",
 	"南極観測船 ": "AGB ",
+	"特設護衛空母 ": "CVE (Sp.) ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -54,6 +55,7 @@
 	"特務艦": "AGS",
 	"灯台補給船": "AGL",
 	"南極観測船": "AGB",
+	"特設護衛空母": "CVE (Sp.)",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
@@ -72,6 +74,8 @@
 	"新型潜水艦": "New Model SS",
 	"護衛空母": "Escort Carrier",
 	"離島基地": "Isolated Island Base",
+	"岸壁護衛空母": "Quay Escort Carrier",
+	"大破岸壁護衛空母": "Heavily Damaged Quay Escort Carrier",
 
 	"dummy": "forNoComma"
 }

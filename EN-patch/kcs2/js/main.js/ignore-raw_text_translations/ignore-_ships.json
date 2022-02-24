@@ -682,6 +682,10 @@
 	"雲鷹改二": "Unyou Kai Ni",
 	"天霧改二": "Amagiri Kai Ni",
 	"天霧改二丁": "Amagiri Kai Ni D",
+	"梅": "Ume",
+	"梅改": "Ume Kai",
+	"山汐丸": "Yamashio Maru",
+	"山汐丸改": "Yamashio Maru Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -866,6 +870,10 @@
 	"潜水鮫水鬼-壊": "Submarine Shark Water Demon (Damaged)",
 	"ヒ船団棲姫": "Hi Convoy Princess",
 	"ヒ船団棲姫-壊": "Hi Convoy Princess (Damaged)",
+	"深海梅棲姫": "Abyssal Plum Princess",
+	"深海梅棲姫-壊": "Abyssal Plum Princess (Damaged)",
+	"横浜岸壁棲姫": "Yokohama Wharf Princess",
+	"横浜岸壁棲姫-壊": "Yokohama Wharf Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

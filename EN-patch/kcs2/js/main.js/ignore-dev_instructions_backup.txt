@@ -46,13 +46,12 @@ Ruler size:
 235x47
 
 Git instructions
+> commit and push dev branch as normal
+git checkout main
+git checkout --no-overlay dev *png *json *md *bat *ps1 -- LICENSE
 git add .
-git reset -- *psd *txt
 git diff --staged --name-status > diff.txt
 > bring in and run version file builder
 > delete version file builder and diff.txt
-> commit and push dev branch as normal
-git checkout main
-git checkout --no-overlay dev *png *json
 > check for files that shouldn't be there
 > commit and push main branch

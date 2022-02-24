@@ -21,5 +21,7 @@
 	"改装に必要な資源が不足しています。": "You don't have enough Resources.",
 	"改装に必要な資源及び資材が不足しています。": "You don't have enough Resources or Material.",
 
+	"近代化改修（合成）に失敗しました。": "The modernization failed.",
+
 	"dummy":"forNoComma"
 }

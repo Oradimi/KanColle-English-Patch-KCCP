@@ -1,15 +1,11 @@
 # Simple updater to update the English Patch;
+$host.ui.RawUI.WindowTitle = "KanColle English Patch Quick Updater";
 $ProgressPreference = 'SilentlyContinue';
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
 
-Write-Host "Welcome to the KanColle English Patch quick updater!" -ForegroundColor Blue;
+Write-Host "Welcome to the KanColle English Patch Quick Updater!";
+Write-Host "You can use this updater to update your patch from v3.01 or newer to the latest version.";
 Write-Host "";
-Write-Host "You can use this updater to update your patch from v3.01 or newer to the latest version." -ForegroundColor Green;
-Write-Host "This program will force Chrome to shut down and clear its cache if a new version is found." -ForegroundColor Green;
-Write-Host "You can restore your session afterwards by manually restarting Chrome." -ForegroundColor Green;
-Write-Host "It will also restart KCCacheProxy to reload the mod's data if it's already running." -ForegroundColor Green;
-Write-Host "";
-Write-Host "If you're not using Chrome, you will have to clear your browser's cache manually." -ForegroundColor Yellow;
 Write-Host "Make sure you're connected to the Internet before updating!" -ForegroundColor Yellow;
 Write-Host "This can take a while, be sure to wait until the end!" -ForegroundColor Yellow;
 Write-Host "";
@@ -88,27 +84,17 @@ If($j -eq 0)
 	Write-Host "If you are still using v1 or v2 of the English Patch," -ForegroundColor Yellow;
 	Write-Host "please get the latest version from GitHub." -ForegroundColor Yellow;
 	Write-Host "";
-	Write-Host "-> Press any key to close...";
+	Write-Host "-> Close this window to not proceed to clear your cache.";
+	Write-Host "-> Press any key to proceed to clear your cache...";
 	$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
+	Write-Host "";
+	Write-Host "";
+	Write-Host "";
+	Write-Host "";
+	Write-Host "";
+	Write-Host "";
 	Exit
 };
-
-# Gets currently running KCCacheProxy instance path;
-$running = Get-Process | ForEach-Object {$_.Path};
-ForEach($_ in $running) 
-{
-	If($_ -ne $null)
-	{
-		If($_.contains("KCCacheProxy.exe"))
-		{
-			$kccpPath = $_
-		}
-	}
-};
-
-# Forcefully kills Chrome and KCCacheProxy;
-taskkill /F /IM "chrome.exe";
-taskkill /F /IM "kccacheproxy.exe";
 
 # Removes any duplicate mention of added/modified files;
 For($i = $verSkip; $i -ge 1; $i--)
@@ -133,7 +119,7 @@ For($i = 0; $i -le $verSkip; $i++)
 		If (Test-Path -Path ($pwd + $uri))
 		{
 			Write-Host "Deleting" $uri"...";
-			Remove-Item -Path ($pwd + $uri)
+			Remove-Item -Path ($pwd + $uri) -Recurse -Force
 		}
     }
     ForEach($uri in $addURI[$i])
@@ -150,29 +136,15 @@ For($i = 0; $i -le $verSkip; $i++)
     }
 };
 
-# Clears Chrome's cache;
-$Items = @('Cache\*') ;
-$Folder = "$($env:LOCALAPPDATA)\Google\Chrome\User Data\Default";
-$Items | % { 
-    if (Test-Path "$Folder\$_") {
-        Remove-Item "$Folder\$_" 
-    }
-};
-
-# Restarts KCCacheProxy;
-# Restarts KCCacheProxy;
-Try
-{
-	& $kccpPath $null *> $null
-}
-Catch
-{
-	Write-Host "KCCacheProxy was not launched. Please restart it manually." -ForegroundColor Yellow
-};
-
 Write-Host "";
-Write-Host "Done updating!" -ForegroundColor Yellow;
-Write-Host "Make sure to clear your browser/viewer's cache if you're not using Chrome!" -ForegroundColor Yellow;
+Write-Host "Done updating!" -ForegroundColor Green;
 Write-Host "";
-Write-Host "-> Press any key to close...";
+Write-Host "-> Close this window to not proceed to clear your cache.";
+Write-Host "-> Press any key to proceed to clear your cache...";
 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
+Write-Host "";
+Write-Host "";
+Write-Host "";
+Write-Host "";
+Write-Host "";
+Write-Host "";
