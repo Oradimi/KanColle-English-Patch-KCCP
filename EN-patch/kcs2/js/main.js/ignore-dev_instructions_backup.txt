@@ -48,7 +48,7 @@ Ruler size:
 Git instructions
 > commit and push dev branch as normal
 git checkout main
-git checkout --no-overlay dev *png *json *md *bat *ps1 -- LICENSE
+git checkout --no-overlay dev *png *json *md *bat *ps1
 git add .
 git diff --staged --name-status > diff.txt
 > bring in and run version file builder

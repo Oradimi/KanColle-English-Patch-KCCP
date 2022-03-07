@@ -686,6 +686,10 @@
 	"梅改": "Ume Kai",
 	"山汐丸": "Yamashio Maru",
 	"山汐丸改": "Yamashio Maru Kai",
+	"玉波": "Tamanami",
+	"玉波改": "Tamanami Kai",
+	"冬月": "Fuyutsuki",
+	"冬月改": "Fuyutsuki Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -781,7 +785,7 @@
 	"欧州棲姫-壊": "European Princess (Damaged)",
 	"海峡夜棲姫": "Night Strait Princesses",
 	"海峡夜棲姫-壊": "Night Strait Princesses (Damaged)",
-	"防空埋護姫": "Confined Air Defense Princess",
+	"防空埋護姫": "Entombed Air Defense Princess",
 	"護衛棲水姫": "Escort Water Princess",
 	"護衛棲水姫-壊": "Escort Water Princess (Damaged)",
 	"戦艦棲姫改": "Battleship Princess Kai",
@@ -874,6 +878,14 @@
 	"深海梅棲姫-壊": "Abyssal Plum Princess (Damaged)",
 	"横浜岸壁棲姫": "Yokohama Wharf Princess",
 	"横浜岸壁棲姫-壊": "Yokohama Wharf Princess (Damaged)",
+	"深海玉棲姫": "Abyssal Jade Princess",
+	"深海玉棲姫-壊": "Abyssal Jade Princess (Damaged)",
+	"超重爆飛行場姫": "Super Heavy Bomber Airfield Princess",
+	"超重爆飛行場姫-壊": "Super Heavy Bomber Airfield Princess (Damaged)",
+	"防空埋護冬姫": "Entombed Anti-Air Guardian Winter Princess",
+	"防空埋護冬姫-壊": "Entombed Anti-Air Guardian Winter Princess (Damaged)",
+	"集積地棲姫III": "Supply Depot Princess C",
+	"集積地棲姫III-壊": "Supply Depot Princess C (Damaged)",
 
 	"dummy": "forNoComma"
 }

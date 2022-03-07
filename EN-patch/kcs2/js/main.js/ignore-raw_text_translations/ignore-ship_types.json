@@ -59,9 +59,11 @@
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
+	"深海甲型駆逐艦": "Abyssal Type-A Destroyer",
 	"丁型駆逐艦": "Type-D Destroyer",
-	"半壊丁型駆逐艦": "Half-Broken Type-D Destroyer",
+	"半壊丁型駆逐艦": "Half-broken Type-D Destroyer",
 	"物資集積地": "Supply Depot",
+	"兵站物資集積地": "Supply Depot",
 	"司令潜水艦": "Command Submarine",
 	"任務部隊沈没巡洋艦": "Task Force Sunken Cruiser",
 	"航空基地": "Air Base",
@@ -76,6 +78,7 @@
 	"離島基地": "Isolated Island Base",
 	"岸壁護衛空母": "Quay Escort Carrier",
 	"大破岸壁護衛空母": "Heavily Damaged Quay Escort Carrier",
+	"埋設防空駆逐艦": "Entombed Anti-air Destroyer",
 
 	"dummy": "forNoComma"
 }
