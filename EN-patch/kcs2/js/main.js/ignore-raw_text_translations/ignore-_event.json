@@ -11,11 +11,29 @@
 	"関東/太平洋沖": "Kantou/Off the Pacific Ocean",
 	"我が本土強襲を企図する深海\n機動部隊を八丈島沖で捕捉、\n我が捷号作戦主力を以て、敵\n艦隊を邀撃せよ！艦隊出撃！": "Capture the abyssal task force planning to attack the mainland off Hachijoujima, and intercept the enemy fleet with the main force of Operation Shou-Gou! Launch the fleet!",
 
+	"シマ船団護衛作戦": "Shima Convoy\nEscort Operation",
+	"昭南～マニラ航路": "Shounan - Manila Route",
+	"第十六戦隊で南西方面の基地\n航空隊を圧迫する敵地上戦力\nを撃破！その後、昭南マニラ\n間の船団護衛を実施せよ！": "With the 16th Squadron, destroy the enemy ground forces pressuring the land-based air forces in the Nansei Area! Then, carry out a convoy escort between Shounan and Manila!",
+
+	"北九州防空戦": "Kitakyuushuu\nAir Defense",
+	"東シナ海～北九州沖": "East China Sea - Off Kitakyuushuu",
+	"九州沖に出撃した敵機動部隊\nを捜索撃滅しつつ、敵超重爆\nより北九州の空を防空せよ！\n艦隊及び防空迎撃隊、出撃！": "Search and destroy enemy task forces that have sailed off the coast of Kyuushuu, while defending the skies of Kitakyuushuu from enemy super-heavy bombings! Fleet and interceptors, sortie!",
+
 	"佐世保鎮守府に入港しました。": "We have entered the Sasebo Naval Base.",
 	"友軍の港に入港しました。": "We have entered a friendly port.",
 	"周辺海域に敵機動部隊の動向あり！\n警戒せよ！": "There's movement of enemy task forces in\nthe surrounding waters! Be on the lookout!",
 
 	"南西方面艦隊、出撃！\nバシー海峡の制海権を確保せよ！": "Nansei Area Fleet, sortie!\nSecure control of the Bashi Strait!",
+
+	"_no_E-3_flavor_text": "_no_E-3_flavor_text",
+
+	"南西方面艦隊、捜索撃滅戦開始。\n敵通商破壊部隊を索敵、捕捉せよ！": "Nansei Area Fleet, start search-and-destroy.\nSearch for and capture enemy\n     trade-destroying units!",
+
+	"対潜、対空、対水上警戒を厳とせよ！\nこれより戦場海域に突撃する！最大戦速！": "Maintain strict anti-submarine, anti-aircraft\nand anti-surface vigilance! Now assaulting\n     the battlefield waters! Full speed!",
+	"敵機動部隊主力を発見！\n全艦、突撃せよッ！": "The main force of the enemy task force has\nbeen sighted! All ships, charge!",
+	"艦隊反転！決戦兵力を以て\n北九州方面に向かう敵を撃滅せよ！": "Fleet, turn around! Destroy the enemy using\nour decisive forces as we head\n     towards Kitakyuushuu!",
+	"連合艦隊、出撃ッ！\n敵機動部隊群を撃滅せよ！": "Combined Fleet, sortie!\nDestroy the enemy task force group!",
+	"遊撃部隊、佐世保より緊急出撃！\n機動部隊先鋒を捕捉撃滅せよ！": "Striking Force, sortieing urgently from Sasebo!\nCapture and destroy the spearheads\n     of the task force!",
 
 	"dummy": "forNoComma"
 }
