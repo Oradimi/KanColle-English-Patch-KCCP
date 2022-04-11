@@ -12,7 +12,6 @@ Write-Host "If you don't want to use the font anymore, delete the 'font' folder 
 Write-Host "";
 Write-Host "-> Close this window to cancel.";
 Write-Host "-> Press any key to install...";
-Write-Host "";
 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
 
 # Gets and tweaks the current path. Will only work if the script is ran from the master directory;
@@ -23,7 +22,7 @@ $pwd = $pwd.replace("\","/") + "/";
 Copy-Item -Path ($pwd + "font") -Destination ($pwd + "EN-patch/kcs2/resources") -Recurse -Force;
 
 Write-Host "";
-Write-Host "Done installing!" -ForegroundColor Green;
+Write-Host "Done installing! Please clear your cache to finish the installation process." -ForegroundColor Green;
 Write-Host "";
 Write-Host "-> Close this window to not proceed to clear your cache.";
 Write-Host "-> Press any key to proceed to clear your cache...";
