@@ -104,6 +104,7 @@
 	"12.7cm連装砲C型改二": "12.7cm C Kai Ni Twin Gun Mount",
 	"12.7cm連装砲D型改二": "12.7cm D Kai Ni Twin Gun Mount",
 	"12.7cm連装砲D型改三": "12.7cm D Kai 3 Twin Gun Mount",
+	"試製 長12.7cm連装砲A型改四": "Proto. Long-barrel 12.7cm A Kai 4 Twin Gun Mount",
 	"Ju87C改": "Ju 87C Kai",
 	"Ju87C改二(KMX搭載機)": "Ju 87C Kai Ni (w/ KMX)",
 	"Ju87C改二(KMX搭載機/熟練)": "Ju 87C Kai Ni (Sk. w/ KMX)",
@@ -453,6 +454,7 @@
 	"二式複戦 屠龍 丙型": "T2 Toryuu Mod. C Two-seat Fighter",
 	"キ96": "Ki-96",
 	"キ102乙": "Ki-102 B",
+	"キ102乙改+イ号一型乙 誘導弾" : "Ki-102 B Kai + No.1 Model 1B Guided Missile",
 
 	"dummy": "forNoComma"
 }

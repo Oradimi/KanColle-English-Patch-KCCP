@@ -11,9 +11,9 @@ Write-Host "This can take a while, be sure to wait until the end!" -ForegroundCo
 Write-Host "";
 Write-Host "-> Close this window to cancel.";
 Write-Host "-> Press any key to update...";
-Write-Host "";
 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
 
+Write-Host "";
 Write-Host "Updating version.json...";
 
 # Gets and tweaks the current path. Will only work if the script is ran from the master directory;
@@ -137,7 +137,7 @@ For($i = 0; $i -le $verSkip; $i++)
 };
 
 Write-Host "";
-Write-Host "Done updating!" -ForegroundColor Green;
+Write-Host "Done updating! Please clear your cache to finish the update process." -ForegroundColor Green;
 Write-Host "";
 Write-Host "-> Close this window to not proceed to clear your cache.";
 Write-Host "-> Press any key to proceed to clear your cache...";
