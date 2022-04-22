@@ -6163,5 +6163,15 @@
       "_clear_browser_cache.bat",
       "_new_font_beta_test.bat"
     ]
+  },
+  {
+    "version": "3.18.4",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json"
+    ]
   }
 ]
