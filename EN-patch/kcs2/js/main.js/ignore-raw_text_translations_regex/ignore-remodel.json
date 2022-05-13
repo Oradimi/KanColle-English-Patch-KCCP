@@ -15,6 +15,7 @@
 	"本改装は｢試製甲板カタパルト｣と\n｢改装設計図｣([0-9])枚を使用します。": "Requires a Proto. Catapult\nand $1 Blueprint(s).",
 	"本改装は｢戦闘詳報｣([0-9])部と\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 Action Report(s)\nand $2 Blueprint(s).",
 	"本改装は｢新型兵装資材｣([0-9])つと\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 New Armament\nand $2 Blueprint(s).",
+	"本改装は｢新型砲熕兵装資材｣([0-9])つと\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 Gun Mount Mat.\nand $2 Blueprint(s).",
 	
 	"本改装では「高速建造材」を\n([0-9]+)個、「開発資材」を([0-9]+)個\n使用します。": "Requires $1 Flamethrowers\nand $2 Dev. Materials.",
 	"本改装では「開発資材」を([0-9]+)個\n使用します。": "Requires $1 Dev. Materials.",

@@ -6173,5 +6173,27 @@
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json"
     ]
+  },
+  {
+    "version": "3.18.5",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-items.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-payitems.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-quest_menu.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-tutorial.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-remodel.json",
+      "EN-patch/kcs2/resources/slot/btxt_flat/456_8166.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/456_8166.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/456_4146.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/456_4146.png/patched.png"
+    ]
   }
 ]
