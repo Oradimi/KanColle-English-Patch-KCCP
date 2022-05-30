@@ -201,6 +201,12 @@
 	"Fleet for the end of the year": "Fleet for the end of the year",
 	"_bgm_id": "261",
 	"_duplicate_新しい年の護り": "New Year's Protection Charm",
+	"_bgm_id": "262",
+	"令和桃の節句": "Reiwa's Doll Festival",
+	"_bgm_id": "263",
+    "北大西洋の風": "Wind of the North Atlantic",
+    "_bgm_id": "264",
+    "沖に立つ波": "Waves in the Offing",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -404,6 +410,12 @@
 	"♪「Fleet for the end of the year」": "♪「Fleet for the end of the year」",
 	"_bgm_id": "261",
 	"♪「_duplicate_新しい年の護り」": "♪「New Year's Protection Charm」",
+	"_bgm_id": "262",
+	"♪「令和桃の節句」": "♪「Reiwa's Doll Festival」",
+	"_bgm_id": "263",
+    "♪「北大西洋の風」": "♪「Wind of the North Atlantic」",
+    "_bgm_id": "264",
+    "♪「沖に立つ波」": "♪「Waves in the Offing」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -607,6 +619,12 @@
 	"「Fleet for the end of the year」　リクエスト中♪": "「Fleet for the end of the year」currently playing ♪",
 	"_bgm_id": "261",
 	"「_duplicate_新しい年の護り」　リクエスト中♪": "「New Year's Protection Charm」currently playing ♪",
+	"_bgm_id": "262",
+	"「令和桃の節句」　リクエスト中♪": "「Reiwa's Doll Festival」currently playing ♪",
+	"_bgm_id": "263",
+    "「北大西洋の風」　リクエスト中♪": "「Wind of the North Atlantic」currently playing ♪",
+    "_bgm_id": "264",
+    "「沖に立つ波」　リクエスト中♪": "「Waves in the Offing」currently playing ♪",
 
 	"dummy": "forNoComma"
 }

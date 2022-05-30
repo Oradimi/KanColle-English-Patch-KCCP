@@ -352,7 +352,9 @@
 	"潜水艦搭載電探\\&水防式望遠鏡(×|」)": "Submarine Radar & Waterproof...$1",
 	"潜水艦搭載電探\\&逆探\\(E27\\)(×|」)": "Submarine Radar & Passive...$1",
 	"後期型潜水艦搭載電探\\&逆探(×|」)": "Late Model Submarine...$1",
+	"後期型電探\\&逆探\\+シュノーケル装備(×|」)": "Late Model Radar...$1",
 	"彩雲\\(東カロリン空\\)(×|」)": "Saiun (Eastern Caroline...$1",
+	"後期型艦首魚雷\\(4門\\)(×|」)": "Late Model Bow Torp...$1",
 	"後期型艦首魚雷\\(6門\\)(×|」)": "Late Model Bow Torp...$1",
 	"熟練聴音員\\+後期型艦首魚雷\\(6門\\)(×|」)": "Sk. Sonar Personnel...$1",
 	"強風改(×|」)": "Kyoufuu Kai$1",
@@ -456,6 +458,7 @@
 	"キ96(×|」)": "Ki-96$1",
 	"キ102乙(×|」)" : "Ki-102 B$1",
 	"キ102乙改\\+イ号一型乙 誘導弾(×|」)" : "Ki-102 B Kai + No.1...$1",
+	"B-25(×|」)": "B-25$1",
 
 	"dummy": "forNoComma"
 }
