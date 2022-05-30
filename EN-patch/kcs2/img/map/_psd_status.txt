@@ -1,5 +1,5 @@
 anchorage_repair - needs remaster and separation
-cell_event - needs notice: ambiguous
+cell_event - needs slight remaster and separation
 decision - complete
 flagship_damage - needs separation
 telop - complete

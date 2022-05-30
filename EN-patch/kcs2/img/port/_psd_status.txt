@@ -1,10 +1,10 @@
 friendly_request - complete
-main - needs remaster and separation
-option - needs remaster and separation
-ringmenu - needs separation
-sidemenu - needs separation
-skin_1 - needs partial remaster and separation
-skin_2 - needs partial remaster and separation
+main - complete
+option - complete
+ringmenu - complete
+sidemenu - complete
+skin_1 - complete
+skin_2 - complete
 skin_3 - needs partial remaster and separation
 skin_circle_2 - from original assets (needs psd for other languages)
 tutorial - complete

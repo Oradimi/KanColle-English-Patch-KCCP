@@ -692,6 +692,10 @@
 	"冬月改": "Fuyutsuki Kai",
 	"浦波改二": "Uranami Kai Ni",
 	"磯波改二": "Isonami Kai Ni",
+	"伊-201": "I-201",
+	"伊-201改": "I-201 Kai",
+	"早潮": "Hayashio",
+	"早潮改": "Hayashio Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐ロ級": "Ro-Class Destroyer",
@@ -888,6 +892,9 @@
 	"防空埋護冬姫-壊": "Entombed Anti-Air Guardian Winter Princess (Damaged)",
 	"集積地棲姫III": "Supply Depot Princess C",
 	"集積地棲姫III-壊": "Supply Depot Princess C (Damaged)",
+	"外南洋駆逐棲姫": "Outer Southern Sea Destroyer Princess",
+	"外南洋駆逐棲姫-壊": "Outer Southern Sea Destroyer Princess (Damaged)",
+	"飛行場姫(哨戒機配備)": "Airfield Princess (w/ Patrol Aircraft)",
 
 	"dummy": "forNoComma"
 }

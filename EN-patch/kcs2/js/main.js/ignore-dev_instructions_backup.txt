@@ -49,9 +49,9 @@ Git instructions
 > commit and push dev branch as normal
 git checkout main
 git checkout --no-overlay dev *png *json *md *bat *ps1
+> check for files that shouldn't be there
 git add .
 git diff --staged --name-status > diff.txt
 > bring in and run version file builder
 > delete version file builder and diff.txt
-> check for files that shouldn't be there
 > commit and push main branch
