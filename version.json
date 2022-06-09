@@ -6553,8 +6553,42 @@
       "EN-patch/kcs2/resources/slot/remodel/458_4240.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/458_4240.png/patched.png",
       "EN-patch/kcs2/resources/slot/remodel/459_9414.png/original.png",
-      "EN-patch/kcs2/resources/slot/remodel/459_9414.png/patched.png",
-      "version.json"
+      "EN-patch/kcs2/resources/slot/remodel/459_9414.png/patched.png"
+    ]
+  },
+  {
+    "version": "3.19.1",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/common/common_event.png/patched/common_event_006.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-music.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-remodel.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-ship_types.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-remodel.json",
+      "EN-patch/kcs2/resources/slot/btxt_flat/460_2789.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/460_2789.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/463_2273.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/463_2273.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/464_8023.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/464_8023.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/465_2572.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/465_2572.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/460_1848.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/460_1848.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/463_3991.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/463_3991.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/464_1612.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/464_1612.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/465_5103.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/465_5103.png/patched.png"
     ]
   }
 ]
