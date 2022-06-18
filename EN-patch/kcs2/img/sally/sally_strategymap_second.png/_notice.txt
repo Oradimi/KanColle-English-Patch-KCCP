@@ -1,3 +1,3 @@
-_020, _021, _022, _023, _024, _025 from common_event
+_021, _022, _023, _024, _025 from common_event
 _026, _027 in same psd (_026)
 _028, _029, _030 in same psd (_028)
