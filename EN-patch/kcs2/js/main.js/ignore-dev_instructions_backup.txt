@@ -53,5 +53,5 @@ git checkout --no-overlay dev *png *json *md *bat *ps1
 git add .
 git diff --staged --name-status > diff.txt
 > bring in and run version file builder
-> delete version file builder and diff.txt
+> delete diff.txt
 > commit and push main branch
