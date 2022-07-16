@@ -31,7 +31,7 @@ Modifiying game assets is technically against the Terms of Service, so use at yo
 
 ##### What is currently translated
 A more detailed summary is in the works, but everything that is essential to comfortable gameplay,\
-or that is very often seen in the game, is translated.
+or that is very often seen in the game, is translated. This even includes event flavor text.
 
 ## Special Thanks
 
@@ -77,13 +77,16 @@ check **only** "Images and files in cache", and delete.*\
 If some assets still aren't patched, repeat the process until satisfaction. You're done!
 
 ##### Updating
-Go into your English Patch folder, and double-click on "quick_updater_v0.3.0".\
-Let the program do its thing, then close it. If you're using Chrome, you're done!\
-If you're not, be sure to clear the cache in the browser you're using to play KanColle!
+Go into your English Patch folder, and double-click on "quick_updater_v0.4.1".\
+Let the program do its thing. Once done, you have the option to proceed to a program\
+that will automatically clear your browser cache, so you don't have to do it manually.\
+Clearing the browser cache is necessary to delete old or untranslated assets that are still stored.\
+If you're not on Windows, you'll have to update the patch by reinstalling it or by using Git.
 
 If you're using Git, pull from the repo, then open KCCacheProxy\
 (right click in the task bar tray, bottom right), click on "Reload mod data",\
-and clear your browser cache (see above for the Chrome cache clear instructions).
+and clear your browser cache (see above for the Chrome cache clear instructions).\
+You can also use the browser cache clearer provided in the English Patch folder if you're on Windows!
 
 ##### Additional note
 *To disable raw text patching (ship names etc.), open the "EN-patch.mod.json" file\

@@ -209,6 +209,8 @@
 	"沖に立つ波": "Waves in the Offing",
 	"_bgm_id": "265",
 	"村雨と峯雲の出撃": "Murasame and Minegumo's Sortie",
+	"_bgm_id": 266,
+	"地中海の潮風": "Mediterranean Sea Breeze",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -420,6 +422,8 @@
 	"♪「沖に立つ波」": "♪「Waves in the Offing」",
 	"_bgm_id": "265",
 	"♪「村雨と峯雲の出撃」": "♪「Murasame and Minegumo's Sortie」",
+	"_bgm_id": 266,
+	"♪「地中海の潮風」": "♪「Mediterranean Sea Breeze」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -631,6 +635,8 @@
 	"「沖に立つ波」　リクエスト中♪": "「Waves in the Offing」currently playing ♪",
 	"_bgm_id": "265",
 	"「村雨と峯雲の出撃」　リクエスト中♪": "「Murasame and Minegumo's Sortie」currently playing ♪",
+	"_bgm_id": 266,
+	"「地中海の潮風」　リクエスト中♪": "「Mediterranean Sea Breeze」currently playing ♪",
 
 	"dummy": "forNoComma"
 }

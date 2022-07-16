@@ -705,6 +705,7 @@
 	"(\n|^)海防艦 (「?)倉橋改(」?)(\n|$)": "$1DE $2Kurahashi Kai$3$4",
 	"(\n|^)戦艦 (「?)Maryland(」?)(\n|$)": "$1BB $2Maryland$3$4",
 	"(\n|^)戦艦 (「?)Maryland改(」?)(\n|$)": "$1BB $2Maryland Kai$3$4",
+	"(\n|^)駆逐艦 (「?)早潮改二(」?)(\n|$)": "$1DD $2Hayashio Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
