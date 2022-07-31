@@ -6899,5 +6899,23 @@
       "EN-patch/kcs2/resources/slot/remodel/470_5491.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/470_5491.png/patched.png"
     ]
+  },
+  {
+    "version": "3.19.4",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/471_7561.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/471_7561.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/461_5383.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/461_5383.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/461_1567.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/461_1567.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/471_7051.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/471_7051.png/patched.png"
+    ]
   }
 ]

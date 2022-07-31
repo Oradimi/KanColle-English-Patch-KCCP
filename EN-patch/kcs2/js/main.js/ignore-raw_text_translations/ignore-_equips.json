@@ -365,6 +365,7 @@
 	"彩雲(東カロリン空)": "Saiun (Eastern Caroline Air Group)",
 	"後期型艦首魚雷(4門)": "Late Model Bow Torp. Mount (4 tubes)",
 	"後期型艦首魚雷(6門)": "Late Model Bow Torp. Mount (6 tubes)",
+	"熟練聴音員+後期型艦首魚雷(4門)": "Sk. Sonar Personnel + Late Model Bow Torp. Mount (4 tubes)",
 	"熟練聴音員+後期型艦首魚雷(6門)": "Sk. Sonar Personnel + Late Model Bow Torp. Mount (6 tubes)",
 	"強風改": "Kyoufuu Kai",
 	"零式艦戦63型(爆戦)": "T0 M63 Fighter-bomber",
@@ -469,6 +470,7 @@
 	"キ102乙": "Ki-102 B",
 	"キ102乙改+イ号一型乙 誘導弾": "Ki-102 B Kai + No.1 Model 1B Guided Missile",
 	"B-25": "B-25",
+	"Loire 130M": "Loire 130M",
 
 	"dummy": "forNoComma"
 }
