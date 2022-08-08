@@ -743,6 +743,9 @@
 	"_quest_id_357": "_quest_code_C66",
 	"「大和型戦艦」第一戦隊演習、始め！": "[Yamato-class Battleship] 1st Squadron exercises, begin!",
 	"大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻\n以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！": "Secure 3 S-Rank victories in Exercises within the same day\nusing Yamato, Musashi, 1 CL, 2 DD and 1 additional ship.",
+	"_quest_id_358": "_quest_code_C67",
+	"「Taffy Ⅲ」 This is a drill!": "[Taffy Ⅲ] This is a drill!",
+	"「Samuel B.Roberts」「Johnston」「Gambier Bay」の三隻を含む任務部隊「Taffy Ⅲ」を編成、\n本日中に演習で【S判定】勝利を4回以上達成せよ！This is a drill. I repeat, this is a drill.": "Secure 4 S-Rank victories in Execises within the same day using Samuel B. Roberts, Johnston,\nGambier Bay and up to 3 additional ships.",
 	"_quest_id_401": "_quest_code_D1",
 	"はじめての「遠征」！": "The First Expedition!",
 	"艦隊を「遠征」に出発させよう！": "Attempt an expedition.",
@@ -1805,6 +1808,12 @@
 	"_quest_id_981": "_quest_code_B185",
 	"米駆逐艦部隊の奮戦": "The Struggling Battle of the US Destroyer Force",
 	"「Fletcher級」及び「John C.Butler級」のうち二隻以上を含む艦隊で、南西諸島東部オリョール海、\n中部北海域ピーコック島沖、南西海域ペナン島沖深部、昭南本土航路に反復出撃！敵を撃滅せよ！": "Sortie a fleet with at least two Fletcher-class or John C. Butler-class DDs and\nup to 4 additional ships to [W2-3], [W7-3-P], [W7-4] and [W6-4]. S-Rank each boss node twice.",
+	"_quest_id_982": "_quest_code_B186",
+	"Samuel B.Roberts Mk.II、抜錨せよ！": "Samuel B. Roberts Mk.II, Weigh Anchor!",	
+	"改装されたSamuel B.Roberts Mk.IIを旗艦とする艦隊で、鎮守府近海、鎮守府近海航路を守り、\n南西諸島バシー海峡、北方AL海域に出撃、同海域の敵艦隊を撃滅せよ！　Thanks a lot !": "Sortie a fleet with Samuel B. Roberts Mk.II as flagship and up to 5 additional ships\nto [W1-5], [W1-6-N], [W2-2] and [W3-5]. S-Rank all relevant boss nodes.",
+	"_quest_id_983": "_quest_code_B187",
+	"不屈敢闘「Taffy Ⅲ」、Weigh anchor!": "Unyielding Taffy Ⅲ, Weigh Anchor!",
+	"「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、\n沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！": "Sortie a fleet with Gambier Bay, Johnston, Samuel B. Roberts and up to 3 additional ships\nto [W2-3], [W2-5], [W4-5] and [W5-5]. S-Rank each boss node.",
 	"_quest_id_1101": "_quest_code_F96",
 	"海軍工廠の再整備": "Another Naval Arsenal Maintenance",
 	"工廠整備：「12.7cm連装砲」x8廃棄、家具コインx4,000と「14cm単装砲」「20.3cm連装砲」各x4を\n準備せよ！※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。": "Have 4 14cm Single Gun Mounts, 4 20.3cm Twin Gun Mounts and 4000 Furniture Coins.\nScrap 8 12.7cm Twin Gun Mounts.",
@@ -1856,6 +1865,9 @@
 	"_quest_id_1117": "_quest_code_F111",
 	"【工廠任務】新夜偵の実戦配備": "Deployment of a New Night Recon",
 	"旗艦「川内改二」または「由良改二」の第一装備スロに改修最大「九八式水上偵察機(夜偵)」を配備。\n改修最大「零式水上偵察機11型乙」x1、改修資材及び開発資材x各13、熟練搭乗員x3を用意せよ！": "Due to the lengthy requirements, please refer to your viewer's description or the wiki. The main\nrequirements are a ★max Type 0 Recon. Seaplane Model 11B and a ★max Type 98 Night Recon.",
+	"_quest_id_1118": "_quest_code_F112",
+	"【工廠任務】Hedgehogの配備": "Hedgehog Deployment",
+	"旗艦「Samuel B.Roberts Mk.II」の第一スロに「5inch単装砲 Mk.30」(※改修してなくとも可)を装備。\n開発資材x15、新型兵装資材x2、新型噴進装備開発資材x2、弾薬960を準備せよ！": "Due to the lengthy requirements, please refer to your viewer's description or the wiki. The main\nrequirement is a 5inch Single Gun Mount Mk.30.",
 
 	"dummy": "forNoComma"
 }
