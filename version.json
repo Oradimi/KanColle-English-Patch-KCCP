@@ -6917,5 +6917,20 @@
       "EN-patch/kcs2/resources/slot/remodel/471_7051.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/471_7051.png/patched.png"
     ]
+  },
+  {
+    "version": "3.19.5",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json",
+      "EN-patch/kcs2/resources/slot/remodel/472_8042.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/472_8042.png/patched.png"
+    ]
   }
 ]
