@@ -704,6 +704,12 @@
 	"Maryland改": "Maryland Kai",
 	"早潮改二": "Hayashio Kai Ni",
 	"Samuel B.Roberts Mk.II": "Samuel B. Roberts Mk.II",
+	"鵜来": "Ukuru",
+	"鵜来改": "Ukuru Kai",
+	"夏雲": "Natsugumo",
+	"夏雲改": "Natsugumo Kai",
+	"Langley": "Langley",
+	"Langley改": "Langley Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -741,6 +747,7 @@
 	"戦艦レ級": "Re-Class Battleship",
 	"空母ヲ級": "Wo-Class Standard Carrier",
 	"空母ヲ級改": "Wo-Class Standard Carrier Kai",
+	"空母ヲ級改II": "Wo-Class Standard Carrier Kai B",
 	"輸送ワ級": "Wa-Class Transport Ship",
 	"輸送ワ級II": "Wa-Class Transport Ship B",
 	"潜水カ級": "Ka-Class Submarine",
@@ -907,6 +914,8 @@
 	"外南洋駆逐棲姫-壊": "Outer Southern Sea Destroyer Princess (Damaged)",
 	"近代化戦艦棲姫": "Modernized Battleship Princess",
 	"近代化戦艦棲姫-壊": "Modernized Battleship Princess (Damaged)",
+	"高速軽空母水鬼": "High Speed Light Carrier Water Demon",
+	"高速軽空母水鬼-壊": "High Speed Light Carrier Water Demon (Damaged)",
 
 	"dummy": "forNoComma"
 }

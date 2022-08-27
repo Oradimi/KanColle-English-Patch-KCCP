@@ -22,14 +22,6 @@ $pwd = $pwd.replace("\","/") + "/";
 Copy-Item -Path ($pwd + "font") -Destination ($pwd + "EN-patch/kcs2/resources") -Recurse -Force;
 
 Write-Host "";
-Write-Host "Done installing! Please clear your cache to finish the installation process." -ForegroundColor Green;
-Write-Host "";
-Write-Host "-> Close this window to not proceed to clear your cache.";
-Write-Host "-> Press any key to proceed to clear your cache...";
-$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
-Write-Host "";
-Write-Host "";
-Write-Host "";
-Write-Host "";
+Write-Host "Done installing! Proceeding to cache clear..." -ForegroundColor Green;
 Write-Host "";
 Write-Host "";
