@@ -1,1 +1,3 @@
 repair_main_006 and _010 from item_fshop_007 and _008 respectively
+repair_main_025 and _026 from arsenal_main_072 and _073 respectively
+repair_main_041 and _042 from arsenal_main_152 and _154 respectively

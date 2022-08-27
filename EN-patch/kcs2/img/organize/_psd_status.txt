@@ -1,4 +1,4 @@
-filter - needs separation
+filter - complete
 hokyu_dialog_default - needs remaster
 hokyu_dialog_default - needs remaster
 hokyu_dialog_default - needs remaster

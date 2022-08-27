@@ -2,8 +2,9 @@ bg_ - complete
 area_icon - complete
 event - special case
 expedition - complete
-main - needs partial remaster and separation
+main - complete
 misc - complete
-selectable_reward - needs remaster and separation
-sort - psds missing
+selectable_event_reward - complete
+selectable_reward - complete
+sort - complete
 error - complete

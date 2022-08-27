@@ -707,6 +707,12 @@
 	"(\n|^)戦艦 (「?)Maryland改(」?)(\n|$)": "$1BB $2Maryland Kai$3$4",
 	"(\n|^)駆逐艦 (「?)早潮改二(」?)(\n|$)": "$1DD $2Hayashio Kai Ni$3$4",
 	"(\n|^)駆逐艦 (「?)Samuel B.Roberts Mk.II(」?)(\n|$)": "$1DD $2Samuel B. Roberts Mk.II$3$4",
+	"(\n|^)海防艦 (「?)鵜来(」?)(\n|$)": "$1DE $2Ukuru$3$4",
+	"(\n|^)海防艦 (「?)鵜来改(」?)(\n|$)": "$1DE $2Ukuru Kai$3$4",
+	"(\n|^)駆逐艦 (「?)夏雲(」?)(\n|$)": "$1DD $2Natsugumo$3$4",
+	"(\n|^)駆逐艦 (「?)夏雲改(」?)(\n|$)": "$1DD $2Natsugumo Kai$3$4",
+	"(\n|^)軽空母 (「?)Langley(」?)(\n|$)": "$1CVL $2Langley$3$4",
+	"(\n|^)軽空母 (「?)Langley改(」?)(\n|$)": "$1CVL $2Langley Kai$3$4",
 
 	"dummy": "forNoComma"
 }

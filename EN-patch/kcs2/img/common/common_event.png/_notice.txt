@@ -1,2 +1,4 @@
-001 and 002 are both in the 001 psd
-003 and 004 are reduced in size manually using Windows built-in resize
+common_event_001 covers common_event_001 and _002
+common_event_003 and _004 are reduced in size from common_event_001 and _002 manually using Windows built-in resize
+common_event_005 covers common_event_005, _007, _009, _011
+common_event_006 covers common_event_006, _008, _010, _012

@@ -1,0 +1,8 @@
+arsenal_main_026 covers _026 and _032
+arsenal_main_027 covers _027 and _033
+arsenal_main_028 covers _028 and _034
+arsenal_main_036 and _040 from item_fshop_004 and _010 respectively
+arsenal_main_037 and _045 from item_fshop_007 and _008 respectively
+arsenal_main_152 and _154 cover arsenal_main_153 and _155 respectively
+arsenal_main_076 and _077 from port_skin_1_023 and _024 respectively
+arsenal_main_088 from common_main_032

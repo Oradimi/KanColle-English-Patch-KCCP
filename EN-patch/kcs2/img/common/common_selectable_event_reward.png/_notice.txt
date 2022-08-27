@@ -1,0 +1,1 @@
+common_selectable_event_reward_002 to _006 from common_selectable_reward_004 to _008 respectively
