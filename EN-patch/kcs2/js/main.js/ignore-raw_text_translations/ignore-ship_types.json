@@ -64,6 +64,7 @@
 	"半壊丁型駆逐艦": "Half-broken Type-D Destroyer",
 	"物資集積地": "Supply Depot",
 	"兵站物資集積地": "Supply Depot",
+	"兵站集積地": "Supply Depot",
 	"司令潜水艦": "Command Submarine",
 	"任務部隊沈没巡洋艦": "Task Force Sunken Cruiser",
 	"航空基地": "Air Base",
@@ -83,6 +84,8 @@
 	"沈没艦隊型駆逐艦": "Sunken Fleet Type Destroyer",
 	"近代化改修戦艦": "Modernized Battleship",
 	"高速軽空母": "Fast Light Carrier",
+	"試作正規空母": "Prototype Standard Carrier",
+	"未完成戦艦": "Incomplete Battleship",
 
 	"dummy": "forNoComma"
 }
