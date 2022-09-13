@@ -128,6 +128,7 @@
 	"特大発動艇+戦車第11連隊": "Toku Daihatsu (w/ 11th Tank Regiment) Landing Craft",
 	"特大発動艇+一式砲戦車": "Type 1 Gun Tank + Toku Daihatsu Landing Craft",
 	"大発動艇(II号戦車/北アフリカ仕様)": "Daihatsu (Panzer II/North African Specification) Landing Craft",
+	"特大発動艇+Ⅲ号戦車(北アフリカ仕様)": "Toku Daihatsu Landing Craft + Panzer III (North African Specification)",
 	"M4A1 DD": "M4A1 DD",
 	"装甲艇(AB艇)": "Soukoutei (Armored Boat Class)",
 	"武装大発": "Armed Daihatsu",
@@ -336,6 +337,8 @@
 	"F4U-1D": "F4U-1D",
 	"F4U-2 Night Corsair": "F4U-2 Night Corsair",
 	"F4U-4": "F4U-4",
+	"F4U-7": "F4U-7",
+	"AU-1": "AU-1",
 	"SB2C-3": "SB2C-3",
 	"SB2C-5": "SB2C-5",
 	"FR-1 Fireball": "FR-1 Fireball",
@@ -476,6 +479,9 @@
 	"キ102乙改+イ号一型乙 誘導弾": "Ki-102 B Kai + No.1 Model 1B Guided Missile",
 	"B-25": "B-25",
 	"Loire 130M": "Loire 130M",
+	"Mosquito FB Mk.VI": "Mosquito FB Mk.VI",
+	"Mosquito PR Mk.IV": "Mosquito PR Mk.IV",
+	"Mosquito TR Mk.33": "Mosquito TR Mk.33",
 
 	"dummy": "forNoComma"
 }

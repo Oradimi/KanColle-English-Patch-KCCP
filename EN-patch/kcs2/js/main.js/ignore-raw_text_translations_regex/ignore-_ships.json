@@ -713,6 +713,14 @@
 	"(\n|^)駆逐艦 (「?)夏雲改(」?)(\n|$)": "$1DD $2Natsugumo Kai$3$4",
 	"(\n|^)軽空母 (「?)Langley(」?)(\n|$)": "$1CVL $2Langley$3$4",
 	"(\n|^)軽空母 (「?)Langley改(」?)(\n|$)": "$1CVL $2Langley Kai$3$4",
+	"(\n|^)軽巡洋艦 (「?)Brooklyn(」?)(\n|$)": "$1CL $2Brooklyn$3$4",
+	"(\n|^)軽巡洋艦 (「?)Brooklyn改(」?)(\n|$)": "$1CL $2Brooklyn Kai$3$4",
+	"(\n|^)戦艦 (「?)Massachusetts(」?)(\n|$)": "$1BB $2Massachusetts$3$4",
+	"(\n|^)戦艦 (「?)Massachusetts改(」?)(\n|$)": "$1BB $2Massachusetts Kai$3$4",
+	"(\n|^)正規空母 (「?)Ranger(」?)(\n|$)": "$1CV $2Ranger$3$4",
+	"(\n|^)正規空母 (「?)Ranger改(」?)(\n|$)": "$1CV $2Ranger Kai$3$4",
+	"(\n|^)戦艦 (「?)Jean Bart(」?)(\n|$)": "$1BB $2Jean Bart$3$4",
+	"(\n|^)戦艦 (「?)Jean Bart改(」?)(\n|$)": "$1BB $2Jean Bart Kai$3$4",
 
 	"dummy": "forNoComma"
 }

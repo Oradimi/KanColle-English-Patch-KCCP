@@ -1,4 +1,7 @@
 common_event_001 covers common_event_001 and _002
 common_event_003 and _004 are reduced in size from common_event_001 and _002 manually using Windows built-in resize
-common_event_005 covers common_event_005, _007, _009, _011
-common_event_006 covers common_event_006, _008, _010, _012
+common_event_005 covers common_event_005, _007, _009, _011, _017, _019, _021
+common_event_006 covers common_event_006, _008, _010, _012, _018, _020, _022, 024
+common_event_013 covers common_event_013, _015
+common_event_014 covers common_event_014, _016
+common_event_023 is standalone

@@ -1,2 +1,3 @@
 045 and 046 from remodel_main_053 and _054 respectively
 002 from common_main_002
+remodel_powerup_024 to _027 from common_main_023 to _026 respectively

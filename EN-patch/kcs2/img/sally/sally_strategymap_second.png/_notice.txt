@@ -1,3 +1,4 @@
-_021, _022, _023, _024, _025 from common_event
-_026, _027 in same psd (_026)
-_028, _029, _030 in same psd (_028)
+sally_strategymap_second_026 to _031 from common_event_023, _013, _015, _017, _019 and _021 respectively
+sally_strategymap_second_032 covers sally_strategymap_second_032 and _033
+sally_strategymap_second_034 covers sally_strategymap_second_034 and _035
+sally_strategymap_second_036 covers sally_strategymap_second_036 and _037

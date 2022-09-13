@@ -128,6 +128,7 @@
 	"特大発動艇\\+戦車第11連隊(×|」)": "Toku Daihatsu (w/ 11th...$1",
 	"特大発動艇\\+一式砲戦車(×|」)": "Type 1 Gun Tank + Toku...$1",
 	"大発動艇\\(II号戦車/北アフリカ仕様\\)(×|」)": "Daihatsu (Panzer II/North...$1",
+	"特大発動艇\\+Ⅲ号戦車\\(北アフリカ仕様\\)(×|」)": "Toku Daihatsu Landing...$1",
 	"M4A1 DD(×|」)": "M4A1 DD$1",
 	"装甲艇\\(AB艇\\)(×|」)": "Soukoutei (Armored...$1",
 	"武装大発(×|」)": "Armed Daihatsu$1",
@@ -334,6 +335,8 @@
 	"F6F-5N(×|」)": "F6F-5N$1",
 	"SB2U(×|」)": "SB2U$1",
 	"F4U-1D(×|」)": "F4U-1D$1",
+	"F4U-7(×|」)": "F4U-7$1",
+	"AU-1(×|」)": "AU-1$1",
 	"F4U-2 Night Corsair(×|」)": "F4U-2 Night Corsair$1",
 	"F4U-4(×|」)": "F4U-4$1",
 	"SB2C-3(×|」)": "SB2C-3$1",
@@ -476,6 +479,9 @@
 	"キ102乙改\\+イ号一型乙 誘導弾(×|」)" : "Ki-102 B Kai + No.1...$1",
 	"B-25(×|」)": "B-25$1",
 	"Loire 130M(×|」)": "Loire 130M$1",
+	"Mosquito FB Mk\\.VI(×|」)": "Mosquito FB Mk.VI$1",
+	"Mosquito PR Mk\\.IV(×|」)" : "Mosquito PR Mk.IV$1",
+	"Mosquito TR Mk\\.33(×|」)": "Mosquito TR Mk.33$1",
 
 	"dummy": "forNoComma"
 }
