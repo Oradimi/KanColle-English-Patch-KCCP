@@ -1,44 +1,5 @@
 {
-	"遠征艦隊、西へ！": "Expedition Fleet, to the West!",
-	"インド洋/アラビア海": "Indian Ocean / Arabian Sea",
-	"反攻上陸作戦「トーチ作戦」\nに参加するため、遠征艦隊を\n西方に派遣する！同進路上の\n前路掃討を実施せよ！": "Send an expeditionary fleet westwards to take part in Operation Torch, a counter-offensive landing operation! Conduct frontline sweeping on the same route!",
-
-	"アデン湾を抜けて": "Through the Aden Gulf",
-	"アラビア海/アデン湾/紅海": "Arabian Sea / Gulf of Aden / Red Sea",
-	"海上輸送によって航空基地を\n前進し、艦隊主力を展開して\nアデン湾周辺の安全を確保！\nスエズ運河へ前進せよ！": "Advance air bases by sea transport, deploy main fleet forces and secure the area around the Gulf of Aden! Advance to the Suez Canal!",
-
-	"アレクサンドリアの風": "The Wind of Alexandria",
-	"スエズ湾/地中海": "Gulf of Suez / Mediterranean Sea",
-	"スエズ運河を抜けて、地中海\n方面へ進出！基地航空隊と連\n携し、アレクサンドリアより\n進発、地中海を突破せよ！": "Advance through the Suez Canal and into the Mediterranean! In coordination with the base air force, advance from Alexandria and break through the Mediterranean!",
-
-	"トーチ作戦任務部隊、抜錨！": "Operation Torch Task Force, Weigh Anchor!",
-	"大西洋/ジブラルタル沖": "Atlantic Ocean / Off Gibraltar",
-	"北アフリカ方面への反攻上陸\n「トーチ作戦」を開始する！\n英国及び米東海岸方面からも\n艦隊進発！作戦開始位置へ！": "Launch Operation Torch, a counter-offensive landing in the North African sector! Launch the fleet from the UK and the US East Coast! Move into position now!",
-
-	"反攻上陸！トーチ作戦": "Counter Landing! Operation Torch",
-	"ジブラルタル沖/北アフリカ沖": "Off Gibraltar / North Africa",
-	"いよいよ北アフリカ沿岸へ着\n上陸作戦を開始する！兵力を\n陸揚げした後、敵地上戦力を\n撃滅せよ！敵反撃に注意を！": "Finally, the landing operations on the North African coast are about to begin! After landing the troops, destroy the enemy ground forces! Watch out for enemy counterattacks!",
-
-	"カサブランカ沖海戦": "Battle of Casablanca",
-	"カサブランカ沖": "Off Casablanca",
-	"大反攻上陸作戦「トーチ」の\n総仕上げ、要衝カサブランカ\n攻略作戦を実施する！戦艦を\n含む在泊艦隊を無力化せよ！": "The grand counter-offensive landing \"Operation Torch\" is now in full swing, namely the assault on the key city of Casablanca! Neutralise the anchored fleet, including battleships!",
-
-	"アラビア海方面に進出す！": "Advancing towards the Arabian Sea!",
-	"対空、対潜警戒を厳にせよ！": "Maintain strict anti-aircraft and\nanti-submarine precautions!",
-	"遠征艦隊の前路掃討を実施する！抜錨！": "Conduct frontline sweeping for\nthe expeditionary fleet! Weigh anchor!",
-
-	"遠征艦隊、アデン湾方面へ進出せよ！": "Expeditionary fleet, advance towards\nthe Gulf of Aden!",
-
-	"スエズ運河を越え、地中海に進出せよ！": "Cross the Suez Canal and\nenter the Mediterranean!",
-	"敵機動部隊、接近中！警戒を厳にせよ！": "Enemy task force approaching!\nMaintain high vigilance!",
-
-	"トーチ作戦派遣部隊、抜錨する！\n大西洋上、対潜警戒も厳に！": "Operation Torch Detachment, anchor away!\nMaintain strict anti-submarine precautions in\n     the Atlantic Ocean!",
-
-	"地中海連合艦隊、これより敵主力艦隊を捜索、\n発見次第、これを撃滅する！": "The Mediterranean Combined Fleet will now\nsearch for the main enemy fleet and destroy\n     it on sight!",
-
-	"カサブランカ方面の偵察を実施！\n同港に戦艦級含む有力な艦隊を認む！": "Conduct reconnaissance in the Casablanca\narea! Identify the leading fleet that contains a\n     battleship class in the same port!",
-	"「トーチ作戦」の総仕上げを敢行する！\n西方任務部隊、カサブランカへ！": "We are going to put the finishing touches to\nOperation Torch! Western Task Force,\n     to Casablanca!",
-	"「トーチ作戦」西方任務部隊、先遣部隊、\nこれよりカサブランカ方面に進出する！": "Operation Torch, Western Task Force,\nVanguard Force, now moving into the\n     Casablanca area!",
+	
 
 	"dummy": "forNoComma"
 }

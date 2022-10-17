@@ -25,7 +25,7 @@ Object.defineProperty(PIXI.Text.prototype, "text", {  get() { return this._text;
             text = replaced
         else if (text != null) {
             for (const [from, to] of KCT_REPLACEMENTS)
-                text = text.replace(new RegExp(from, "g"), to)
+                text = text.replace(new RegExp(from, "gm"), to)
         }
         text = String(text === '' || text === null || text === undefined ? ' ' : text);
 
