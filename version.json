@@ -7616,5 +7616,43 @@
       "EN-patch/kcs2/resources/useitem/card/096.png/patched.png",
       "README.md"
     ]
+  },
+  {
+    "version": "3.20.3",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_002.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_003.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_004.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_005.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_006.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_007.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_008.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_009.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_010.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_011.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_012.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_013.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_014.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_015.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_016.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_017.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_018.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_019.png",
+      "EN-patch/kcs2/img/map/map_decision.png/original/map_decision_020.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-items.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-equip_types.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/484_3062.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/484_3062.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/483_9602.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/483_9602.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/484_4859.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/484_4859.png/patched.png"
+    ]
   }
 ]
