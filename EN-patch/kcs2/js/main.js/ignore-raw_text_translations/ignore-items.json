@@ -170,6 +170,9 @@
 	"_item_id_95": "_item_id_95",
 	"潜水艦補給物資": "Sub. Supply Materials",
 	"旗艦潜水母艦によって指揮され\nた潜水艦隊が潜水艦隊攻撃実施\n時に使用する補給物資です。\n※同攻撃実施で消費します。": "(Submarine Supply Materials)\nThese supplies are used by\nsubmarine fleets\ncommanded by a submarine\ntender as flagship during\nsubmarine attacks.\n※ Consumed during the\n　 attack.",
+	"_item_id_96": "_item_id_96",
+	"南瓜": "Pumpkin",
+	"艦娘が丹精込めて畑で栽培した\n国産の南瓜です。甘みも抜群で\nケーキや羊羹にも最適です。\n※限定任務終了で消滅します。": "A home-grown pumpkin,\ncarefully cultivated in the\nfields by the shipgirls. It has\nan excellent sweetness and\nis ideal for cakes and yōkan.\n※Will disappear with\nthe related limited quests' end.",
 
 	"dummy": "forNoComma"
 }
