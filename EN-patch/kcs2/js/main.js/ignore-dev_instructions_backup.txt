@@ -51,7 +51,7 @@ git checkout main
 git checkout --no-overlay dev *png *json *md *bat *ps1
 > check for files that shouldn't be there
 git add .
-git diff --staged --name-status > diff.txt
+git diff --staged --name-status --no-renames > diff.txt
 > bring in and run version file builder
-> delete diff.txt
+> delete version file builder and diff.txt
 > commit and push main branch
