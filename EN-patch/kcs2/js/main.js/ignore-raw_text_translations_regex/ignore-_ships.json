@@ -721,6 +721,8 @@
 	"(\n|^)正規空母 (「?)Ranger改(」?)(\n|$)": "$1CV $2Ranger Kai$3$4",
 	"(\n|^)戦艦 (「?)Jean Bart(」?)(\n|$)": "$1BB $2Jean Bart$3$4",
 	"(\n|^)戦艦 (「?)Jean Bart改(」?)(\n|$)": "$1BB $2Jean Bart Kai$3$4",
+	"(\n|^)軽空母 (「?)鳳翔改二(」?)(\n|$)": "$1CVL $2Houshou Kai Ni$3$4",
+	"(\n|^)軽空母 (「?)鳳翔改二戦(」?)(\n|$)": "$1CVL $2Houshou Kai Ni Sen$3$4",
 
 	"dummy": "forNoComma"
 }
