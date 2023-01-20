@@ -177,5 +177,10 @@
 	"ヒ船団海上護衛作戦": "Hi Convoy Maritime\nEscort Operation",
 	"南方から本土方面に重要資源を\n輸送するヒ船団。同船団を敵潜\n及び敵機動部隊から護る海上護\n衛作戦を発動する！抜錨せよ！": "The Hi Convoy transports vital\nresources from the south to\nthe mainland. Protect the fleet\nfrom enemy submarines and\ntask forces by launching a\nmaritime escort operation!\nWeigh anchor!",
 
+	"map_code": "7-5",
+	"ジャワ島沖": "Off Java Island",
+	"スラバヤ沖海戦・バタビア沖海戦": "Battle of Surabaya and\nBattle of Batavia",
+	"ジャワ島東部に攻略部隊を揚陸\nする！有力なる艦隊でスラバヤ\n沖にて敵の迎撃戦力を撃破し、\n敵残存艦隊も猛追！撃滅せよ！": "We are landing an invasion\nforce in the eastern part\nof Java! With a strong fleet,\ndestroy the intercepting\nenemy force off the coast of\nSurabaya, and chase down\nthe enemy's remaining forces!",
+
 	"dummy": "forNoComma"
 }
