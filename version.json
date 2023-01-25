@@ -11725,5 +11725,17 @@
       "EN-patch/kcs2/resources/map/007/05.png/original.png",
       "EN-patch/kcs2/resources/map/007/05.png/patched.png"
     ]
+  },
+  {
+    "version": "3.21.4",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-items.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-payitems.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-ship_types.json"
+    ]
   }
 ]
