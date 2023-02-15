@@ -8,7 +8,7 @@ This link above redirects to a document that contains everything you need to get
 whether it be as a new player, as a returning or active player, on PC, Mac, Linux or Android.
 It also contains some useful resources for the game itself, and an early walkthrough if you feel lost.
 ## [Discord server](https://discord.gg/krMeMKB)
-- **Popular:** Over 1,000 members and growing! Join a lively community.
+- **Popular:** Over 1,300 members and growing! Join a lively community.
 - **Helpful:** Need help with installing the game or figuring out mechanics? We're here to help!
 - **Links:** Want to explore the other existing KanColle Discords? There's a gateway channel!
 - **Ping Squad role:** Receive pings for polls and update notices about the patch.
@@ -19,7 +19,7 @@ It also contains some useful resources for the game itself, and an early walkthr
 ##### What it is
 This patch is composed of translated textures to be used by the assets modifier of [KCCacheProxy](https://github.com/Tibowl/KCCacheProxy/wiki/Installation-and-setup).\
 It also supports raw text patching, such as ship names, quests, flavor text etc.\
-[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.04a to v3.17.1)
+[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.14.1 to v3.20.3)
 
 ##### How it works
 Unlike other patching methods like MITM, POI's "My Cache" folder or ShimakazeGo's "Cache Mode hack",\
