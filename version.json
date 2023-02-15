@@ -11737,5 +11737,38 @@
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-payitems.json",
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-ship_types.json"
     ]
+  },
+  {
+    "version": "3.21.5",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-ship_types.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/0324_9440.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0324_9440.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0325_5647.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0325_5647.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0326_6337.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0326_6337.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0327_5033.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0327_5033.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0451_8052.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0451_8052.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0489_3484.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0489_3484.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0490_2380.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0490_2380.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0490_8851.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0490_8851.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0489_8941.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0489_8941.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0490_1157.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0490_1157.png/patched.png",
+      "README.md"
+    ]
   }
 ]
