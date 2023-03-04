@@ -1,5 +1,24 @@
 {
-	
+	"S21作戦": "Operation S21",
+	"日本本土近海哨戒圏": "Japanese Mainland\nPatrol Area",
+	"本土近海を跳梁し、我が海上\n輸送路及び水上艦艇への脅威\nとなる敵潜水艦を捕捉、殲滅\nする！敵機動部隊にも警戒！": "Acquire and destroy the enemy submarines that are leaping over the seas near the mainland and are threatening our sea transport routes and surface vessels! Be on the lookout for enemy task forces as well!",
+
+	"第二水雷戦隊 海上遊撃戦": "The 2nd Torpedo Squadron's\nMaritime Guerrilla Warfare",
+	"南西諸島沖/台湾沖": "Off Nansei Islands / Off Taiwan",
+	"沖縄南西諸島方面に襲来した\n敵侵攻部隊兵站を分断する！\n精鋭第二水雷戦隊、海上遊\n撃戦を展開、暁に勝利を！": "Break up the logistics of the enemy invasion force that has attacked Nansei Islands, Okinawa! The elite 2nd Torpedo Squadron, deploying for a maritime battle, will win the battle at dawn!",
+
+	"敵空襲部隊を討て！": "Destroy the Enemy\nAir Raid Force!",
+	"九州沖/四国沖/八丈島沖": "Off Kyuushuu / Off Shikoku / Off Hachijoujima",
+	"いよいよ敵機動部隊が呉方面\n及び関東地区への空襲を開始\nした。我が全戦力を挙げて、\nこれを邀撃する！艦隊出撃！": "Enemy task forces have at last initiated air raids on the Kure area and the Kantou region. With all our forces, we will intercept them! Launch the fleet!",
+
+
+	"艦隊は伊豆半島沖を通過！\n対潜、対空監視を厳とせよッ！": "Our fleet has sailed past the Izu Peninsula!\nMaintain strict anti-submarine\n     and anti-aircraft stations!",
+	"警戒！付近に敵機動部隊あり！\n対潜、対空警戒を厳に！艦隊、増速ッ！": "Alert! Enemy task force in the vicinity!\nMaintain anti-submarine and anti-aircraft\n     positions! Fleet, full steam ahead!",
+
+	"周辺に、敵機動部隊本陣あり……！\n反復出撃の要を認む！": "Enemy task force headquarters in the vicinity!\nRepeated sorties required!",
+
+	"敵の通信を傍受ッ！\n付近に敵機動部隊あり！": "Enemy transmissions intercepted!\nEnemy task force in the vicinity!",
+	"連合艦隊、出撃！\nこれより敵機動部隊を撃滅する！": "Allied fleet, sortie! We will now\ndestroy the enemy task force!",
 
 	"dummy": "forNoComma"
 }

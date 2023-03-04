@@ -720,6 +720,12 @@
 	"Jean Bart改": "Jean Bart Kai",
 	"鳳翔改二": "Houshou Kai Ni",
 	"鳳翔改二戦": "Houshou Kai Ni Sen",
+	"夕暮": "Yuugure",
+	"夕暮改": "Yuugure Kai",
+	"Heywood L.E.": "Heywood",
+	"Heywood L.E.改": "Heywood Kai",
+	"熊野丸": "Kumano Maru",
+	"熊野丸改": "Kumano Maru Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -950,6 +956,8 @@
 	"試作空母姫\nバカンスmode-壊": "Prototype Carrier Princess\nVacation Mode (Damaged)",
 	"戦艦未完棲姫": "Incomplete Battleship Princess",
 	"戦艦未完棲姫-壊": "Incomplete Battleship Princess (Damaged)",
+	"戦標船改装棲姫": "Remodeled Wartime Cargo Princess",
+	"戦標船改装棲姫-壊": "Remodeled Wartime Cargo Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }
