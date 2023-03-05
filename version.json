@@ -11906,5 +11906,14 @@
       "EN-patch/kcs2/resources/slot/remodel/0491_2995.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0491_2995.png/patched.png"
     ]
+  },
+  {
+    "version": "3.21.7",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json"
+    ]
   }
 ]
