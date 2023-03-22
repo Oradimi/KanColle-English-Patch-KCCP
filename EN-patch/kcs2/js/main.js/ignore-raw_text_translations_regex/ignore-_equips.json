@@ -492,6 +492,14 @@
 	"Mosquito FB Mk\\.VI(×|」)": "Mosquito FB Mk.VI$1",
 	"Mosquito PR Mk\\.IV(×|」)": "Mosquito PR Mk.IV$1",
 	"Mosquito TR Mk\\.33(×|」)": "Mosquito TR Mk.33$1",
+	"零戦52型丙\\(八幡部隊\\)(×|」)": "T0 M52C (Hachiman...$1",
+	"一式陸攻\\(八幡部隊\\)(×|」)": "T1 (Hachiman Force)...$1",
+	"特大発動艇\\+チハ(×|」)": "Chi-Ha + Toku Daihatsu...$1",
+	"特大発動艇\\+チハ改(×|」)": "Chi-Ha Kai + Toku...$1",
+	"陸軍歩兵部隊(×|」)": "Army Infantry Corps$1",
+	"九七式中戦車\\(チハ\\)(×|」)": "T97 Medium Tank...$1",
+	"九七式中戦車 新砲塔\\(チハ改\\)(×|」)": "T97 Medium Tank...$1",
+	"陸軍歩兵部隊\\+チハ改(×|」)": "Army Infantry Corps +...$1",
 
 	"dummy": "forNoComma"
 }

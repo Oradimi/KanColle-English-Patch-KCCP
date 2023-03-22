@@ -729,6 +729,12 @@
 	"(\n|^)駆逐艦 (「?)Heywood L.E.改(」?)(\n|$)": "$1DD $2Heywood Kai$3$4",
 	"(\n|^)揚陸艦 (「?)熊野丸(」?)(\n|$)": "$1LHA $2Kumano Maru$3$4",
 	"(\n|^)揚陸艦 (「?)熊野丸改(」?)(\n|$)": "$1LHA $2Kumano Maru Kai$3$4",
+	"(\n|^)海防艦 (「?)能美(」?)(\n|$)": "$1DE $2Noumi$3$4",
+	"(\n|^)海防艦 (「?)能美改(」?)(\n|$)": "$1DE $2Noumi Kai$3$4",
+	"(\n|^)重巡洋艦 (「?)Tuscaloosa(」?)(\n|$)": "Tuscaloosa$3$4",
+	"(\n|^)重巡洋艦 (「?)Tuscaloosa改(」?)(\n|$)": "Tuscaloosa Kai$3$4",
+	"(\n|^)戦車揚陸艦 (「?)第百一号輸送艦(」?)(\n|$)": "$1LST $2No.101 Transport Ship$3$4",
+	"(\n|^)戦車揚陸艦 (「?)第百一号輸送艦改(」?)(\n|$)": "$1LST $2No.101 Transport Ship Kai$3$4",
 
 	"dummy": "forNoComma"
 }
