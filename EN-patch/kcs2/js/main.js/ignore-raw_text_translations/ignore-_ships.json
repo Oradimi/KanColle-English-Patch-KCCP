@@ -726,6 +726,12 @@
 	"Heywood L.E.改": "Heywood Kai",
 	"熊野丸": "Kumano Maru",
 	"熊野丸改": "Kumano Maru Kai",
+	"能美": "Noumi",
+	"能美改": "Noumi Kai",
+	"Tuscaloosa": "Tuscaloosa",
+	"Tuscaloosa改": "Tuscaloosa Kai",
+	"第百一号輸送艦": "No.101 Transport Ship",
+	"第百一号輸送艦改": "No.101 Transport Ship Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -832,6 +838,8 @@
 	"集積地棲姫III\nバカンスmode": "Supply Depot Princess C\nVacation Mode",
 	"集積地棲姫III バカンスmode-壊": "Supply Depot Princess C Vacation Mode (Damaged)",
 	"集積地棲姫III\nバカンスmode-壊": "Supply Depot Princess C\nVacation Mode (Damaged)",
+	"集積地棲姫IV": "Supply Depot Princess D",
+	"集積地棲姫IV-壊": "Supply Depot Princess D (Damaged)",
 	"重巡棲姫": "Heavy Cruiser Princess",
 	"砲台小鬼": "Artillery Imp",
 	"離島棲姫": "Isolated Island Princess",
@@ -958,6 +966,10 @@
 	"戦艦未完棲姫-壊": "Incomplete Battleship Princess (Damaged)",
 	"戦標船改装棲姫": "Remodeled Wartime Cargo Princess",
 	"戦標船改装棲姫-壊": "Remodeled Wartime Cargo Princess (Damaged)",
+	"深海重巡水姫": "Abyssal Heavy Cruiser Water Princess",
+	"深海重巡水姫-壊": "Abyssal Heavy Cruiser Water Princess (Damaged)",
+	"深海擱座揚陸姫": "Abyssal Stranded Landing Princess",
+	"深海擱座揚陸姫-壊": "Abyssal Stranded Landing Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

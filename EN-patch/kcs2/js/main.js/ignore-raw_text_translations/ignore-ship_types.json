@@ -27,6 +27,7 @@
 	"灯台補給船 ": "AGL ",
 	"南極観測船 ": "AGB ",
 	"特設護衛空母 ": "CVE (Sp.) ",
+	"戦車揚陸艦 ": "LST ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -56,6 +57,7 @@
 	"灯台補給船": "AGL",
 	"南極観測船": "AGB",
 	"特設護衛空母": "CVE (Sp.)",
+	"戦車揚陸艦": "LST",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
@@ -70,11 +72,11 @@
 	"航空基地": "Air Base",
 	"大型軽巡洋艦": "Large-scaled Light Cruiser",
 	"港湾要塞都市": "Fortified Harbour City",
-	"改装弩級戦艦": "Improved Dreadnought BB",
-	"深海新型軽巡洋艦": "New Model Abyssal CL",
+	"改装弩級戦艦": "Improved Dreadnought Battleship",
+	"深海新型軽巡洋艦": "New Model Abyssal Light Cruiser",
 	"艦隊旗艦": "Fleet Flagship",
-	"欧州装甲空母": "European CVB",
-	"新型潜水艦": "New Model SS",
+	"欧州装甲空母": "European Armored Carrier",
+	"新型潜水艦": "New Model Submarine",
 	"護衛空母": "Escort Carrier",
 	"離島基地": "Isolated Island Base",
 	"岸壁護衛空母": "Quay Escort Carrier",
@@ -88,6 +90,8 @@
 	"未完成戦艦": "Incomplete Battleship",
 	"合同艦隊沈没巡洋艦": "United Fleet Sunken Cruiser",
 	"戦標船改装空母": "Remodeled Wartime Cargo Carrier",
+	"深海重巡洋艦": "Abyssal Heavy Cruiser",
+	"侵攻部隊兵站集積地": "Invasion Force Supply Depot",
 
 	"dummy": "forNoComma"
 }
