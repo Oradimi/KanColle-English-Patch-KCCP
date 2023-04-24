@@ -500,6 +500,8 @@
 	"九七式中戦車\\(チハ\\)(×|」)": "T97 Medium Tank...$1",
 	"九七式中戦車 新砲塔\\(チハ改\\)(×|」)": "T97 Medium Tank...$1",
 	"陸軍歩兵部隊\\+チハ改(×|」)": "Army Infantry Corps +...$1",
+	"発煙装置\\(煙幕\\)(×|」)": "Smoke Generator...$1",
+	"発煙装置改\\(煙幕\\)(×|」)": "Smoke Generator Kai...$1",
 
 	"dummy": "forNoComma"
 }

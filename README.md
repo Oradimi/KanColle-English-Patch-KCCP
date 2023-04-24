@@ -8,7 +8,7 @@ This link above redirects to a document that contains everything you need to get
 whether it be as a new player, as a returning or active player, on PC, Mac, Linux or Android.
 It also contains some useful resources for the game itself, and an early walkthrough if you feel lost.
 ## [Discord server](https://discord.gg/krMeMKB)
-- **Popular:** Over 1,300 members and growing! Join a lively community.
+- **Popular:** Over 1,400 members and growing! Join a lively community.
 - **Helpful:** Need help with installing the game or figuring out mechanics? We're here to help!
 - **Links:** Want to explore the other existing KanColle Discords? There's a gateway channel!
 - **Ping Squad role:** Receive pings for polls and update notices about the patch.
