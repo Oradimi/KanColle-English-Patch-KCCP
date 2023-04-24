@@ -12029,5 +12029,37 @@
       "EN-patch/kcs2/resources/slot/remodel/0499_5420.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0499_5420.png/patched.png"
     ]
+  },
+  {
+    "version": "3.21.9",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/duty/duty_main.png/original/duty_main_074.png",
+      "EN-patch/kcs2/img/duty/duty_main.png/patched/duty_main_074.png",
+      "EN-patch/kcs2/img/sally/sally_strategymap.png/patched/sally_strategymap_027.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/img/title/title_main.png/patched/title_main_004.png",
+      "EN-patch/kcs2/img/title/title_main.png/patched/title_main_005.png",
+      "EN-patch/kcs2/img/title/title_main.png/patched/title_main_006.png",
+      "EN-patch/kcs2/img/title/title_main.png/patched/title_main_007.png",
+      "EN-patch/kcs2/img/title/title_main.png/patched/title_main_008.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-exercises.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-music.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-payitems.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-ship_types.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-terms.json",
+      "EN-patch/kcs2/resources/slot/remodel/0500_7147.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0500_7147.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0501_9632.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0501_9632.png/patched.png",
+      "README.md"
+    ]
   }
 ]
