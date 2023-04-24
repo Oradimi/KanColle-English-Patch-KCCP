@@ -10,7 +10,7 @@
 	"改装航空巡洋艦 ": "CAV (Sp.) ",
 	"軽巡洋艦 ": "CL ",
 	"兵装実験軽巡 ": "CL (Sp.) ",
-	"防空巡洋艦 ": "CL (AA) ",
+	"防空巡洋艦 ": "CLAA ",
 	"軽(航空)巡洋艦 ": "CL(V) ",
 	"重雷装巡洋艦 ": "CLT ",
 	"練習巡洋艦 ": "CT ",
@@ -40,7 +40,7 @@
 	"改装航空巡洋艦": "CAV (Sp.)",
 	"軽巡洋艦": "CL",
 	"兵装実験軽巡": "CL (Sp.)",
-	"防空巡洋艦": "CL (AA)",
+	"防空巡洋艦": "CLAA",
 	"軽(航空)巡洋艦": "CL(V)",
 	"重雷装巡洋艦": "CLT",
 	"練習巡洋艦": "CT",
@@ -92,6 +92,7 @@
 	"戦標船改装空母": "Remodeled Wartime Cargo Carrier",
 	"深海重巡洋艦": "Abyssal Heavy Cruiser",
 	"侵攻部隊兵站集積地": "Invasion Force Supply Depot",
+	"深海戦車揚陸艦": "Abyssal Tank Landing Ship",
 
 	"dummy": "forNoComma"
 }

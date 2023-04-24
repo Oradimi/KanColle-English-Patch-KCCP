@@ -7,6 +7,7 @@
 	"より次回演習候補を更新後に設定。": " selected for the next set.",
 	"更新後に設定変更可能です。": "Setting applied after the reset.",
 	"演習相手は一日二回更新されます。": "Exercise set renewed twice a day.",
+	"連合艦隊では出撃できません。": "You cannot sortie here with a Combined Fleet.",
 	"演習": "Exercise",
 
 	"dummy": "forNoComma"

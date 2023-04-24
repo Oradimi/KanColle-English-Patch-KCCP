@@ -17,6 +17,6 @@ repair - complete
 revamp - more details in the folder
 sally - more details in the folder
 supply - needs separation
-title - needs separation + psds missing
+title - separated, but logo missing psd
 tutorial - complete (might fine tune later)
 wedding - complete (guide needs explanation)
