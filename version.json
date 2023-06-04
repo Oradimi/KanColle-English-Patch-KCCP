@@ -12253,5 +12253,27 @@
       "EN-patch/kcs2/resources/slot/remodel/0503_4252.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0503_4252.png/patched.png"
     ]
+  },
+  {
+    "version": "3.21.11",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/remodel/remodel_preset_slot_text.png/original/remodel_preset_slot_text_015.png",
+      "EN-patch/kcs2/img/remodel/remodel_preset_slot_text.png/original/remodel_preset_slot_text_016.png",
+      "EN-patch/kcs2/img/remodel/remodel_preset_slot_text.png/patched/remodel_preset_slot_text_015.png",
+      "EN-patch/kcs2/img/remodel/remodel_preset_slot_text.png/patched/remodel_preset_slot_text_016.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-items.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-payitems.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-remodel.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/0504_9160.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0504_9160.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0504_9292.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0504_9292.png/patched.png"
+    ]
   }
 ]

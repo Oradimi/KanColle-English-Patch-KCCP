@@ -12,6 +12,7 @@
 	"本改装には｢改装設計図｣([0-9])枚と\n｢試製甲板カタパルト｣と\n｢戦闘詳報｣([0-9])部が必要です。": "Requires $1 Blueprint(s),\na Prototype Catapult\nand $2 Action Report(s).",
 	"本改装には｢改装設計図｣([0-9])枚と\n｢試製甲板カタパルト｣｢戦闘詳報｣\n｢新型航空兵装資材x?([0-9]?)｣が必要です。": "Requires $1 Blueprint(s),\na Prototype Catapult,\nan Action Report and\n$2 New Mod. Aviation Mat.",
 	"本改装には｢改装設計図｣([0-9])枚と\n｢新型砲熕兵装資材x([0-9])｣｢戦闘詳報｣\n｢新型高温高圧缶x([0-9])｣が必要です。": "Requires $1 Blueprint(s),\n$2 New Mod. Gun Mount Mat.,\nan Action Report and\n$3 New Model Boiler(s).",
+	"本改装には｢戦闘詳報｣([0-9])部と\n｢新型兵装資材｣([0-9])つと\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 Action Report(s),\n$2 New Mod. Armament Mat.\nand $3 Blueprint(s).",
 
 	"本改装は｢試製甲板カタパルト｣と\n｢改装設計図｣([0-9])枚を使用します。": "Requires a Proto. Catapult\nand $1 Blueprint(s).",
 	"本改装は｢戦闘詳報｣([0-9])部と\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 Action Report(s)\nand $2 Blueprint(s).",
