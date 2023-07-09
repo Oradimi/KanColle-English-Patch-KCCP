@@ -739,6 +739,7 @@
 	"(\n|^)戦艦 (「?)榛名改二乙(」?)(\n|$)": "$1BB $2Haruna Kai Ni B$3$4",
 	"(\n|^)戦艦 (「?)榛名改二丙(」?)(\n|$)": "$1BB $2Haruna Kai Ni C$3$4",
 	"(\n|^)駆逐艦 (「?)時雨改三(」?)(\n|$)": "$1DD $2Shigure Kai San$3$4",
+	"(\n|^)駆逐艦 (「?)天津風改二(」?)(\n|$)": "$1DD $2Amatsukaze Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
