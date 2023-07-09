@@ -52,7 +52,7 @@
 	"特注家具を製作する職人さん。\n家具屋さんで使用する。": "A craftsman who makes\ncustom-made furniture.\nUsed in the Furniture Shop.",
 	"_item_id_53": "_item_id_53",
 	"母港拡張": "Port Expansion Set",
-	"最大保有艦娘数＋10(最大580)。最大保有アイテム数＋40(最大2510)。": "Maximum number of ships\n+10 (max 580).\nMaximum number of items\n+40 (max 2510).",
+	"_TL_in_regex_folder": "_TL_in_regex_folder",
 	"_item_id_54": "_item_id_54",
 	"給糧艦「間宮」": "「Mamiya」Food Supply",
 	"艦隊全体の疲労度を回復する給\n糧艦。編成で使用可能。": "A food supply ship that\nrecovers the entire fleet from\nfatigue. Can be used in the\n\"Fleet\" menu.",
@@ -175,7 +175,14 @@
 	"艦娘が丹精込めて畑で栽培した\n国産の南瓜です。甘みも抜群で\nケーキや羊羹にも最適です。\n※限定任務終了で消滅します。": "A home-grown pumpkin,\ncarefully cultivated in the\nfields by the shipgirls. It has\nan excellent sweetness and\nis ideal for cakes and yōkan.\n※Will disappear with\nthe related limited quests' end.",
 	"_item_id_97": "_item_id_97",
 	"てるてる坊主": "Teru Teru Bouzu",
-	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n複数集めると梅雨明け頃に何か\n少しいいコトあるかも！　　　\n※夏本格到来時に消滅します。": "Teru Teru Bouzu (paper doll)\nmade and assembled by the\nshipgirls. You may get some\npretty good stuff at the end\nof the rainy season if you\ncollect many!\n※ Will disappear with\n　 the related limited\n　 quests' end.",
+	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n複数集めると梅雨明け頃に何か\n少しいいコトあるかも！　　　\n※夏本格到来時に消滅します。": "Teru Teru Bouzu (paper doll)\nmade and assembled by the\nshipgirls. You may get some\npretty good stuff at the end\nof the rainy season if you\ncollect many!\n※ Will disappear when the\n　 summer really begins.",
+	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n※海色リボンや限定家具、装備\n　や資材などと交換可能です。\n※夏本格到来時に消滅します。": "Cloth doll made and\nassembled by the shipgirls.\n※ Can be exchanged for\n　 Sea-colored Ribbons,\n　 limited-edition furniture,\n　 equipment and materials.\n※ Will disappear when the\n　 summer really begins.",
+	"_item_id_98": "_item_id_98",
+	"海色リボン": "Sea-colored Ribbon",
+	"旗艦に付与されます(既に同様 \nのものが付与されている場合は\n上書きして付与されます)。　 \n※艦娘の能力が微上昇します。": "Assigned to the flagship\n(if a similar item has already\nbeen assigned, it will be\noverwritten).\n※ Slightly increases the\n　 abilities of the shipgirl.",
+	"_item_id_99": "_item_id_99",
+	"白たすき": "White Tasuki",
+	"旗艦に付与されます(既に同様 \nのものが付与されている場合は\n上書きして付与されます)。　 \n※艦娘戦闘力が微上昇します。": "Assigned to the flagship\n(if a similar item has already\nbeen assigned, it will be\noverwritten).\n※ Slightly increases the\n　 combat power of the\n　 shipgirl.",
 
 	"dummy": "forNoComma"
 }

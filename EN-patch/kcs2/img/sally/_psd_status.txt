@@ -6,6 +6,6 @@ event - needs partial remaster and separation
 expedition - needs remaster and separation
 jin - might need partial remaster
 map_parts - complete
-practice - needs remaster and separation
+practice - complete
 sortie - needs remaster and separation
 top - complete

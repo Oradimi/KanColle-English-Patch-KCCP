@@ -11,7 +11,7 @@ map - more details in the folder
 minigame - complete
 organize - more details in the folder
 port - more details in the folder
-record - psds missing
+record - complete
 remodel - more details in the folder
 repair - complete
 revamp - more details in the folder
