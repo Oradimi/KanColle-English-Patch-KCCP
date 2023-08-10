@@ -28,6 +28,7 @@
 	"南極観測船 ": "AGB ",
 	"特設護衛空母 ": "CVE (Sp.) ",
 	"戦車揚陸艦 ": "LST ",
+	"練習特務艦 ": "CT ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -58,6 +59,7 @@
 	"南極観測船": "AGB",
 	"特設護衛空母": "CVE (Sp.)",
 	"戦車揚陸艦": "LST",
+	"練習特務艦": "CT",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
@@ -93,6 +95,7 @@
 	"深海重巡洋艦": "Abyssal Heavy Cruiser",
 	"侵攻部隊兵站集積地": "Invasion Force Supply Depot",
 	"深海戦車揚陸艦": "Abyssal Tank Landing Ship",
+	"轟沈駆逐艦": "Sunk Destroyer",
 
 	"dummy": "forNoComma"
 }

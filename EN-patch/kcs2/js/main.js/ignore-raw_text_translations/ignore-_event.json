@@ -1,4 +1,28 @@
 {
+	"横須賀鎮守府/呉鎮守府沖": "Yokosuka Naval Base / Off Kure Naval Base",
+	"本土近海哨戒遭遇戦": "Mainland Coastal\nPatrol Engagement",
+	"欧州方面の反攻上陸作戦参加\nの前に内地及び周辺海上輸送\n航路の脅威を排除する！艦隊\n出撃！制海権を確保せよ！": "Before engaging in counter-offensive landing operations in the European area, eliminate threats along the domestic and surrounding maritime shipping lanes! Launch the fleet! Secure control of the sea!",
+
+	"南沙諸島沖/カムラン湾沖": "Off the Spratly Islands / Off Cam Ranh Bay",
+	"朝日、再び": "The Sun Rises,\nOnce Again",
+	"昭南本土航路及び同周辺南沙\n諸島海域制海権を確保せよ！\nカムラン湾沖に出没する通商\n破壊部隊を捜索、撃滅せよ！": "Secure control of the Shonan mainland shipping lanes and the surrounding Nansha Islands waters! Locate and destroy the trade-destroying forces appearing off Cam Ranh Bay!",
+
+	"八戸港沖/三陸沖": "Off Hachinohe Harbor / Off Sanriku",
+	"八戸の盾": "Hachinohe's Shield",
+	"三陸沖に接近中の敵機動部隊\nを遊撃する！八戸付近の防御\nを固め、連合艦隊主力を以て\n敵機動部隊を補足撃滅せよ！": "Engage the approaching enemy task force off Sanriku! Strengthen the defenses near Hachinohe and with the main force of the Combined Fleet, destroy the enemy task force!",
+
+	"津軽海峡/北海道釧路沖": "Tsugaru Strait / Off Kushiro, Hokkaidō",
+	"鎮魂の北海道厚岸沖": "A Requiem for Akkeshi",
+	"北海道千島方面の海上輸送を\n確かなものにするため、第五\n艦隊、そして一水戦や諸艦隊\nの力を結集、敵を撃滅せよ！": "In order to ensure safe deliveries to the Kuril Islands of Hokkaido, the 5th Fleet, the 1st Torpedo Squadron and other fleets must combine their forces and destroy the enemy!",
+
+	"付近に敵機動部隊出現の兆候を認む。\n対空警戒を厳に！": "We have detected signs of enemy task forces\nin the vicinity. Maintain anti-aircraft alert!",
+	"艦隊は呉に入港、さらに徳山燃料廠へ。\n対空警戒は怠るな！": "Our fleet is in port at Kure, and then on to\nTokuyama Fuel Depot. Do not let up on\n     anti-aircraft alert!",
+
+	"これより津軽海峡へ進入、太平洋側に出る。\n艦隊、対空警戒を厳に！": "We will now enter the Tsugaru Strait and\nexit on the Pacific side.\n     Fleet, keep strict anti-aircraft alert!",
+	"第五艦隊、前進ッ！\n八戸沖の敵艦隊を撃滅する。続け！": "5th Fleet, advance! Destroy the enemy fleet\noff Hachinohe. Keep going!",
+	"艦隊はこれより八戸港に入港する。\n入港用意！": "Our fleet will now enter\nthe port of Hachinohe. Get ready to dock!",
+
+	"北東方面艦隊主力、第五艦隊、見参！\n敵を捜索撃滅する！ 前進ッ！": "The main northeastern fleet, the 5th Fleet,\nis here! We will search\n     and destroy the enemy! Forward!",
 
 	"dummy": "forNoComma"
 }

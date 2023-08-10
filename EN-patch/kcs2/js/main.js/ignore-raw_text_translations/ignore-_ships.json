@@ -737,6 +737,16 @@
 	"榛名改二丙": "Haruna Kai Ni C",
 	"時雨改三": "Shigure Kai San",
 	"天津風改二": "Amatsukaze Kai Ni",
+	"朝日": "Asahi",
+	"朝日改": "Asahi Kai",
+	"稲木": "Inagi",
+	"稲木改": "Inagi Kai",
+	"第二十二号海防艦": "Kaiboukan No.22",
+	"第二十二号海防艦改": "Kaiboukan No.22 Kai",
+	"Salmon": "Salmon",
+	"Salmon改": "Salmon Kai",
+	"白雲": "Shirakumo",
+	"白雲改": "Shirakumo Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -975,6 +985,8 @@
 	"深海重巡水姫-壊": "Abyssal Heavy Cruiser Water Princess (Damaged)",
 	"深海擱座揚陸姫": "Abyssal Stranded Landing Princess",
 	"深海擱座揚陸姫-壊": "Abyssal Stranded Landing Princess (Damaged)",
+	"深海釧路沖棲雲姫": "Abyssal Kushiro Cloud Princess",
+	"深海釧路沖棲雲姫-壊": "Abyssal Kushiro Cloud Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }
