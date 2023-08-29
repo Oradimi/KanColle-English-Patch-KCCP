@@ -513,6 +513,10 @@
 	"発煙装置改\\(煙幕\\)(×|」)": "Smoke Generator Kai...$1",
 	"14inch/45 連装砲": "14inch/45 Twin Gun Mount$1",
 	"14inch/45 三連装砲": "14inch/45 Triple Gun Mount$1",
+	"阻塞気球(×|」)": "Barrage Balloon$1",
+	"特大発動艇\\+Ⅲ号戦車J型(×|」)": "Panzer III Ausf. J + Toku...$1",
+	"Sea Otter(×|」)": "Sea Otter$1",
+	"Me 262 A-1a/R1(×|」)": "Me 262 A-1a/R1$1",
 
 	"dummy": "forNoComma"
 }

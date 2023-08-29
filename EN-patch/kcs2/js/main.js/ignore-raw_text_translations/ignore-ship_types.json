@@ -96,6 +96,8 @@
 	"侵攻部隊兵站集積地": "Invasion Force Supply Depot",
 	"深海戦車揚陸艦": "Abyssal Tank Landing Ship",
 	"轟沈駆逐艦": "Sunk Destroyer",
+	"低速標準戦艦": "Slow Standard Battleship",
+	"沿岸配備防御要塞": "Coastal-deployed Defensive Fortifications",
 
 	"dummy": "forNoComma"
 }

@@ -8,12 +8,24 @@
 	"昭南本土航路及び同周辺南沙\n諸島海域制海権を確保せよ！\nカムラン湾沖に出没する通商\n破壊部隊を捜索、撃滅せよ！": "Secure control of the Shonan mainland shipping lanes and the surrounding Nansha Islands waters! Locate and destroy the trade-destroying forces appearing off Cam Ranh Bay!",
 
 	"八戸港沖/三陸沖": "Off Hachinohe Harbor / Off Sanriku",
-	"八戸の盾": "Hachinohe's Shield",
+	"八戸の盾": "The Shield of Hachinohe",
 	"三陸沖に接近中の敵機動部隊\nを遊撃する！八戸付近の防御\nを固め、連合艦隊主力を以て\n敵機動部隊を補足撃滅せよ！": "Engage the approaching enemy task force off Sanriku! Strengthen the defenses near Hachinohe and with the main force of the Combined Fleet, destroy the enemy task force!",
 
 	"津軽海峡/北海道釧路沖": "Tsugaru Strait / Off Kushiro, Hokkaidō",
 	"鎮魂の北海道厚岸沖": "A Requiem for Akkeshi",
 	"北海道千島方面の海上輸送を\n確かなものにするため、第五\n艦隊、そして一水戦や諸艦隊\nの力を結集、敵を撃滅せよ！": "In order to ensure safe deliveries to the Kuril Islands of Hokkaido, the 5th Fleet, the 1st Torpedo Squadron and other fleets must combine their forces and destroy the enemy!",
+
+	"大西洋/イギリス海峡沖": "Atlantic Ocean / English Channel",
+	"大西洋の壁": "The Atlantic Wall",
+	"大西洋の壁を乗り越え、欧州\n反攻大作戦を支援するため、\n我が艦隊を大西洋方面に派遣\nする。艦隊、抜錨せよ！": "We are sending our fleet to the Atlantic Ocean in support of the major European counter-offensive, overcoming the Atlantic Wall. Fleet, weigh anchor!",
+
+	"ポートランド島沖/ライム湾": "Off the Portland Isle / Lyme Bay",
+	"タイガー演習": "Exercise Tiger",
+	"ノルマンディー上陸作戦実施\nに先立ち、周辺部の敵戦力の\n無力化と上陸部隊の事前演習\nを実施する！作戦発動用意！": "Prior to the start of the Normandy landings, neutralisation of enemy forces in the periphery and preliminary exercises for the landing force will be carried out! Prepare to launch the operation!",
+
+	"ノルマンディー沖": "Off Normandy",
+	"ノルマンディー上陸作戦": "Normandy Landing\nOperation",
+	"全ての作戦準備は整った！\n今こそノルマンディー上陸\n作戦を実施する時！全艦隊\n発進せよ！暁に勝利を！": "All operational preparations are in place! Now is the time to conduct the Normandy landings! Launch the entire fleet! Carve victory on dawn's horizon!",
 
 	"付近に敵機動部隊出現の兆候を認む。\n対空警戒を厳に！": "We have detected signs of enemy task forces\nin the vicinity. Maintain anti-aircraft alert!",
 	"艦隊は呉に入港、さらに徳山燃料廠へ。\n対空警戒は怠るな！": "Our fleet is in port at Kure, and then on to\nTokuyama Fuel Depot. Do not let up on\n     anti-aircraft alert!",
@@ -23,6 +35,11 @@
 	"艦隊はこれより八戸港に入港する。\n入港用意！": "Our fleet will now enter\nthe port of Hachinohe. Get ready to dock!",
 
 	"北東方面艦隊主力、第五艦隊、見参！\n敵を捜索撃滅する！ 前進ッ！": "The main northeastern fleet, the 5th Fleet,\nis here! We will search\n     and destroy the enemy! Forward!",
+	"これより敵の背後を突く！艦隊、増速！": "We will now strike the enemy's rear!\nFleet, increase speed!",
+
+	"欧州遠征先遣隊、大西洋方面に進出す！\n対空、対潜警戒を厳に！ 前進せよ！": "The European Expedition Advance Force has\nmoved into the Atlantic area! Maintain strict\n     anti-air and anti-submarine alert! Forward!",
+
+	"泊地修理可能な泊地です。": "It is an anchorage suited for repairs.",
 
 	"dummy": "forNoComma"
 }
