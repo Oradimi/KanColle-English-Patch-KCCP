@@ -747,6 +747,16 @@
 	"Salmon改": "Salmon Kai",
 	"白雲": "Shirakumo",
 	"白雲改": "Shirakumo Kai",
+	"Rodney": "Rodney",
+	"Rodney改": "Rodney Kai",
+	"C.Cappellini": "Cappellini",
+	"UIT-24": "UIT-24",
+	"伊503": "I-503",
+	"Javelin": "Javelin",
+	"Javelin改": "Javelin Kai",
+	"Nevada": "Nevada",
+	"Nevada改": "Nevada Kai",
+	"Nevada改 Mod.2": "Nevada Kai Mod.2",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -987,6 +997,15 @@
 	"深海擱座揚陸姫-壊": "Abyssal Stranded Landing Princess (Damaged)",
 	"深海釧路沖棲雲姫": "Abyssal Kushiro Cloud Princess",
 	"深海釧路沖棲雲姫-壊": "Abyssal Kushiro Cloud Princess (Damaged)",
+	"トーチカ小鬼": "Pillbox Imp",
+	"対空小鬼": "Anti-Air Guns Imp",
+	"標準型戦艦棲姫": "Standard Type Battleship Princess",
+	"標準型戦艦棲姫-壊": "Standard Type Battleship Princess (Damaged)",
+	"トーチカ要塞棲姫": "Fortified Pillbox Princess",
+	"トーチカ要塞棲姫-壊": "Fortified Pillbox Princess (Damaged)",
+	"Schnellboot小鬼群": "Schnellboot Imp Pack",
+	"欧州妹姫": "European Little Sister Princess",
+	"欧州妹姫-壊": "European Little Sister Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

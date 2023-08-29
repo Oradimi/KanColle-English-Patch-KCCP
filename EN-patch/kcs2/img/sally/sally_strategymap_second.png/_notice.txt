@@ -1,4 +1,4 @@
-sally_strategymap_second_026 to _031 from common_event_023, _013, _015, _017, _019 and _021 respectively
-sally_strategymap_second_032 covers sally_strategymap_second_032 and _033
-sally_strategymap_second_034 covers sally_strategymap_second_034 and _035
-sally_strategymap_second_036 covers sally_strategymap_second_036 and _037
+sally_strategymap_second_017 to _020 from common_event_023, _017, _019, _021 respectively
+sally_strategymap_second_021 covers sally_strategymap_second_021 and _022
+sally_strategymap_second_023 covers sally_strategymap_second_023 and _024
+sally_strategymap_second_025 covers sally_strategymap_second_025 and _026
