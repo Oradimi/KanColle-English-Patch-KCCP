@@ -12875,5 +12875,15 @@
       "EN-patch/kcs2/resources/slot/remodel/0516_6933.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0516_6933.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.3",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/battle_result/battle_result_event_ed1_gczhyrpwsprxmkmz.png/patched/battle_result_event_ed1_gczhyrpwsprxmkmz_010.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json"
+    ]
   }
 ]
