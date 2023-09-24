@@ -1,10 +1,12 @@
 # Simple program to clear some Chromium browsers' cache;
 $Host.UI.RawUI.WindowTitle = "Browser/Viewer Cache Clear";
 $ProgressPreference = 'SilentlyContinue';
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
-
+If ($PSversion -gt 4) {
+	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+}
 Write-Host "Welcome to the Browser Cache Clearer!";
-Write-Host "Use this little program to just clear your cache.";
+Write-Host "Clearing your browser cache is mandatory for it to use the latest patch assets.";
+Write-Host "You can use this little program to do just this!";
 Write-Host "It will also restart KCCacheProxy to reload your mods' data if running.";
 Write-Host "";
 Write-Host "Every browser/viewer selected by you will be closed," -ForegroundColor Yellow;
@@ -17,21 +19,22 @@ Write-Host "and select only Cached images and files." -ForegroundColor Yellow;
 Write-Host "";
 Write-Host "If your browser/viewer isn't in the list,";
 Write-Host "you will have to clear your browser/viewer's cache manually.";
-Write-Host "Contact Oradimi#8947 on Discord to add support to your browser/viewer.";
+Write-Host "Contact oradimi (formerly Oradimi#8947) on Discord to add support to your browser/viewer.";
+Write-Host "Furthermore, portable browsers (with variable paths) are currently unsupported.";
 Write-Host "";
 Try {
 	$loadFile = Get-Content -Raw -Path .\EN-patch-manager\browserprefs.json -ErrorAction Stop | ConvertFrom-Json; # Load the version.json file and convert as a readonly powershell object
 	[System.Collections.ArrayList] $TaskkillList += $loadFile;
 	ForEach ($k in $TaskkillList) {
 		Switch ($k) {
-			69 {$currentBrowsers += "Poi, "} # Poi;
-			82 {$currentBrowsers += "Electronic Observer, "} # ElectronicObserver;
-			84 {$currentBrowsers += "Chromium/Google Chrome, "} # Chromium and Google Chrome;
-			89 {$currentBrowsers += "Microsoft Edge, "} # Microsoft Edge;
-			85 {$currentBrowsers += "Opera/GX, "} # Opera and Opera GX;
-			73 {$currentBrowsers += "Brave, "} # Brave;
-			79 {$currentBrowsers += "Vivaldi, "} # Vivaldi;
-			80 {$currentBrowsers += "Yandex, "} # Yandex;
+			69 {$currentBrowsers += "[E] Poi, "} # Poi;
+			82 {$currentBrowsers += "[R] Electronic Observer, "} # ElectronicObserver;
+			84 {$currentBrowsers += "[T] Chromium/Google Chrome, "} # Chromium and Google Chrome;
+			89 {$currentBrowsers += "[Y] Microsoft Edge, "} # Microsoft Edge;
+			85 {$currentBrowsers += "[U] Opera/GX, "} # Opera and Opera GX;
+			73 {$currentBrowsers += "[I] Brave, "} # Brave;
+			79 {$currentBrowsers += "[O] Vivaldi, "} # Vivaldi;
+			80 {$currentBrowsers += "[P] Yandex, "} # Yandex;
 		};
 	};
 	$currentBrowsers = $currentBrowsers.TrimEnd(", ") + ".";
@@ -76,14 +79,14 @@ If ($PressedKey -eq 27 -or $TaskkillList.Count -eq 0) {
 			$currentBrowsers = "";
 			ForEach ($k in $TaskkillList) {
 				Switch ($k) {
-					69 {$currentBrowsers += "Poi, "} # Poi;
-					82 {$currentBrowsers += "Electronic Observer, "} # ElectronicObserver;
-					84 {$currentBrowsers += "Chromium/Google Chrome, "} # Chromium and Google Chrome;
-					89 {$currentBrowsers += "Microsoft Edge, "} # Microsoft Edge;
-					85 {$currentBrowsers += "Opera/GX, "} # Opera and Opera GX;
-					73 {$currentBrowsers += "Brave, "} # Brave;
-					79 {$currentBrowsers += "Vivaldi, "} # Vivaldi;
-					80 {$currentBrowsers += "Yandex, "} # Yandex;
+					69 {$currentBrowsers += "[E] Poi, "} # Poi;
+					82 {$currentBrowsers += "[R] Electronic Observer, "} # ElectronicObserver;
+					84 {$currentBrowsers += "[T] Chromium/Google Chrome, "} # Chromium and Google Chrome;
+					89 {$currentBrowsers += "[Y] Microsoft Edge, "} # Microsoft Edge;
+					85 {$currentBrowsers += "[U] Opera/GX, "} # Opera and Opera GX;
+					73 {$currentBrowsers += "[I] Brave, "} # Brave;
+					79 {$currentBrowsers += "[O] Vivaldi, "} # Vivaldi;
+					80 {$currentBrowsers += "[P] Yandex, "} # Yandex;
 				}
 			};
 			$currentBrowsers = $currentBrowsers.TrimEnd(", ") + ".";
@@ -259,3 +262,6 @@ If ($CacheDeleted) {
 } Else {
 	Write-Host "Failed to locate any cache folder, or no cache to delete." -ForegroundColor Yellow
 };
+
+Write-Host "";
+Write-Host "You may now press any key to exit."
