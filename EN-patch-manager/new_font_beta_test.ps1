@@ -1,7 +1,9 @@
 # Simple program to move the new experimental font in the patch;
 $host.ui.RawUI.WindowTitle = "KanColle English Patch New Font Beta Test";
 $ProgressPreference = 'SilentlyContinue';
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
+If ($PSversion -gt 4) {
+	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+}
 
 Write-Host "Welcome to the KanColle English Patch new experimental font installer!";
 Write-Host "You can use this installer to test out the new font on which";

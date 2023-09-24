@@ -12885,5 +12885,33 @@
       "EN-patch/kcs2/img/title/title2.png/patched.png",
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json"
     ]
+  },
+  {
+    "version": "3.22.4",
+    "del": [
+      "_quick_updater_v0.5.0.bat"
+    ],
+    "add": [
+      "EN-patch-manager/clear_browser_cache.ps1",
+      "EN-patch-manager/launch_bat.vbs",
+      "EN-patch-manager/new_font_beta_test.ps1",
+      "EN-patch-manager/quick_updater.ps1",
+      "EN-patch-manager/update_checker.bat",
+      "EN-patch-manager/update_checker.ps1",
+      "EN-patch-manager/update_notice.bat",
+      "EN-patch-manager/update_notice.ps1",
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/battle/battle_airunit.png/patched/battle_airunit_001.png",
+      "EN-patch/kcs2/img/battle/battle_airunit.png/patched/battle_airunit_002.png",
+      "EN-patch/kcs2/img/battle/battle_airunit.png/patched/battle_airunit_003.png",
+      "EN-patch/kcs2/img/battle/battle_airunit.png/patched/battle_airunit_004.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json",
+      "README.md",
+      "_disable_update_checker.bat",
+      "_enable_update_checker.bat",
+      "_quick_updater_v0.6.0.bat",
+      "launch_bat.vbs"
+    ]
   }
 ]

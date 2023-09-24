@@ -8,7 +8,7 @@ This link above redirects to a document that contains everything you need to get
 whether it be as a new player, as a returning or active player, on PC, Mac, Linux or Android.
 It also contains some useful resources for the game itself, and an early walkthrough if you feel lost.
 ## [Discord server](https://discord.gg/krMeMKB)
-- **Popular:** Over 1,400 members and growing! Join a lively community.
+- **Popular:** Over 1,600 members and growing! Join a lively community.
 - **Helpful:** Need help with installing the game or figuring out mechanics? We're here to help!
 - **Links:** Want to explore the other existing KanColle Discords? There's a gateway channel!
 - **Ping Squad role:** Receive pings for polls and update notices about the patch.
@@ -38,8 +38,14 @@ Modifiying game assets is technically against the Terms of Service, so use at yo
 Currently, everything that is essential to comfortable gameplay,\
 or that is very often seen in the game, is translated. This even includes event flavor text.
 
-## Special Thanks
+##### English Patch Manager
+The quick updater v0.6.0 lets you easily update the patch\
+without resorting to installing git. It also clears the browser cache for you!\
+It is now also possible to launch "_enable_update_checker.bat" to be\
+immediately notified of a patch update upon launching your PC!\
+You can disable it at any time.
 
+## Special Thanks
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
 as well as for making some code specially to patch raw text in a stable way.\
 To Dark Sentinel for contributing (LBAS menu aircraft names, world icons, server banners, and more).\
