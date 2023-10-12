@@ -223,6 +223,10 @@
 	"_duplicate_艦隊10周年の抜錨": "Sallying Forth in the Fleet's 10th...",
 	"_bgm_id": "269",
 	"夜の祈り": "Night's Prayer",
+	"_bgm_id": "270",
+	"Fleet Halloween Pumpkin": "Fleet Halloween Pumpkin",
+	"_bgm_id": "271",
+	"清霜の朝": "Kiyoshimo's Morning",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -448,6 +452,10 @@
 	"♪「_duplicate_艦隊10周年の抜錨」": "♪「Sallying Forth in the Fleet's 10th Anniversary」",
 	"_bgm_id": "269",
 	"♪「夜の祈り」": "♪「Night's Prayer」",
+	"_bgm_id": "270",
+	"♪「Fleet Halloween Pumpkin」": "♪「Fleet Halloween Pumpkin」",
+	"_bgm_id": "271",
+	"♪「清霜の朝」": "♪「Kiyoshimo's Morning」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -673,6 +681,10 @@
 	"「_duplicate_艦隊10周年の抜錨」　リクエスト中♪": "「Sallying Forth in the Fleet's 10th Anniversary」currently playing ♪",
 	"_bgm_id": "269",
 	"「夜の祈り」　リクエスト中♪": "「Night's Prayer」currently playing ♪",
+	"_bgm_id": "270",
+	"「Fleet Halloween Pumpkin」　リクエスト中♪": "「Fleet Halloween Pumpkin」currently playing ♪",
+	"_bgm_id": "271",
+	"「清霜の朝」　リクエスト中♪": "「Kiyoshimo's Morning」currently playing ♪",
 
 	"dummy": "forNoComma"
 }
