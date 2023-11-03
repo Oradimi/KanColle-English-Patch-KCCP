@@ -760,6 +760,8 @@
 	"(\n|^)戦艦 (「?)Nevada(」?)(\n|$)": "$1BB $2Nevada$3$4",
 	"(\n|^)戦艦 (「?)Nevada改(」?)(\n|$)": "$1BB $2Nevada Kai$3$4",
 	"(\n|^)戦艦 (「?)Nevada改 Mod.2(」?)(\n|$)": "$1BB $2Nevada Kai Mod.2$3$4",
+	"(\n|^)駆逐艦 (「?)清霜改二(」?)(\n|$)": "$1DD $2Kiyoshimo Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)清霜改二丁(」?)(\n|$)": "$1DD $2Kiyoshimo Kai Ni D$3$4",
 
 	"dummy": "forNoComma"
 }
