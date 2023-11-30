@@ -13233,5 +13233,23 @@
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json"
     ]
+  },
+  {
+    "version": "3.22.7",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-remodel.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/0444_2316.png/patched.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0484_3062.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0518_8407.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0518_8407.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0518_7090.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0518_7090.png/patched.png"
+    ]
   }
 ]

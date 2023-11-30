@@ -3,6 +3,7 @@
 
 	"この改装では「改装設計図」を\n([0-9])枚使用します。": "Requires $1 Blueprint(s).",
 	"この改装では「戦闘詳報」([0-9])部が\n必要です。": "Requires $1 Action Report(s).",
+	"本改装は「戦闘詳報」\n([0-9])部を使用します。": "Requires\n$1 Action Report(s).",
 	"本改装は「改装設計図」\n([0-9])枚を使用します。": "Requires\n$1 Blueprint(s).",
 
 	"本改装には｢戦闘詳報｣([0-9])部と\n｢新型砲熕兵装資材｣([0-9])つと\n｢改装設計図｣([0-9])枚が必要です。": "Requires $1 Action Report(s),\n$2 New Mod. Gun Mount Mat.\nand $3 Blueprint(s).",
