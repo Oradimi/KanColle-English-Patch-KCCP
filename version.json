@@ -13251,5 +13251,15 @@
       "EN-patch/kcs2/resources/slot/remodel/0518_7090.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0518_7090.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.8",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json"
+    ]
   }
 ]
