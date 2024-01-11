@@ -93,6 +93,8 @@
 	"Valentine’s Sea": "Valentine's Sea",
 	"_bgm_id": "154",
 	"艦隊10周年の抜錨": "Sallying Forth in the Fleet's 10th...",
+	"_bgm_id": "155",
+	"ももちと新しき朝": "Momochi and the New Morning",
 	"_bgm_id": "205",
 	"秋月の空": "Sky of the Autumn Moon",
 	"_bgm_id": "206",
@@ -227,6 +229,8 @@
 	"Fleet Halloween Pumpkin": "Fleet Halloween Pumpkin",
 	"_bgm_id": "271",
 	"清霜の朝": "Kiyoshimo's Morning",
+	"_bgm_id": "272",
+	"_duplicate_ももちと新しき朝": "Momochi and the New Morning",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -322,6 +326,8 @@
 	"♪「Valentine’s Sea」": "♪「Valentine's Sea」",
 	"_bgm_id": "154",
 	"♪「艦隊10周年の抜錨」": "♪「Sallying Forth in the Fleet's 10th Anniversary」",
+	"_bgm_id": "155",
+	"♪「ももちと新しき朝」": "♪「Momochi and the New Morning」",
 	"_bgm_id": "205",
 	"♪「秋月の空」": "♪「Sky of the Autumn Moon」",
 	"_bgm_id": "206",
@@ -456,6 +462,8 @@
 	"♪「Fleet Halloween Pumpkin」": "♪「Fleet Halloween Pumpkin」",
 	"_bgm_id": "271",
 	"♪「清霜の朝」": "♪「Kiyoshimo's Morning」",
+	"_bgm_id": "272",
+	"♪「_duplicate_ももちと新しき朝」": "♪「Momochi and the New Morning」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -551,6 +559,8 @@
 	"「Valentine’s Sea」　リクエスト中♪": "「Valentine's Sea」currently playing ♪",
 	"_bgm_id": "154",
 	"「艦隊10周年の抜錨」　リクエスト中♪": "「Sallying Forth in the Fleet's 10th Anniversary」currently playing ♪",
+	"_bgm_id": "155",
+	"「ももちと新しき朝」　リクエスト中♪": "「Momochi and the New Morning」currently playing ♪",
 	"_bgm_id": "205",
 	"「秋月の空」　リクエスト中♪": "「Sky of the Autumn Moon」currently playing ♪",
 	"_bgm_id": "206",
@@ -685,6 +695,8 @@
 	"「Fleet Halloween Pumpkin」　リクエスト中♪": "「Fleet Halloween Pumpkin」currently playing ♪",
 	"_bgm_id": "271",
 	"「清霜の朝」　リクエスト中♪": "「Kiyoshimo's Morning」currently playing ♪",
+	"_bgm_id": "272",
+	"「_duplicate_ももちと新しき朝」　リクエスト中♪": "「Momochi and the New Morning」currently playing ♪",
 
 	"dummy": "forNoComma"
 }
