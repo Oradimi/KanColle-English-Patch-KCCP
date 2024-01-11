@@ -13261,5 +13261,21 @@
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
       "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json"
     ]
+  },
+  {
+    "version": "3.22.9",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-music.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0519_8977.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0519_8977.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0519_5996.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0519_5996.png/patched.png"
+    ]
   }
 ]
