@@ -762,6 +762,8 @@
 	"(\n|^)戦艦 (「?)Nevada改 Mod.2(」?)(\n|$)": "$1BB $2Nevada Kai Mod.2$3$4",
 	"(\n|^)駆逐艦 (「?)清霜改二(」?)(\n|$)": "$1DD $2Kiyoshimo Kai Ni$3$4",
 	"(\n|^)駆逐艦 (「?)清霜改二丁(」?)(\n|$)": "$1DD $2Kiyoshimo Kai Ni D$3$4",
+	"(\n|^)航空巡洋艦 (「?)三隈改二(」?)(\n|$)": "$1CAV $2Mikuma Kai Ni$3$4",
+	"(\n|^)戦闘水上機母艦 (「?)三隈改二特(」?)(\n|$)": "$1AVS $2Mikuma Kai Ni Toku$3$4",
 
 	"dummy": "forNoComma"
 }
