@@ -13346,5 +13346,29 @@
       "EN-patch/kcs2/resources/slot/remodel/0520_2049.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0520_2049.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.11",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/resources/slot/airunit_name/0521_2026.png/original.png",
+      "EN-patch/kcs2/resources/slot/airunit_name/0521_2026.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0521_6445.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0521_6445.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/903.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/903.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/904.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/904.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card_/903.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card_/903.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card_/904.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card_/904.png/patched.png"
+    ]
   }
 ]
