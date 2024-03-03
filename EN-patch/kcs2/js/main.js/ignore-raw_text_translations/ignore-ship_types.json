@@ -100,6 +100,9 @@
 	"轟沈駆逐艦": "Sunk Destroyer",
 	"低速標準戦艦": "Slow Standard Battleship",
 	"沿岸配備防御要塞": "Coastal-deployed Defensive Fortifications",
+	"大型新駆逐艦": "Large-scaled New Destroyer",
+	"泊地投錨中空母群": "Anchored Carrier Group",
+	"沈没伊号潜水艦": "Sunken I-class Submarine",
 
 	"dummy": "forNoComma"
 }

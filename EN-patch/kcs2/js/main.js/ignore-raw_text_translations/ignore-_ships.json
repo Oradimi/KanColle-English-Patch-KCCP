@@ -761,6 +761,14 @@
 	"清霜改二丁": "Kiyoshimo Kai Ni D",
 	"三隈改二": "Mikuma Kai Ni",
 	"三隈改二特": "Mikuma Kai Ni Toku",
+	"伊41": "I-41",
+	"伊41改": "I-41 Kai",
+	"伊36": "I-36",
+	"伊36改": "I-36 Kai",
+	"平安丸": "Heian Maru",
+	"平安丸改": "Heian Maru Kai",
+	"Drum": "Drum",
+	"Drum改": "Drum Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -1010,6 +1018,16 @@
 	"Schnellboot小鬼群": "Schnellboot Imp Pack",
 	"欧州妹姫": "European Little Sister Princess",
 	"欧州妹姫-壊": "European Little Sister Princess (Damaged)",
+	"米駆逐棲姫": "American Destroyer Princess",
+	"米駆逐棲姫-壊": "American Destroyer Princess (Damaged)",
+	"米駆逐棲姫(量産型)": "American Destroyer Princess Mass-Produced Model",
+	"米駆逐棲姫(量産型)-壊": "American Destroyer Princess Mass-Produced Model (Damaged)",
+	"環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
+	"環礁空母泊地棲姫-壊": "Atoll Aircraft Carrier Anchorage Princess (Damaged)",
+	"深海伊号水姫": "Abyssal I-go Water Princess",
+	"深海伊号水姫-壊": "Abyssal I-go Water Princess (Damaged)",
+	"新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess",
+	"新量産空母棲姫-壊": "New Mass-Produced Aircraft Carrier Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }
