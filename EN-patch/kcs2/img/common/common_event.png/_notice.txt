@@ -1,6 +1,2 @@
 common_event_001 covers common_event_001 and _002
 common_event_003 and _004 are reduced in size from common_event_001 and _002 manually using PowerToys resize
-common_event_005 contains _005, _007, _009, _017, _019, _021, _023
-common_event_011 contains _011
-common_event_013 contains _013, _015
-common_event_025 contains _025
