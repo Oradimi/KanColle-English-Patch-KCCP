@@ -13627,5 +13627,27 @@
       "EN-patch/kcs2/resources/slot/remodel/0526_8997.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0526_8997.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.13",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/item/item_ilist.png/original/item_ilist_037.png",
+      "EN-patch/kcs2/img/item/item_ilist.png/patched/item_ilist_037.png",
+      "EN-patch/kcs2/img/sally/event_maesetsu/303_a8890.png/patched.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_event.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/resources/useitem/card/905.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/905.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/906.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/906.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card_/905.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card_/905.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card_/906.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card_/906.png/patched.png"
+    ]
   }
 ]
