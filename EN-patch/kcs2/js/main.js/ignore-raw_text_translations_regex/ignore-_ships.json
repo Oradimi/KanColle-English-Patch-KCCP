@@ -753,6 +753,7 @@
 	"(\n|^)戦艦 (「?)Rodney(」?)(\n|$)": "$1BB $2Rodney$3$4",
 	"(\n|^)戦艦 (「?)Rodney改(」?)(\n|$)": "$1BB $2Rodney Kai$3$4",
 	"(\n|^)潜水艦 (「?)C.Cappellini(」?)(\n|$)": "$1SS $2Cappellini$3$4",
+	"(\n|^)潜水艦 (「?)C.Cappellini改(」?)(\n|$)": "$1SS $2Cappellini Kai$3$4",
 	"(\n|^)潜水艦 (「?)UIT-24(」?)(\n|$)": "$1SS $2UIT-24$3$4",
 	"(\n|^)潜水艦 (「?)伊503(」?)(\n|$)": "$1SS $2I-503$3$4",
 	"(\n|^)駆逐艦 (「?)Javelin(」?)(\n|$)": "$1DD $2Javelin$3$4",
@@ -772,6 +773,7 @@
 	"(\n|^)潜水母艦 (「?)平安丸改(」?)(\n|$)": "$1AS $2Heian Maru Kai$3$4",
 	"(\n|^)潜水艦 (「?)Drum(」?)(\n|$)": "$1SS $2Drum$3$4",
 	"(\n|^)潜水艦 (「?)Drum改(」?)(\n|$)": "$1SS $2Drum Kai$3$4",
+	"(\n|^)駆逐艦 (「?)春雨改二(」?)(\n|$)": "$1DD $2Harusame Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
