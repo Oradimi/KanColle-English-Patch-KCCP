@@ -13649,5 +13649,36 @@
       "EN-patch/kcs2/resources/useitem/card_/906.png/original.png",
       "EN-patch/kcs2/resources/useitem/card_/906.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.14",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-music.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_equips.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations_regex/ignore-_ships.json",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0527_2785.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0527_2785.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0528_7206.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0528_7206.png/patched.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0529_3687.png/original.png",
+      "EN-patch/kcs2/resources/slot/btxt_flat/0529_3687.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0527_8233.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0527_8233.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0528_2652.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0528_2652.png/patched.png",
+      "EN-patch/kcs2/resources/slot/remodel/0529_4939.png/original.png",
+      "EN-patch/kcs2/resources/slot/remodel/0529_4939.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/908.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/908.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card_/908.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card_/908.png/patched.png"
+    ]
   }
 ]

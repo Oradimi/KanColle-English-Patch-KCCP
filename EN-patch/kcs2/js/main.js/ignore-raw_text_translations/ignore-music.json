@@ -231,6 +231,8 @@
 	"清霜の朝": "Kiyoshimo's Morning",
 	"_bgm_id": "272",
 	"_duplicate_ももちと新しき朝": "Momochi and the New Morning",
+	"_bgm_id": "273",
+	"海原へ": "To the Ocean",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -464,6 +466,8 @@
 	"♪「清霜の朝」": "♪「Kiyoshimo's Morning」",
 	"_bgm_id": "272",
 	"♪「_duplicate_ももちと新しき朝」": "♪「Momochi and the New Morning」",
+	"_bgm_id": "273",
+	"♪「海原へ」": "♪「To the Ocean」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -697,6 +701,8 @@
 	"「清霜の朝」　リクエスト中♪": "「Kiyoshimo's Morning」currently playing ♪",
 	"_bgm_id": "272",
 	"「_duplicate_ももちと新しき朝」　リクエスト中♪": "「Momochi and the New Morning」currently playing ♪",
+	"_bgm_id": "273",
+	"「海原へ」　リクエスト中♪": "「To the Ocean」currently playing ♪",
 
 	"dummy": "forNoComma"
 }
