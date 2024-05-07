@@ -13680,5 +13680,14 @@
       "EN-patch/kcs2/resources/useitem/card_/908.png/original.png",
       "EN-patch/kcs2/resources/useitem/card_/908.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.15",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json"
+    ]
   }
 ]
