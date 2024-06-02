@@ -8,8 +8,8 @@ This link above redirects to a document that contains everything you need to get
 whether it be as a new player, as a returning or active player, on PC, Mac, Linux or Android.
 It also contains some useful resources for the game itself, and an early walkthrough if you feel lost.
 ## [Discord server](https://discord.gg/krMeMKB)
-- **Popular:** Over 1,400 members and growing! Join a lively community.
-- **Helpful:** Need help with installing the game or figuring out mechanics? We're here to help!
+- **Popular:** Over 1,800 members and growing! Join an active community of players.
+- **Helpful:** Need help with installing the game or figuring out mechanics? We may be able to help!
 - **Links:** Want to explore the other existing KanColle Discords? There's a gateway channel!
 - **Ping Squad role:** Receive pings for polls and update notices about the patch.
 - **Ping Squad+ role:** Receive pings for game updates, and all the other news!
@@ -19,7 +19,7 @@ It also contains some useful resources for the game itself, and an early walkthr
 ##### What it is
 This patch is composed of translated textures to be used by the assets modifier of [KCCacheProxy](https://github.com/Tibowl/KCCacheProxy/wiki/Installation-and-setup).\
 It also supports raw text patching, such as ship names, quests, flavor text etc.\
-[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.14.1 to v3.20.3)
+[Showcase in images](https://imgur.com/a/oAB9f7x) (Screenshots from v3.17.1 to v3.22.1)
 
 ##### How it works
 Unlike other patching methods like MITM, POI's "My Cache" folder or ShimakazeGo's "Cache Mode hack",\
@@ -38,8 +38,14 @@ Modifiying game assets is technically against the Terms of Service, so use at yo
 Currently, everything that is essential to comfortable gameplay,\
 or that is very often seen in the game, is translated. This even includes event flavor text.
 
-## Special Thanks
+##### English Patch Manager
+The quick updater v0.6.0 lets you easily update the patch\
+without resorting to installing git. It also clears the browser cache for you!\
+It is now also possible to launch "_enable_update_checker.bat" to be\
+immediately notified of a patch update upon launching your PC!\
+You can disable it at any time.
 
+## Special Thanks
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
 as well as for making some code specially to patch raw text in a stable way.\
 To Dark Sentinel for contributing (LBAS menu aircraft names, world icons, server banners, and more).\
