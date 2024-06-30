@@ -1,3 +1,2 @@
 _004 contains _004, _005, _007, _008, _010, _011, _013, _014
 _006 contains _006, _009, _012, _015
-_007, _008, _009 skipped due to being an already english equipment name
