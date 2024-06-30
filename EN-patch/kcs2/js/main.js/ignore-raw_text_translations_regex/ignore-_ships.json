@@ -775,6 +775,7 @@
 	"(\n|^)潜水艦 (「?)Drum改(」?)(\n|$)": "$1SS $2Drum Kai$3$4",
 	"(\n|^)駆逐艦 (「?)春雨改二(」?)(\n|$)": "$1DD $2Harusame Kai Ni$3$4",
 	"(\n|^)海防艦 (「?)稲木改二(」?)(\n|$)": "$1DE $2Inagi Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)初月改二(」?)(\n|$)": "$1DD $2Hatsuzuki Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
