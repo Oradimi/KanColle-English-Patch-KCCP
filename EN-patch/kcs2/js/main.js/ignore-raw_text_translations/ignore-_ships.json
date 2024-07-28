@@ -773,6 +773,13 @@
 	"春雨改二": "Harusame Kai Ni",
 	"稲木改二": "Inagi Kai Ni",
 	"初月改二": "Hatsuzuki Kai Ni",
+	"Gloire": "Gloire",
+	"Gloire改": "Gloire Kai",
+	"Mogador": "Mogador",
+	"Mogador改": "Mogador Kai",
+	"Richelieu Deux": "Richelieu Deux",
+	"Valiant": "Valiant",
+	"Valiant改": "Valiant Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -1032,6 +1039,11 @@
 	"深海伊号水姫-壊": "Abyssal I-go Water Princess (Damaged)",
 	"新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess",
 	"新量産空母棲姫-壊": "New Mass-Produced Aircraft Carrier Princess (Damaged)",
+	"飛行場夏姫": "Summer Airfield Princess",
+	"軽巡仏棲姫": "French Light Cruiser Princess",
+	"軽巡仏棲姫-壊": "French Light Cruiser Princess (Damaged)",
+	"港湾棲姫 休日mode": "Harbour Princess Holiday Mode",
+	"港湾棲姫 休日mode-壊": "Harbour Princess Holiday Mode (Damaged)",
 
 	"dummy": "forNoComma"
 }

@@ -1,31 +1,29 @@
 {
-	"日本列島沖/呉Q基地": "Off the coast of Japan / Kure Q-Base",
-	"Q基地へ": "Towards the Q-Base",
-	"敵前線環礁泊地の機動部隊\nを殲滅するため作戦を実施\nする！Q基地で改良特四式\n内火艇を受領せよ！": "Conduct an operation to destroy the task force at the enemy's front-line atoll berths! Receive Special Type 4 Amphibious Tanks at Q-Base!",
+	"ケルト海/イギリス海峡": "Celtic Sea / English Channel",
+	"発動！カタパルト作戦": "Commence!\nOperation Catapult",
+	"大西洋戦域各方面において\n深海勢力が侵食しないよう\n各港湾の警備と制圧を実施\nする。艦隊、出撃せよ！": "In various sectors of the Atlantic theater, prevent abyssal forces from invading. Enfore security and control of each port. Fleet, sortie!",
 
-	"九州南方沖/マリアナ諸島方面": "Off the south of Kyushu / Mariana Islands",
-	"竜巻作戦": "Operation Tatsumaki",
-	"「竜巻作戦」を発動する！\nウルシー環礁まで前進した\n敵機動部隊の航空母艦を本\n作戦で痛撃する！出撃！": "Launch \"Operation Tatsumaki\"! This operation will inflict a hard blow on the aircraft carriers of the enemy task force that have advanced to Ulithi Atoll! Sortie!",
+	"ジブラルタル/アルボラン海": "Gibraltar / Alboran Sea",
+	"メルセルケビール海戦": "Battle of Mers-el-Kébir",
+	"艦隊を地中海方面に展開！\n北アフリカの要港オラン港\n方面の潜在敵艦隊を奇襲、\nこれの無力化を実施せよ！": "Deploy a fleet to the Mediterranean area! Launch a surprise attack on the potential enemy fleet in the key port of Oran in North Africa and neutralize them!",
 
-	"マリアナ諸島/ウルシー環礁沖": "Off the Mariana Islands / Ulithi Atoll",
-	"泊地突入！龍巻作戦": "Break into the Anchorage!\nOperation Tatsumaki",
-	"「竜巻作戦」を発展させた\n「龍巻作戦」で、今度こそ\n環礁泊地の敵空母群を殲滅\nする！暁の環礁に勝利を！": "In the expanded Operation Tatsumaki, this time, we will destroy the enemy carrier group in the atoll! Carve victory over the dawn's atoll!",
+	"北大西洋/フリータウン/ダカール": "Northern Atlantic / Freetown / Dakar",
+	"激突！ダカール沖海戦": "Clash! Battle of Dakar",
+	"大西洋方面の艦隊戦力を結\n集、フリータウンへ展開！\n同地よりダカールの敵勢力\nを強襲、これを撃滅せよ！": "Concentrate fleet forces in the Atlantic region and deploy to Freetown! From there, launch a strong assault on the enemy forces in Dakar and annihilate them!",
 
-	"サイパン沖/マーシャル諸島沖正面": "Off Saipan / Marshall Islands Front",
-	"新Z作戦改": "New Operation Z Kai",
-	"竜巻作戦によって前線を大\nきく押し戻した。今こそ、\n総力決戦「新Z作戦改」で\n敵を撃滅する！全力出撃！": "Operation Tatsumaki has pushed the frontline back significantly. Now is the time to destroy the enemy in the all-out decisive battle \"New Operation Z Kai\"! Sortie in full force!",
+	"e-4_zone": "e-4_zone",
+	"e-4_operation": "e-4_operation",
+	"e-4_description": "e-4_description",
 
-	"瀬戸内海航行中……まもなく呉Q基地沖です。": "Sailing in the Seto Inland Sea...\n... Will be soon off Kure Q-Base.",
-	"北方警備、第五艦隊！大湊より出撃す！": "Northern Patrol, Fifth Fleet!\nSortie from Ominato!",
-	"Q基地沖に到着しました。作戦準備機材を揚陸、\n「特四式内火艇」部隊を強化を実地します！": "We have reached the Q-Base. Reinforcement\nof 'Special Type 4 Amphibious Tank'\n     units will be carried out!",
+	"e-5_zone": "e-5_zone",
+	"e-5_operation": "e-5_operation",
+	"e-5_description": "e-5_description",
 
-	"敵水上艦隊の牽制を行う！前進せよ！": "Keep the enemy surface fleet in check!\nMove forward!",
-	"第六艦隊「竜巻作戦」部隊、出撃ッ！": "Sixth Fleet 'Operation Tatsumaki' unit, sortie!",
+	"カタパルト作戦、発動！\n欧州要港の潜在深海戦力を無力化せよ！": "Launching Operation Catapult! Neutralise\npotential Abyssals in key European ports!",
 
-	"機動部隊、出撃！出撃中の敵空母を撃破せよ！\n対潜警戒も厳とせよ！": "Task force, sortie!\n Destroy incoming enemy aircraft carriers!\n     Take strict anti-submarine measures!",
-	"「龍巻作戦」部隊、出撃！敵環礁泊地に突入せよ！": "'Operation Tatsumaki' units, sortie!\nStorm the enemy atoll anchorage!",
+	"Force H 地中海に出撃！ オラン港方面へ展開！\n潜在脅威を無力化、カタパルト作戦を完遂せよ。": "Force H, sortie to the Mediterranean Sea!\nDeployment towards Oran! Neutralise threats\n     and complete Operation Catapult.",
 
-	"ウェーキ島への補給輸送作戦を実施するッ！\n敵勢力圏内だ…対空対水上対潜警戒を厳に！": "Conduct supply and transport operations to\nWake Island! We're in enemy territory...\n     maintain strict all-around vigilance!",
+	"Operation Menace 発動！\nダカール港の潜在敵戦力を無力化せよ！": "Operation Menace launched!\nNeutralise enemy threats in the port of Dakar!",
 
 	"dummy": "forNoComma"
 }
