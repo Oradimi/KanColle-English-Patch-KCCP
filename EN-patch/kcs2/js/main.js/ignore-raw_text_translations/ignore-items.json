@@ -183,6 +183,9 @@
 	"_item_id_99": "_item_id_99",
 	"白たすき": "White Tasuki",
 	"旗艦に付与されます(既に同様 \nのものが付与されている場合は\n上書きして付与されます)。　 \n※艦娘戦闘力が微上昇します。": "Assigned to the flagship\n(if a similar item has already\nbeen assigned, it will be\noverwritten).\n※ Slightly increases the\n　 combat power of the\n　 shipgirl.",
+	"_item_id_100": "_item_id_100",
+	"海外艦最新技術": "Lat. Overseas Ship Tech.",
+	"海外艦の大型改装や海外艦兵装\nの装備改修更新などに使用する\n艤装に関する最新技術です。  \n※工廠での大型改装や装備改修\n　任務などで使用します。": "This is the latest outfitting technology used for large-scale remodels of overseas ships and for improving and upgrading their armament.\n※ It is used for large-scale remodels and equipment upgrades.",
 
 	"dummy": "forNoComma"
 }
