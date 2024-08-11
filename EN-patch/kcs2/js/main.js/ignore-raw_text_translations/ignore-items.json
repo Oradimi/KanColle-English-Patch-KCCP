@@ -186,6 +186,9 @@
 	"_item_id_100": "_item_id_100",
 	"海外艦最新技術": "Lat. Overseas Ship Tech.",
 	"海外艦の大型改装や海外艦兵装\nの装備改修更新などに使用する\n艤装に関する最新技術です。  \n※工廠での大型改装や装備改修\n　任務などで使用します。": "This is the latest outfitting technology used for large-scale remodels of overseas ships and for improving and upgrading their armament.\n※ It is used for large-scale remodels and equipment upgrades.",
+	"_item_id_101": "_item_id_101",
+	"夜間熟練搭乗員": "Night Skilled Crew Member",
+	"夜間作戦適性を持ち、その上で\n厳しい訓練を重ねた、夜間作戦\n可能な精鋭の熟練航空機搭乗員\nです。(※部隊編成時に同航空隊\nと一体化して、消滅します)": "A unit with proficiency in night operations, composed of elite and skilled aircrew who have undergone rigorous training for night missions.\n(※When assigned to a unit, they will integrate with the squadron and disappear.)",
 
 	"dummy": "forNoComma"
 }

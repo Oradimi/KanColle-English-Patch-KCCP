@@ -2083,7 +2083,13 @@
 	"旗艦「大淀」の第一スロに「13号対空電探」を装備。開発資材x20準備。「21号対空電探」x2、\n「13号対空電探」x2、「戦闘糧食」x3を廃棄せよ！(任務達成後、開発資材は消費します)": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirement is 3 Type 13 Air Radar.",
 	"_quest_id_1140": "_quest_code_F125",
 	"【新鋭海外艦装備】新型四連装主砲の開発": "[New Overseas Equipment] Quadruple Main Gun Dev.",
-	"旗艦「Richelieu Deux」第一及び第二スロに「38cm四連装砲改」を装備。開発資材x20及び\n海外艦最新技術x1を準備。「41cm連装砲」x4を廃棄せよ！(任務達成後資材・装備は消費)": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirement is a 38cm Quadruple Gun Mount Kai.",
+	"旗艦「Richelieu Deux」第一及び第二スロに「38cm四連装砲改」を装備。開発資材x20及び\n海外艦最新技術x1を準備。「41cm連装砲」x4を廃棄せよ！(任務達成後資材・装備は消費)": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirements are two 38cm Quadruple Gun Mount Kai.",
+	"_quest_id_1141": "_quest_code_F126",
+	"最新改修型三座水上偵察機の開発": "Development of the Latest 3-seater Recon. Seaplane",
+	"旗艦「大和改二/重」または「由良改二」「矢矧改二/乙」第一スロに最大改修「零式水上偵察機11型\n乙」。「零式水上偵察機」x15廃棄、新型航空兵装資材x2、開発資材x60、夜間熟練搭乗員x1準備！": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirement is a Night Skilled Crew Member.",
+	"_quest_id_1142": "_quest_code_F127",
+	"最精鋭「天山」装備艦攻隊の配備": "Deployment of the Elite \"Tenzan\" Torpedo Bomber Squadron",
+	"旗艦「翔鶴改二/甲」第一スロに「天山一二型(村田隊)」配備。「天山」x4を廃棄。「天山一二型甲改\n(空六号電探改装備機)」x1、新型航空兵装資材x2、開発資材x48、夜間熟練搭乗員x1準備！": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirements are Tenzan M12 (Murata Squad.) and M12A Kai (w/ Type 6...).",
 
 	"dummy": "forNoComma"
 }
