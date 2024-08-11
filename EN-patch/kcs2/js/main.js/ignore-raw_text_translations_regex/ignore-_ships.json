@@ -783,6 +783,11 @@
 	"(\n|^)戦艦 (「?)Richelieu Deux(」?)(\n|$)": "$1BB $2Richelieu Deux$3$4",
 	"(\n|^)戦艦 (「?)Valiant(」?)(\n|$)": "$1BB $2Valiant$3$4",
 	"(\n|^)戦艦 (「?)Valiant改(」?)(\n|$)": "$1BB $2Valiant Kai$3$4",
+	"(\n|^)軽巡洋艦 (「?)Phoenix(」?)(\n|$)": "$1CL $2Phoenix$3$4",
+	"(\n|^)軽巡洋艦 (「?)Phoenix改(」?)(\n|$)": "$1CL $2Phoenix Kai$3$4",
+	"(\n|^)軽巡洋艦 (「?)General Belgrano(」?)(\n|$)": "$1CL $2Gen. Belgrano$3$4",
+	"(\n|^)正規空母 (「?)Lexington(」?)(\n|$)": "$1CV $2Lexington$3$4",
+	"(\n|^)正規空母 (「?)Lexington改(」?)(\n|$)": "$1CV $2Lexington Kai$3$4",
 
 	"dummy": "forNoComma"
 }

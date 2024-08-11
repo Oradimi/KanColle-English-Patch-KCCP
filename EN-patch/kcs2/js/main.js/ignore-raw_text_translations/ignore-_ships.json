@@ -780,6 +780,11 @@
 	"Richelieu Deux": "Richelieu Deux",
 	"Valiant": "Valiant",
 	"Valiant改": "Valiant Kai",
+	"Phoenix": "Phoenix",
+	"Phoenix改": "Phoenix Kai",
+	"General Belgrano": "Gen. Belgrano",
+	"Lexington": "Lexington",
+	"Lexington改": "Lexington Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -888,6 +893,12 @@
 	"集積地棲姫III\nバカンスmode-壊": "Supply Depot Princess C\nVacation Mode (Damaged)",
 	"集積地棲姫IV": "Supply Depot Princess D",
 	"集積地棲姫IV-壊": "Supply Depot Princess D (Damaged)",
+	"集積地棲姫V": "Supply Depot Princess E",
+	"集積地棲姫V-壊": "Supply Depot Princess E (Damaged)",
+	"集積地棲姫V バカンスmode": "Supply Depot Princess E Vacation Mode",
+	"集積地棲姫V\nバカンスmode": "Supply Depot Princess E\nVacation Mode",
+	"集積地棲姫V バカンスmode-壊": "Supply Depot Princess E Vacation Mode (Damaged)",
+	"集積地棲姫V\nバカンスmode-壊": "Supply Depot Princess E\nVacation Mode (Damaged)",
 	"重巡棲姫": "Heavy Cruiser Princess",
 	"砲台小鬼": "Artillery Imp",
 	"離島棲姫": "Isolated Island Princess",
@@ -1044,6 +1055,10 @@
 	"軽巡仏棲姫-壊": "French Light Cruiser Princess (Damaged)",
 	"港湾棲姫 休日mode": "Harbour Princess Holiday Mode",
 	"港湾棲姫 休日mode-壊": "Harbour Princess Holiday Mode (Damaged)",
+	"太平洋飛行場姫": "Pacific Airfield Princess",
+	"太平洋飛行場姫-壊": "Pacific Airfield Princess (Damaged)",
+	"深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon",
+	"深海珊瑚海水鬼-壊": "Abyssal Coral Sea Water Demon (Damaged)",
 
 	"dummy": "forNoComma"
 }

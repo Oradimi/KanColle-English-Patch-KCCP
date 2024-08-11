@@ -11,19 +11,26 @@
 	"激突！ダカール沖海戦": "Clash! Battle of Dakar",
 	"大西洋方面の艦隊戦力を結\n集、フリータウンへ展開！\n同地よりダカールの敵勢力\nを強襲、これを撃滅せよ！": "Concentrate fleet forces in the Atlantic region and deploy to Freetown! From there, launch a strong assault on the enemy forces in Dakar and annihilate them!",
 
-	"e-4_zone": "e-4_zone",
-	"e-4_operation": "e-4_operation",
-	"e-4_description": "e-4_description",
+	"太平洋南部/ダバオ沖/ビアク島沖": "Southern Pacific / Off Davao / Off Biak Island",
+	"ビアク沖遭遇戦": "Engagement Off Biak",
+	"太平洋南部戦域への敵侵攻\n艦隊を捕捉、タウイタウイ\nからの増援により、これを\n撃滅せよ！艦隊、出撃！": "Intercept the enemy invasion fleet in the Southern Pacific theater and annihilate it with reinforcements from Tawi-Tawi! Fleet, sortie!",
 
-	"e-5_zone": "e-5_zone",
-	"e-5_operation": "e-5_operation",
-	"e-5_description": "e-5_description",
+	"ラバウル沖/珊瑚海方面": "Off Rabaul / Coral Sea Area",
+	"第二次珊瑚海海戦": "Second Battle of the Coral Sea",
+	"太平洋戦域の反攻作戦、新\nMO作戦を実施する！\n我が精鋭機動部隊、出撃！\n暁の水平線に勝利を！": "Commence a counteroffensive in the Pacific theater, the new MO Operation! Our elite mobile fleet, sortie! Carve victory over dawn's horizon!",
 
 	"カタパルト作戦、発動！\n欧州要港の潜在深海戦力を無力化せよ！": "Launching Operation Catapult! Neutralise\npotential Abyssals in key European ports!",
 
 	"Force H 地中海に出撃！ オラン港方面へ展開！\n潜在脅威を無力化、カタパルト作戦を完遂せよ。": "Force H, sortie to the Mediterranean Sea!\nDeployment towards Oran! Neutralise threats\n     and complete Operation Catapult.",
 
 	"Operation Menace 発動！\nダカール港の潜在敵戦力を無力化せよ！": "Operation Menace launched!\nNeutralise enemy threats in the port of Dakar!",
+
+	"ビアク島救援の前線航空基地となるソロンへの\n兵站輸送作戦を敢行する！ 艦隊、警戒を厳に！": "We're carrying out a transport mission to\nSorong, where the forward airbase for the relief\n     of Biak Island will be! Fleet, remain vigilant!",
+	"連合艦隊主力、タウイタウイ泊地を抜錨ッ！\nビアク島方面の救援を実施する！ 対潜警戒を厳に。": "Combined Fleet Main Force, weigh anchor\nfrom Tawi-Tawi! Carry out the relief operation\n     for Biak Island! Maintain anti-sub vigilance.",
+	"敵勢力圏内に突入する！ 対艦戦闘用意ッ！\n艦隊、増速！ 我に続け！": "We are entering enemy-controlled waters!\nPrepare for anti-ship combat! Fleet,\n     increase speed! Follow me!",
+
+	"MO機動部隊、出撃！珊瑚海方面に進出する。\n対潜、対空警戒を厳とせよッ！": "MO Mobile Fleet, sortie! Advance towards\nthe Coral Sea area. Maintain strict\n     anti-submarine and anti-air vigilance!",
+	"MO機動部隊、全艦隊戦闘用意ッ！\n敵機動部隊を捕捉、これを撃滅する！": "MO Mobile Fleet, prepare all fleets for\nbattle! Intercept the enemy mobile force\n     and annihilate them!",
 
 	"dummy": "forNoComma"
 }
