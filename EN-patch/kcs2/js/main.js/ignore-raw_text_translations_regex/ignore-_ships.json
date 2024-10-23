@@ -788,6 +788,8 @@
 	"(\n|^)軽巡洋艦 (「?)General Belgrano(」?)(\n|$)": "$1CL $2Gen. Belgrano$3$4",
 	"(\n|^)正規空母 (「?)Lexington(」?)(\n|$)": "$1CV $2Lexington$3$4",
 	"(\n|^)正規空母 (「?)Lexington改(」?)(\n|$)": "$1CV $2Lexington Kai$3$4",
+	"(\n|^)戦艦 (「?)霧島改二丙(」?)(\n|$)": "$1BB $2Kirishima Kai Ni C$3$4",
+	"(\n|^)駆逐艦 (「?)早霜改二(」?)(\n|$)": "$1DD $2Hayashimo Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
