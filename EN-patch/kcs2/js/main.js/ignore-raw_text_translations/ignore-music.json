@@ -233,6 +233,12 @@
 	"_duplicate_ももちと新しき朝": "Momochi and the New Morning",
 	"_bgm_id": "273",
 	"海原へ": "To the Ocean",
+	"_bgm_id": "274",
+    	"海に吹く碧の風": "Blue Wind Blowing on the Sea",
+	"_bgm_id": "275",
+	"抜錨！鵜来型海防艦": "Weigh Anchor! Ukuru-class Kaiboukan",
+	"_bgm_id": "276",
+	"八戸の盾": "Shield of Hachinohe",
 
 	"_bgm_id": "101",
 	"♪「母港」": "♪「Home Port」",
@@ -468,6 +474,12 @@
 	"♪「_duplicate_ももちと新しき朝」": "♪「Momochi and the New Morning」",
 	"_bgm_id": "273",
 	"♪「海原へ」": "♪「To the Ocean」",
+	"_bgm_id": "274",
+    	"♪「海に吹く碧の風」": "♪「Blue Wind Blowing on the Sea」",
+	"_bgm_id": "275",
+	"♪「抜錨！鵜来型海防艦」": "♪「Weigh Anchor! Ukuru-class Kaiboukan」",
+	"_bgm_id": "276",
+	"♪「八戸の盾」": "♪「Shield of Hachinohe」",
 
 	"_bgm_id": "101",
 	"「母港」　リクエスト中♪": "「Home Port」currently playing ♪",
@@ -703,6 +715,12 @@
 	"「_duplicate_ももちと新しき朝」　リクエスト中♪": "「Momochi and the New Morning」currently playing ♪",
 	"_bgm_id": "273",
 	"「海原へ」　リクエスト中♪": "「To the Ocean」currently playing ♪",
+	"_bgm_id": "274",
+    	"「海に吹く碧の風」　リクエスト中♪": "「Blue Wind Blowing on the Sea」currently playing ♪",
+	"_bgm_id": "275",
+	"「抜錨！鵜来型海防艦」　リクエスト中♪": "「Weigh Anchor! Ukuru-class Kaiboukan」currently playing ♪",
+	"_bgm_id": "276",
+	"「八戸の盾」　リクエスト中♪": "「Shield of Hachinohe」currently playing ♪",
 
 	"dummy": "forNoComma"
 }
