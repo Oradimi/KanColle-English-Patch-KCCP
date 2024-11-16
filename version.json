@@ -14309,5 +14309,31 @@
       "EN-patch/kcs2/resources/slot/remodel/0546_6142.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0546_6142.png/patched.png"
     ]
+  },
+  {
+    "version": "3.22.21",
+    "del": [],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_005.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_006.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_007.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_008.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_009.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_017.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_018.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/original/item_ilist_sanma_022.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_005.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_006.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_007.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_008.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_009.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_017.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_018.png",
+      "EN-patch/kcs2/img/item/item_ilist_sanma.png/patched/item_ilist_sanma_022.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-music.json"
+    ]
   }
 ]
