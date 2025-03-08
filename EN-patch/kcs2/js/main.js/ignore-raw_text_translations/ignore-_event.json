@@ -1,36 +1,34 @@
 {
-	"ケルト海/イギリス海峡": "Celtic Sea / English Channel",
-	"発動！カタパルト作戦": "Commence!\nOperation Catapult",
-	"大西洋戦域各方面において\n深海勢力が侵食しないよう\n各港湾の警備と制圧を実施\nする。艦隊、出撃せよ！": "In various sectors of the Atlantic theater, prevent abyssal forces from invading. Enfore security and control of each port. Fleet, sortie!",
+	"大湊警備府/津軽海峡/北海道東部": "Ominato Guard District / Tsugaru Strait / Eastern Hokkaido",
+	"北海道防衛作戦": "Hokkaido Defense Operation",
+	"深海棲艦極東艦隊が北海道\n東部に来襲！陽動の可能性\nがあるが、各艦隊は直ちに\n迎撃せよ！艦隊、出撃ッ！": "The Abyssal Far Eastern Fleet has launched an assault on Eastern Hokkaido! While it could be a diversion, all fleets must intercept immediately! Fleet, sortie!",
 
-	"ジブラルタル/アルボラン海": "Gibraltar / Alboran Sea",
-	"メルセルケビール海戦": "Battle of Mers-el-Kébir",
-	"艦隊を地中海方面に展開！\n北アフリカの要港オラン港\n方面の潜在敵艦隊を奇襲、\nこれの無力化を実施せよ！": "Deploy a fleet to the Mediterranean area! Launch a surprise attack on the potential enemy fleet in the key port of Oran in North Africa and neutralize them!",
+	"北海道北東沖/宗谷海峡沖": "Off Northeastern Hokkaido / Off Soya Strait",
+	"音威子府防衛線": "Otoineppu Defense Line",
+	"敵侵攻部隊の主力が稚内に\n上陸、南下を続けている。\n有力な増援兵力を輸送し、\n音威子府で敵を迎撃せよ！": "The enemy's main invasion force has landed in Wakkanai and is advancing southward. Transport powerful reinforcements and intercept the enemy at Otoineppu!",
 
-	"北大西洋/フリータウン/ダカール": "Northern Atlantic / Freetown / Dakar",
-	"激突！ダカール沖海戦": "Clash! Battle of Dakar",
-	"大西洋方面の艦隊戦力を結\n集、フリータウンへ展開！\n同地よりダカールの敵勢力\nを強襲、これを撃滅せよ！": "Concentrate fleet forces in the Atlantic region and deploy to Freetown! From there, launch a strong assault on the enemy forces in Dakar and annihilate them!",
+	"北海道北東沖/留萌沖正面/樺太南部沖": "Off Northeastern Hokkaido / Off Rumoi / Off Southern Sakhalin",
+	"留萌沖艦隊決戦": "Fleet Decisive Battle Off Rumoi",
+	"敵侵攻主力が留萌方面へと\n上陸を開始した！我が連合\n艦隊主力を同敵橋頭堡へと\n突入！北海道を防衛せよ！": "The enemy's main invasion force has begun landing in the Rumoi area! Our main fleet will break into the enemy beachhead! Defend Hokkaido!",
 
-	"太平洋南部/ダバオ沖/ビアク島沖": "Southern Pacific / Off Davao / Off Biak Island",
-	"ビアク沖遭遇戦": "Engagement Off Biak",
-	"太平洋南部戦域への敵侵攻\n艦隊を捕捉、タウイタウイ\nからの増援により、これを\n撃滅せよ！艦隊、出撃！": "Intercept the enemy invasion fleet in the Southern Pacific theater and annihilate it with reinforcements from Tawi-Tawi! Fleet, sortie!",
+	"_e4_area_name": "",
+	"_e4_op_name": "",
+	"_e4_op_description": "",
 
-	"ラバウル沖/珊瑚海方面": "Off Rabaul / Coral Sea Area",
-	"第二次珊瑚海海戦": "Second Battle of the Coral Sea",
-	"太平洋戦域の反攻作戦、新\nMO作戦を実施する！\n我が精鋭機動部隊、出撃！\n暁の水平線に勝利を！": "Commence a counteroffensive in the Pacific theater, the new MO Operation! Our elite mobile fleet, sortie! Carve victory over dawn's horizon!",
+	"_e5_area_name": "",
+	"_e5_op_name": "",
+	"_e5_op_description": "",
 
-	"カタパルト作戦、発動！\n欧州要港の潜在深海戦力を無力化せよ！": "Launching Operation Catapult! Neutralise\npotential Abyssals in key European ports!",
+	"第百四戦隊、抜錨！\n釧路方面を哨戒せよッ！": "104th Squadron, weigh anchor!\nPatrol the Kushiro area!",
+ 	"第一艦隊、警戒を厳に！\n侵攻する敵戦力を撃滅せよッ！": "First Fleet, maintain strict vigilance!\nAnnihilate the invading enemy forces!",
+	"艦隊、第三戦速！\n対潜警戒を厳にッ！": "Fleet, third battle speed! Maintain strict anti-submarine vigilance!",
 
-	"Force H 地中海に出撃！ オラン港方面へ展開！\n潜在脅威を無力化、カタパルト作戦を完遂せよ。": "Force H, sortie to the Mediterranean Sea!\nDeployment towards Oran! Neutralise threats\n     and complete Operation Catapult.",
+	"第一艦隊、警戒しつつ前進！\n第五艦隊突入を援護せよッ！": "First Fleet, advance with caution!\nSupport the Fifth Fleet's breakthrough!",
+	"第五艦隊、出撃ッ！\n稚内方面への侵攻を阻止せよ！": "Fifth Fleet, sortie!\nPrevent the invasion toward Wakkanai!",
 
-	"Operation Menace 発動！\nダカール港の潜在敵戦力を無力化せよ！": "Operation Menace launched!\nNeutralise enemy threats in the port of Dakar!",
-
-	"ビアク島救援の前線航空基地となるソロンへの\n兵站輸送作戦を敢行する！ 艦隊、警戒を厳に！": "We're carrying out a transport mission to\nSorong, where the forward airbase for the relief\n     of Biak Island will be! Fleet, remain vigilant!",
-	"連合艦隊主力、タウイタウイ泊地を抜錨ッ！\nビアク島方面の救援を実施する！ 対潜警戒を厳に。": "Combined Fleet Main Force, weigh anchor\nfrom Tawi-Tawi! Carry out the relief operation\n     for Biak Island! Maintain anti-sub vigilance.",
-	"敵勢力圏内に突入する！ 対艦戦闘用意ッ！\n艦隊、増速！ 我に続け！": "We are entering enemy-controlled waters!\nPrepare for anti-ship combat! Fleet,\n     increase speed! Follow me!",
-
-	"MO機動部隊、出撃！珊瑚海方面に進出する。\n対潜、対空警戒を厳とせよッ！": "MO Mobile Fleet, sortie! Advance towards\nthe Coral Sea area. Maintain strict\n     anti-submarine and anti-air vigilance!",
-	"MO機動部隊、全艦隊戦闘用意ッ！\n敵機動部隊を捕捉、これを撃滅する！": "MO Mobile Fleet, prepare all fleets for\nbattle! Intercept the enemy mobile force\n     and annihilate them!",
+	"留萌正面に上陸中の敵艦隊発見！\n全艦突撃する！蹴散らせッ！": "Enemy fleet spotted\nlanding at the Rumoi front!     \nAll ships, charge! Crush them!",
+	"天塩方面の敵勢力を一掃する！\n連合艦隊、面舵一杯！前進ッ！": "Eliminate enemy forces\nin the Teshio area! Combined Fleet,     \nhard to starboard! Advance!",
+	"敵侵攻部隊、旗艦艦隊を叩くッ！\n連合艦隊、合戦用意！我に続け！": "Strike the enemy invasion\nforce's flagship fleet! Combined Fleet,     \nbattle stations! Follow me!",
 
 	"dummy": "forNoComma"
 }

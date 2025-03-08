@@ -787,6 +787,16 @@
 	"Lexington改": "Lexington Kai",
 	"霧島改二丙": "Kirishima Kai Ni C",
 	"早霜改二": "Hayashimo Kai Ni",
+	"藤波改二": "Fujinami Kai Ni",
+	"白雪改二": "Shirayuki Kai Ni",
+	"大泊": "Ootomari",
+	"大泊改": "Ootomari Kai",
+	"Wahoo": "Wahoo",
+	"Wahoo改": "Wahoo Kai",
+	"榧": "Kaya",
+	"榧改": "Kaya Kai",
+	"Киров": "Kirov",
+	"Киров改": "Kirov Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -1061,6 +1071,15 @@
 	"太平洋飛行場姫-壊": "Pacific Airfield Princess (Damaged)",
 	"深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon",
 	"深海珊瑚海水鬼-壊": "Abyssal Coral Sea Water Demon (Damaged)",
+	"輸送ワ級II(揚陸中)": "Wa-Class Transport Ship B (Landing)",
+	"駆逐ラ級": "Ra-Class Destroyer",
+	"駆逐ラ級-壊": "Ra-Class Destroyer (Damaged)",
+	"駆逐ラ級(初期型)": "Ra-Class Destroyer Initial Model",
+	"駆逐ラ級(初期型)-壊": "Ra-Class Destroyer Initial Model (Damaged)",
+	"潜水鰆水鬼": "Submarine Seerfish Water Demon",
+	"潜水鰆水鬼-壊": "Submarine Seerfish Water Demon (Damaged)",
+	"条約外巡洋艦水姫": "Non-Treaty Cruiser Water Princess",
+	"条約外巡洋艦水姫-壊": "Non-Treaty Cruiser Water Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

@@ -189,6 +189,9 @@
 	"_item_id_101": "_item_id_101",
 	"夜間熟練搭乗員": "Night Skilled Crew Member",
 	"夜間作戦適性を持ち、その上で\n厳しい訓練を重ねた、夜間作戦\n可能な精鋭の熟練航空機搭乗員\nです。(※部隊編成時に同航空隊\nと一体化して、消滅します)": "A unit with proficiency in night operations, composed of elite and skilled aircrew who have undergone rigorous training for night missions.\n(※When assigned to a unit, they will integrate with the squadron and disappear.)",
+	"_item_id_102": "_item_id_102",
+	"航空特別増加食": "Special Aviation Ration",
+	"基地航空隊の疲労を緩和、士気\nを高める航空特別増加食です。\n※一つ消費で一航空隊(最大四個\n　中隊)に効果を発揮します。": "A specially increased aviation meal that relieves fatigue and boosts morale of land-based air units.\n※ Consuming one will apply the effect to 1 LBAS group (maximum of 4 slots).",
 
 	"dummy": "forNoComma"
 }
