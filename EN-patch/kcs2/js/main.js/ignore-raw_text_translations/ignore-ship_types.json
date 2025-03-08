@@ -26,6 +26,7 @@
 	"特務艦 ": "AGS ",
 	"灯台補給船 ": "AGL ",
 	"南極観測船 ": "AGB ",
+	"砕氷艦 ": "AGB ",
 	"特設護衛空母 ": "CVE (Sp.) ",
 	"戦車揚陸艦 ": "LST ",
 	"練習特務艦 ": "CT ",
@@ -58,6 +59,7 @@
 	"特務艦": "AGS",
 	"灯台補給船": "AGL",
 	"南極観測船": "AGB",
+	"砕氷艦": "AGB",
 	"特設護衛空母": "CVE (Sp.)",
 	"戦車揚陸艦": "LST",
 	"練習特務艦": "CT",
@@ -104,6 +106,8 @@
 	"泊地投錨中空母群": "Anchored Carrier Group",
 	"沈没伊号潜水艦": "Sunken I-class Submarine",
 	"深海大型正規空母": "Abyssal Large Aircraft Carrier",
+	"深海新鋭駆逐艦": "Abyssal New Elite Destroyer",
+	"砕氷巡洋艦": "Icebreaker Cruiser",
 
 	"dummy": "forNoComma"
 }

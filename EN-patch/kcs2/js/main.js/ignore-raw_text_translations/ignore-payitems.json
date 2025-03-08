@@ -119,6 +119,10 @@
 	"潜水艦補給物資パック": "Sub. Supplies Pack",
 	"潜水母艦＆潜水艦2隻以上の \n「潜水艦隊攻撃」を行う補給\n物資セット。　※潜水艦補給\n物資×３(一か所の潜水艦隊\n攻撃で一つ消費します)": "A set of supplies for the\n\"Submarine Fleet Attack\"\nof a Submarine Tender with\n2 or more submarines.\n※ Submarine Supply×3\n(Consumed on use)",
 	"潜水母艦＆潜水艦2隻以上の「潜水艦隊攻撃」を行う補給物資セット。\n※潜水艦補給物資×３(一か所の潜水艦隊攻撃で一つ消費します)": "A set of supplies for the \"Submarine Fleet Attack\" of a Submarine Tender with\n2 or more submarines. ※ Submarine Supply×3 (Consumed on use)",
+	"_payitem_id_30": "_payitem_id_30",
+	"航空特別増加食パック": "Special Aviation Ration",
+	"基地航空隊の疲労を緩和、士気\nを高める「航空特別増加食」の\nセット。※「航空特別増加食」×6(一つ消費で一航空隊最大四個中隊に効果発揮)": "A set of meals that relieves fatigue and boosts morale of land-based air units.\n※ Set of 6 (Consuming one will apply the effect to 1 LBAS group (maximum of 4 slots).)",
+	"基地航空隊の疲労を緩和、士気を高める「航空特別増加食」のセット。\n※「航空特別増加食」×6 (一つ消費で一航空隊最大四個中隊に効果発揮)": "A set of meals that relieves fatigue and boosts morale of land-based air units.\n※ Set of 6 (Consuming one will apply the effect to 1 LBAS group (maximum of 4 slots).)",
 
 	"dummy": "forNoComma"
 }
