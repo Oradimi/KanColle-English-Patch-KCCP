@@ -1,11 +1,11 @@
 alert_ - complete
 airbase_maint - complete
-airunit - needs remaster and separation
+airunit - complete
 common - complete
 event - needs partial remaster and separation
 expedition - needs remaster and separation
 jin - might need partial remaster
 map_parts - complete
 practice - complete
-sortie - needs remaster and separation
+sortie - complete
 top - complete
