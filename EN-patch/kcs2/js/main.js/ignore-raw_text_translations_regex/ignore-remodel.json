@@ -24,6 +24,7 @@
 
 	"本改装は\n｢新型兵装資材｣\n([0-9])つを使用します。": "Requires\n$1 New Armament Mats.",
 	"本改装は\n｢新型砲熕兵装資材｣\n([0-9])つを使用します。": "Requires\n$1 Gun Mount Mats.",
+	"本改装は\n｢海外艦最新技術｣を\n([0-9])つを使用します。": "Requires\n$1 Lat. Overseas Tech.",
 	
 	"本改装では「高速建造材」を\n([0-9]+)個、「開発資材」を([0-9]+)個\n使用します。": "Requires $1 Flamethrowers\nand $2 Dev. Materials.",
 	"本改装では「高速建造材」を\n([0-9]+)個、「改修資材」を([0-9]+)個\n使用します。": "Requires $1 Flamethrowers\nand $2 Screws.",

@@ -11,13 +11,17 @@
 	"留萌沖艦隊決戦": "Fleet Decisive Battle Off Rumoi",
 	"敵侵攻主力が留萌方面へと\n上陸を開始した！我が連合\n艦隊主力を同敵橋頭堡へと\n突入！北海道を防衛せよ！": "The enemy's main invasion force has begun landing in the Rumoi area! Our main fleet will break into the enemy beachhead! Defend Hokkaido!",
 
-	"_e4_area_name": "",
-	"_e4_op_name": "",
-	"_e4_op_description": "",
+	"カムラン湾沖/昭南方面航路/南シナ海": "Cam Ranh Bay Sea / Shōnan Area Route / South China Sea",
+	"南沙諸島沖の戦雲": "Clouds of War off the Spratly Islands",
+	"敵深海勢力がミンドロ島へ\nの上陸侵攻を開始！これに\n対応するために、南西方面\nより艦隊戦力を展開せよ！": "The Abyssal forces have begun a landing invasion on Mindoro Island! Deploy fleet forces from the southwest region to counter this threat!",
 
-	"_e5_area_name": "",
-	"_e5_op_name": "",
-	"_e5_op_description": "",
+	"ミンドロ島沖/キャビテ沖/サンホセ沖": "Mindoro Sea / Cavite Sea / San Jose Sea",
+	"第二次礼号作戦": "The Second Operation Rei-Go",
+	"ミンドロ島への反撃作戦の\n中核となる礼号作戦部隊は\n敵サンホセ泊地へ突入！\n敵物資集積地を撃破せよ！": "The Reigō Operation Force, the core of the counteroffensive against Mindoro Island, is advancing into the enemy anchorage at San Jose! Destroy the enemy supply depots!",
+
+	"南沙諸島沖/カムラン湾沖": "Spratly Islands Sea / Cam Ranh Bay Sea",
+	"第二遊撃部隊の帰投": "Return of the Second Strike Force",
+	"礼号作戦部隊は見事作戦を\n成功させ帰投中！第四航空\n戦隊は同隊を収容し、追撃\nの敵任務部隊を撃滅せよ！": "The Reigō Operation Force has successfully completed its mission and is returning! The 4th Air Squadron will provide cover and annihilate the pursuing enemy task force!",
 
 	"第百四戦隊、抜錨！\n釧路方面を哨戒せよッ！": "104th Squadron, weigh anchor!\nPatrol the Kushiro area!",
  	"第一艦隊、警戒を厳に！\n侵攻する敵戦力を撃滅せよッ！": "First Fleet, maintain strict vigilance!\nAnnihilate the invading enemy forces!",
@@ -25,10 +29,16 @@
 
 	"第一艦隊、警戒しつつ前進！\n第五艦隊突入を援護せよッ！": "First Fleet, advance with caution!\nSupport the Fifth Fleet's breakthrough!",
 	"第五艦隊、出撃ッ！\n稚内方面への侵攻を阻止せよ！": "Fifth Fleet, sortie!\nPrevent the invasion toward Wakkanai!",
+	"第五艦隊、宗谷海峡へ突入！\n稚内に侵攻する上陸船団を討てッ！": "Fifth Fleet, Advance into the Sōya Strait!\nDestroy the Landing Convoy\n     Invading Wakkanai!",
 
 	"留萌正面に上陸中の敵艦隊発見！\n全艦突撃する！蹴散らせッ！": "Enemy fleet spotted\nlanding at the Rumoi front!     \nAll ships, charge! Crush them!",
 	"天塩方面の敵勢力を一掃する！\n連合艦隊、面舵一杯！前進ッ！": "Eliminate enemy forces\nin the Teshio area! Combined Fleet,     \nhard to starboard! Advance!",
 	"敵侵攻部隊、旗艦艦隊を叩くッ！\n連合艦隊、合戦用意！我に続け！": "Strike the enemy invasion\nforce's flagship fleet! Combined Fleet,     \nbattle stations! Follow me!",
+
+	"艦隊、前進！ 敵制圧圏内、ミンドロ島沖の\n敵情偵察を実施せよ！": "Fleet, advance! Conduct enemy\nreconnaissance off the coast of Mindoro\n     Island within the enemy-controlled zone!",
+	"敵制圧圏を突破、前線水上機基地への補給作戦\nを実施する！艦隊、水上及び対空警戒を厳に！": "Break through the enemy-controlled zone and\ncarry out a supply operation to the frontline\n     seaplane base! Fleet, maintain vigilance!",
+	"礼号作戦部隊、これよりミンドロ島敵制圧圏に\n突入する！対潜、対空警戒も厳とせよ！ 前進！": "Reigō Operation Force, now entering the\nenemy-controlled zone of Mindoro Island!\n     Maintain strict vigilance! Advance!",
+	"礼号作戦部隊は、これよりミンドロ島\n敵泊地への突入を敢行する！　続けッ！": "Reigō Operation Force will now commence\nan assault on the enemy anchorage at\n     Mindoro Island! Keep going!",
 
 	"dummy": "forNoComma"
 }
