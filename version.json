@@ -15064,5 +15064,29 @@
       "EN-patch/kcs2/resources/slot/remodel/0558_9568.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0558_9568.png/patched.png"
     ]
+  },
+  {
+    "version": "3.23.2",
+    "del": [
+      "EN-patch/kcs2/resources/useitem/card/908.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/908.png/patched.png"
+    ],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/sally/sally_sortie.png/patched/sally_sortie_003.png",
+      "EN-patch/kcs2/img/sally/sally_sortie.png/original/sally_sortie_004.png",
+      "EN-patch/kcs2/img/sally/sally_sortie.png/patched/sally_sortie_004.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json",
+      "EN-patch/kcs2/resources/useitem/card/902.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/902.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/906.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/906.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/911.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/911.png/patched.png",
+      "EN-patch/kcs2/resources/useitem/card/912.png/original.png",
+      "EN-patch/kcs2/resources/useitem/card/912.png/patched.png"
+    ]
   }
 ]
