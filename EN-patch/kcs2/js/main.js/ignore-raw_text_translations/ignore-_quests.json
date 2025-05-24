@@ -2009,6 +2009,12 @@
 	"_quest_id_1028": "_quest_code_2503B1",
 	"【WD限定任務】軽空母、出撃せよ！": "[White Day] Light Aircraft Carrier, Sortie!",
 	"「Langley」旗艦または旗艦自由の軽空母2隻以上を含む艦隊で、鎮守府海域の製油所地帯沿岸及び\n南西諸島防衛線、南西諸島近海、北方海域モーレイ海を戦闘哨戒！White Dayの制海権を確保せよ！": "Sortie Langley as flagship and up to 5 additional ships OR 2 CVL and up to 4 additional ships\nto [W1-3], [W1-4], [W2-1] and [W3-1]. A-Rank+ each boss node.",
+	"_quest_id_1029": "_quest_code_B209",
+	"三十二駆「浜波改二」抜錨！敵中を突破せよ！": "DesDiv 32 Hamanami Kai Ni, Weigh Anchor! Break Through the Enemy Line!",
+	"「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、\nバシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！": "Sortie Hamanami Kai Ni as flagship, any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo,\nand up to 3 XX to [W1-6], [W2-2], [W2-3] and [W2-4]. S-Rank each boss node. Reach [W1-6-N] once.",
+	"_quest_id_1030": "_quest_code_2505B1",
+	"【期間限定任務】Fletcher級、哨戒任務！": "[Limited] Fletcher-class, Patrol Mission!",
+	"【期間限定任務】Fletcher級駆逐艦2隻以上及びNorthampton級かNew Orleans級1隻以上を含む\n艦隊で、製油所地帯沿岸、南西諸島防衛線、沖ノ島海域を反復哨戒！各海域の制海権を確保せよ！": "Sortie 2 Fletcher-class DD, a Northampton/New Orleans-class CA and up to 3 additional ships\nto [W1-3], [W1-4] and [W2-4]. S-Rank each boss node twice.",
 	"_quest_id_1101": "_quest_code_F96",
 	"海軍工廠の再整備": "Another Naval Arsenal Maintenance",
 	"工廠整備：「12.7cm連装砲」x8廃棄、家具コインx4,000と「14cm単装砲」「20.3cm連装砲」各x4を\n準備せよ！※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。": "Have 4 14cm Single Gun Mounts, 4 20.3cm Twin Gun Mounts and 4000 Furniture Coins.\nScrap 8 12.7cm Twin Gun Mounts.",
@@ -2147,6 +2153,9 @@
 	"_quest_id_1148": "_quest_code_F130",
 	"【対空兵装の拡充】94式高射装置の増加配備": "Increased Deployment of Type 94 Anti-Aircraft Fire Director",
 	"旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。\n開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！": "Due to the lengthy requirements, please refer to your viewer's description or the wiki.\nThe main requirement is 5 Type 91 Anti-Aircraft Fire Directors.",
+	"_quest_id_1149": "_quest_code_2505F1",
+	"【期間限定任務】作戦後の不要装備等用途廃止": "[Limited] Elimination of Unnecessary Equipment after the Event Operations",
+	"【期間限定任務】「高速建造材」x48を準備した上で、「中口径主砲」x8及び「魚雷」x8、\n「大口径主砲」x4を廃棄せよ。不要装備を用途廃止し、消費資源及び資材の確保を図れ！": "Have 48 Flamethrowers. Scrap 8 Medium Caliber Main Guns, 8 Torpedoes and 4 Large Caliber Main Guns.",
 
 	"dummy": "forNoComma"
 }

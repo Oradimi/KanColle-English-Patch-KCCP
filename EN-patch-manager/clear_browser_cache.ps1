@@ -27,6 +27,7 @@ Try {
 	[System.Collections.ArrayList] $TaskkillList += $loadFile;
 	ForEach ($k in $TaskkillList) {
 		Switch ($k) {
+			68 {$currentBrowsers += "[D] Damecon Browser, "} # Damecon;
 			69 {$currentBrowsers += "[E] Poi, "} # Poi;
 			82 {$currentBrowsers += "[R] Electronic Observer, "} # ElectronicObserver;
 			84 {$currentBrowsers += "[T] Chromium/Google Chrome, "} # Chromium and Google Chrome;
@@ -65,11 +66,11 @@ If ($TaskkillList.Count -eq 0) {
 
 If ($PressedKey -eq 27 -or $TaskkillList.Count -eq 0) {
 	# Asks for the browsers the user wants to clear the cache from;
-	$FullList = @(69,82,84,89,85,73,79,80);
+	$FullList = @(68,69,82,84,89,85,73,79,80);
 	$Notice = "";
 	Write-Host "";
-	Write-Host "[E] Poi        [R] EO     [T] Chrome/Chromium  [Y] Microsoft Edge";
-	Write-Host "[U] Opera(GX)  [I] Brave  [O] Vivaldi          [P] Yandex";
+	Write-Host "[D] Damecon    [E] Poi    [R] EO      [T] Chrome/Chromium  [Y] Microsoft Edge";
+	Write-Host "[U] Opera(GX)  [I] Brave  [O] Vivaldi [P] Yandex";
 	Write-Host "";
 	Do {
 		If ($TaskkillList.Count -eq 0) {
@@ -79,6 +80,7 @@ If ($PressedKey -eq 27 -or $TaskkillList.Count -eq 0) {
 			$currentBrowsers = "";
 			ForEach ($k in $TaskkillList) {
 				Switch ($k) {
+					68 {$currentBrowsers += "[D] Damecon Browser, "} # Damecon;
 					69 {$currentBrowsers += "[E] Poi, "} # Poi;
 					82 {$currentBrowsers += "[R] Electronic Observer, "} # ElectronicObserver;
 					84 {$currentBrowsers += "[T] Chromium/Google Chrome, "} # Chromium and Google Chrome;
@@ -108,6 +110,7 @@ If ($PressedKey -eq 27 -or $TaskkillList.Count -eq 0) {
 		}
 		Write-Host "";
 		Switch ($PressedKey) {
+			68 {Write-Host "$Notice1 Damecon Browser. Press [D] $Notice2."}
 			69 {Write-Host "$Notice1 Poi. Press [E] $Notice2."}
 			82 {Write-Host "$Notice1 ElectronicObserver. Press [R] $Notice2."}
 			84 {Write-Host "$Notice1 Chrome/Chromium. Press [T] $Notice2."}
@@ -134,8 +137,15 @@ $EOBrowser = '';
 $EOFolder = "\_null";
 $PoiBrowser = '';
 $PoiFolder = "\_null";
+$DameconBrowser = '';
+$DameconFolder = "\_null";
 ForEach ($k in $TaskkillList) {
 	Switch ($k) {
+		68 {
+			taskkill /F /IM "damecon-browser.exe";
+			$DameconBrowser = 'Damecon';
+			$DameconFolder = "$($env:APPDATA)\$DameconBrowser"
+		} # Damecon;
 		69 {
 			taskkill /F /IM "poi.exe";
 			$PoiBrowser = 'poi';
@@ -248,6 +258,17 @@ If (Test-Path "$PoiFolder") {
 	}
 };
 
+If (Test-Path "$DameconFolder") {
+	$Folder = "$DameconFolder\$_";
+	$Items | % { 
+		If (Test-Path "$DameconFolder\userdata\$_") {
+			Remove-Item "$DameconFolder\userdata\$_" -Recurse -Force;
+			Write-Host "Found $DameconBrowser cache! Successfully deleted." -ForegroundColor Green;
+			$CacheDeleted = $true
+		}
+	}
+};
+
 # Restarts KCCacheProxy;
 Write-Host "";
 Try {
@@ -255,6 +276,7 @@ Try {
 	Write-Host "KCCacheProxy was successfully relaunched!" -ForegroundColor Green
 } Catch {
 	Write-Host "KCCacheProxy was not launched. Please restart it manually." -ForegroundColor Yellow
+	Write-Host "If you are using Damecon's built-in KCCacheProxy, disregard this notice." -ForegroundColor Yellow
 };
 
 If ($CacheDeleted) {

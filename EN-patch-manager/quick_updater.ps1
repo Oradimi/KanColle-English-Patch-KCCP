@@ -1,8 +1,8 @@
 # Simple updater to update the English Patch;
-$host.ui.RawUI.WindowTitle = "KanColle English Patch Quick Updater v0.6.0";
+$host.ui.RawUI.WindowTitle = "KanColle English Patch Quick Updater v0.6.1";
 $PSversion = $PSVersionTable.PSVersion.Major;
 If ($PSversion -lt 5) {
-	Write-Host "Welcome to the KanColle English Patch Quick Updater v0.6.0!";
+	Write-Host "Welcome to the KanColle English Patch Quick Updater v0.6.1!";
 	Write-Host "";
 	Write-Host "Your version of PowerShell is not supported." -ForegroundColor Red;
 	Write-Host "";
@@ -26,7 +26,7 @@ If ($PSversion -lt 5) {
 }
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;
 
-Write-Host "Welcome to the KanColle English Patch Quick Updater v0.6.0!";
+Write-Host "Welcome to the KanColle English Patch Quick Updater v0.6.1!";
 Write-Host "You can use this updater to update your patch from v3.01 or newer to the latest version.";
 Write-Host "";
 Write-Host "This program may set off some anti-viruses." -ForegroundColor Yellow;
