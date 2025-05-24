@@ -807,6 +807,9 @@
 	"(\n|^)重巡洋艦 (「?)Minneapolis(」?)(\n|$)": "$1CA $2Minneapolis$3$4",
 	"(\n|^)重巡洋艦 (「?)Minneapolis改(」?)(\n|$)": "$1CA $2Minneapolis Kai$3$4",
 	"(\n|^)駆逐艦 (「?)初雪改二(」?)(\n|$)": "$1DD $2Hatsuyuki Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)浜波改二(」?)(\n|$)": "$1DD $2Hamanami Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)Richard P.Leary(」?)(\n|$)": "$1DD $2Richard P. Leary$3$4",
+	"(\n|^)駆逐艦 (「?)Richard P.Leary改(」?)(\n|$)": "$1DD $2Richard P. Leary Kai$3$4",
 
 	"dummy": "forNoComma"
 }
