@@ -142,6 +142,7 @@
 	"Ju87C改二(KMX搭載機)": "Ju 87C Kai 2 (w/ KMX)",
 	"Ju87C改二(KMX搭載機/熟練)": "Ju 87C Kai 2 (Sk. w/ KMX)",
 	"零式艦戦64型(複座KMX搭載機)": "T0 M64 (Two-seat w/ KMX) Fighter",
+	"Ju87 D-4(Fliegerass)": "Ju 87 D-4 (Fliegerass)",
 	"15.2cm連装砲": "15.2cm Twin Gun Mount",
 	"15.2cm連装砲改": "15.2cm Kai Twin Gun Mount",
 	"15.2cm連装砲改二": "15.2cm Kai 2 Twin Gun Mount",
@@ -302,6 +303,7 @@
 	"零式艦戦53型(岩本隊)": "T0 M53 (Iwamoto Squad.) Fighter",
 	"10.5cm連装砲": "10.5cm Twin Gun Mount",
 	"Bf109T改": "Bf 109T Kai",
+	"Bf109 T-3(G)": "Bf 109 T-3 (G)",
 	"Fw190T改": "Fw 190T Kai",
 	"Fw190 A-5改(熟練)": "Fw190 A-5 Kai (Sk.)",
 	"16inch三連装砲 Mk.6": "16inch Mk.6 Triple Gun Mount",
@@ -557,6 +559,7 @@
 	"特大発動艇+Ⅲ号戦車J型": "Panzer III Ausf. J + Toku Daihatsu Landing Craft",
 	"Sea Otter": "Sea Otter",
 	"Me 262 A-1a/R1": "Me 262 A-1a/R1",
+	"Ho229": "Ho229",
 
 	"dummy": "forNoComma"
 }

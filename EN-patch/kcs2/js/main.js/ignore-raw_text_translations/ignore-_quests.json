@@ -2015,6 +2015,15 @@
 	"_quest_id_1030": "_quest_code_2505B1",
 	"【期間限定任務】Fletcher級、哨戒任務！": "[Limited] Fletcher-class, Patrol Mission!",
 	"【期間限定任務】Fletcher級駆逐艦2隻以上及びNorthampton級かNew Orleans級1隻以上を含む\n艦隊で、製油所地帯沿岸、南西諸島防衛線、沖ノ島海域を反復哨戒！各海域の制海権を確保せよ！": "Sortie 2 Fletcher-class DD, a Northampton/New Orleans-class CA and up to 3 additional ships\nto [W1-3], [W1-4] and [W2-4]. S-Rank each boss node twice.",
+	"_quest_id_1033": "_quest_code_B210",
+	"二等輸送艦の積極運用": "Active Operation of Second-class Transport Ships",
+	"二等輸送艦を旗艦に配備、護衛に軽巡級1隻及び駆逐艦2隻以上を含む艦隊で、鎮守府正面海域\n及び南西諸島沖、製油所地帯沿岸、南西諸島防衛線に出撃！輸送艦を守り、敵艦隊を殲滅せよ！": "Sortie No.101 Transport Ship as flagship, a CL(T)/CT, 2 DD and up to 2 additional ships\nto [W1-1], [W1-2], [W1-3] and [W1-4]. S-Rank each boss node.",
+	"_quest_id_1034": "_quest_code_2506B1",
+	"【夏季限定任務】夏の日の「朝日」護衛": "[Limited] Escort Asahi on a Summer Day",
+	"「朝日」を旗艦に配備、護衛に駆逐艦3隻以上または海防艦1隻以上を含む艦隊で、南西諸島沖、\n製油所地帯沿岸、南西諸島防衛線、南西諸島近海に展開！夏の日の「朝日」護衛を貫徹せよ！": "Sortie Asahi as flagship and either 3 DD and up to 2 additional ships OR a DE and up to\n4 to additional ships to [W1-2], [W1-3], [W1-4] and [W2-1]. S-Rank each boss node.",
+	"_quest_id_1035": "_quest_code_2506B2",
+	"【夏季限定任務】ソロモンの夏夜": "[Limited] Summer Night in Solomon",
+	"「能代」「Atlanta」「Richard P.Leary」を旗艦に配備。駆逐艦が計3隻以上配備された精鋭艦隊で、\n夏の南方海域前面、サブ島沖海域、サーモン海域に遊弋する敵艦隊に突入、これを撃滅せよ！": "Sortie Noshiro or Atlanta as flagship, 3 DD and up to 2 additional ships OR Richard P. Leary\nas flagship, 2 DD and up to 3 XX to [W5-1], [W5-3] and [W5-4]. S-Rank each boss node.",
 	"_quest_id_1101": "_quest_code_F96",
 	"海軍工廠の再整備": "Another Naval Arsenal Maintenance",
 	"工廠整備：「12.7cm連装砲」x8廃棄、家具コインx4,000と「14cm単装砲」「20.3cm連装砲」各x4を\n準備せよ！※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。": "Have 4 14cm Single Gun Mounts, 4 20.3cm Twin Gun Mounts and 4000 Furniture Coins.\nScrap 8 12.7cm Twin Gun Mounts.",
@@ -2156,6 +2165,9 @@
 	"_quest_id_1149": "_quest_code_2505F1",
 	"【期間限定任務】作戦後の不要装備等用途廃止": "[Limited] Elimination of Unnecessary Equipment after the Event Operations",
 	"【期間限定任務】「高速建造材」x48を準備した上で、「中口径主砲」x8及び「魚雷」x8、\n「大口径主砲」x4を廃棄せよ。不要装備を用途廃止し、消費資源及び資材の確保を図れ！": "Have 48 Flamethrowers. Scrap 8 Medium Caliber Main Guns, 8 Torpedoes and 4 Large Caliber Main Guns.",
+	"_quest_id_1151": "_quest_code_F131",
+	"陸軍戦闘機及び海外戦闘機の増備": "Increase in Army and Foreign Fighter Aircraft",
+	"【工廠任務】「水上偵察機」x14、「中口径主砲」x12、「艦上爆撃機」x10を廃棄。開発資材x36、\n「零式艦戦21型」x8、「零式艦戦32型」x4を準備せよ！(任務達成後、準備装備等は消費します)": "Have 36 Development Materials, 8 Type 0 Fighter Model 21 and 4 Type 0 Fighter Model 32.\nScrap 14 Reconnaissance Seaplanes, 12 Medium Caliber Main Guns and 10 Dive Bombers.",
 
 	"dummy": "forNoComma"
 }
