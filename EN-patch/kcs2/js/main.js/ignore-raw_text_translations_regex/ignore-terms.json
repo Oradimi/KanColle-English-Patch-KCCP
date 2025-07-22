@@ -25,5 +25,8 @@
 
 	"装備運用枠【+([0-9]+)装備分】": "Equipment Slots +$1 ",
 
+	"(.+?)に装備が改修更新されました！": "The equipment has been upgraded into a\n$1!",
+	"」を配備完了！": "」deployment complete!",
+
 	"dummy": "forNoComma"
 }
