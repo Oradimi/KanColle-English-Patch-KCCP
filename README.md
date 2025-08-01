@@ -8,12 +8,11 @@ This link above redirects to a document that contains everything you need to get
 whether it be as a new player, as a returning or active player, on PC, Mac, Linux or Android.
 It also contains some useful resources for the game itself, and an early walkthrough if you feel lost.
 ## [Discord server](https://discord.gg/krMeMKB)
-- **Popular:** Over 1,800 members and growing! Join an active community of players.
-- **Helpful:** Need help with installing the game or figuring out mechanics? We may be able to help!
-- **Links:** Want to explore the other existing KanColle Discords? There's a gateway channel!
-- **Ping Squad role:** Receive pings for polls and update notices about the patch.
-- **Ping Squad+ role:** Receive pings for game updates, and all the other news!
-- **DMM Festival role:** Get reminded about DMM Festivals to get free DMM points!
+- Over 2,300 members and growing!
+- Need help with installing the game or figuring out mechanics? We may be able to help!
+- Want to explore the other existing KanColle Discords? You can find links in a channel!
+- Receive pings for polls and update notices about the patch with the Ping Squad role.
+- Receive pings for game updates, and all the other news with the Ping Squad+ role.
 
 ## Features
 ##### What it is
@@ -39,7 +38,7 @@ Currently, everything that is essential to comfortable gameplay,\
 or that is very often seen in the game, is translated. This even includes event flavor text.
 
 ##### English Patch Manager
-The quick updater v0.6.0 lets you easily update the patch\
+The quick updater lets you easily update the patch\
 without resorting to installing git. It also clears the browser cache for you!\
 It is now also possible to launch "_enable_update_checker.bat" to be\
 immediately notified of a patch update upon launching your PC!\
