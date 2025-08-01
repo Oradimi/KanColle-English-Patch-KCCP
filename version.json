@@ -15401,5 +15401,33 @@
       "EN-patch/kcs2/resources/slot/remodel/0561_5216.png/original.png",
       "EN-patch/kcs2/resources/slot/remodel/0561_5216.png/patched.png"
     ]
+  },
+  {
+    "version": "3.24.1",
+    "del": [
+      "font/A-OTF-UDShinGoPro-Light.woff2/original.woff2",
+      "font/A-OTF-UDShinGoPro-Light.woff2/patched.woff2",
+      "font/A-OTF-UDShinGoPro-Regular.woff2/original.woff2",
+      "font/A-OTF-UDShinGoPro-Regular.woff2/patched.woff2"
+    ],
+    "add": [
+      "EN-patch.mod.json",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/original/arsenal_main_017.png",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/original/arsenal_main_087.png",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/original/arsenal_main_088.png",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/patched/arsenal_main_017.png",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/patched/arsenal_main_087.png",
+      "EN-patch/kcs2/img/arsenal/arsenal_main.png/patched/arsenal_main_088.png",
+      "EN-patch/kcs2/img/title/title2.png/patched.png",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-_quests.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-equip_gallery.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-furniture_desc.json",
+      "EN-patch/kcs2/js/main.js/ignore-raw_text_translations/ignore-main_menu.json",
+      "EN-patch/kcs2/resources/font/A-OTF-UDShinGoPro-Light.woff2/original.woff2",
+      "EN-patch/kcs2/resources/font/A-OTF-UDShinGoPro-Light.woff2/patched.woff2",
+      "EN-patch/kcs2/resources/font/A-OTF-UDShinGoPro-Regular.woff2/original.woff2",
+      "EN-patch/kcs2/resources/font/A-OTF-UDShinGoPro-Regular.woff2/patched.woff2",
+      "README.md"
+    ]
   }
 ]
