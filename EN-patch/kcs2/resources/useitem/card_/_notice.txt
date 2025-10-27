@@ -1,1 +1,1 @@
-051, 903, 904, 905, 906 and 908 from card folder without underscore
+all assets from card folder without underscore
