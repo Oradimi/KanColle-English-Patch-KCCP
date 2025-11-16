@@ -561,6 +561,10 @@
 	"Sea Otter": "Sea Otter",
 	"Me 262 A-1a/R1": "Me 262 A-1a/R1",
 	"Ho229": "Ho229",
+	"21cm単装主砲": "21cm Single Main Gun Mount",
+	"15cm単装副砲": "15cm Single Secondary Gun Mount",
+	"10.2cm三連装副砲": "10.2cm Triple Secondary Gun Mount",
+	"Sea Gladiator": "Sea Gladiator",
 
 	"dummy": "forNoComma"
 }

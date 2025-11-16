@@ -1,7 +1,7 @@
 airunit - complete
 cutin_anti_air - complete
 cutin_damage - needs instructions
-cutin_gouchin - needs remaster and separation
+cutin_gouchin - complete
 jin_ - complete
 jin - complete
 main - complete

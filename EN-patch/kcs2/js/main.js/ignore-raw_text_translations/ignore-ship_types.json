@@ -31,6 +31,10 @@
 	"戦車揚陸艦 ": "LST ",
 	"練習特務艦 ": "CT ",
 	"戦闘水上機母艦 ": "AVS ",
+	"海防戦艦 ": "CDB ",
+	"巡洋戦艦 ": "BC ",
+	"雑役船 ": "AF ",
+	"給糧艦 ": "APF ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -64,6 +68,10 @@
 	"戦車揚陸艦": "LST",
 	"練習特務艦": "CT",
 	"戦闘水上機母艦": "AVS",
+	"海防戦艦": "CDB",
+	"巡洋戦艦": "BC",
+	"雑役船": "AF",
+	"給糧艦": "APF",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
@@ -109,6 +117,7 @@
 	"深海大型正規空母": "Abyssal Large Aircraft Carrier",
 	"深海新鋭駆逐艦": "Abyssal New Elite Destroyer",
 	"砕氷巡洋艦": "Icebreaker Cruiser",
+	"深海軽巡洋艦": "Abyssal Light Cruiser",
 
 	"dummy": "forNoComma"
 }

@@ -1,0 +1,12 @@
+{
+	"【入渠】していた艦の修理が完了しました。": "A ship in [Dock] has finished repairs.",
+	"【工廠】で建造が完了した艦があります。": "A ship in [Build] has been completed.",
+	"(.*)が【遠征】から帰投しました。": "$1 has returned from [Expeditions].",
+	"新【作戦方面】の攻略が可能となりました！": "A new [Operation Front] is now available for assault!",
+	"新【作戦エリア】への出撃が可能となりました！": "Deployment to a new [Operation Area] is now available!",
+	"【図鑑】の記録が追加更新されました！": "A new entry has been added to the [Gallery].",
+	"(.*)さんとの【演習】で勝利しました。": "You achieved victory against $1 in [Exercises].",
+	"(.*)さんとの【演習】で敗北しました。": "You were defeated by $1 in [Exercises].",
+
+	"dummy": "forNoComma"
+}

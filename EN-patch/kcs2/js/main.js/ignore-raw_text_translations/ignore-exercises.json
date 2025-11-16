@@ -8,7 +8,9 @@
 	"更新後に設定変更可能です。": "Setting applied after the reset.",
 	"演習相手は一日二回更新されます。": "Exercise set renewed twice a day.",
 	"連合艦隊では出撃できません。": "You cannot sortie here with a Combined Fleet.",
+	"遊撃艦隊では出撃できません。": "You cannot sortie here with a Striking Force.",
 	"艦隊内に入渠中の艦があります！": "There is a ship in repair within your fleet!",
+	"旗艦が大破しており、出撃できません。": "Cannot sortie. The flagship is heavily damaged.",
 	"演習": "Exercise",
 
 	"dummy": "forNoComma"
