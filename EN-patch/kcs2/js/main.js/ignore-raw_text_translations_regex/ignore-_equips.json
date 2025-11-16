@@ -561,6 +561,10 @@
 	"Sea Otter(×|」)": "Sea Otter$1",
 	"Me 262 A-1a/R1(×|」)": "Me 262 A-1a/R1$1",
 	"Ho229(×|」)": "Ho229$1",
+	"21cm単装主砲(×|」)": "21cm Single Main...$1",
+	"15cm単装副砲(×|」)": "15cm Single Secondary...$1",
+	"10.2cm三連装副砲(×|」)": "10.2cm Triple Secondary...$1",
+	"Sea Gladiato(×|」)": "Sea Gladiator$1",
 
 	"dummy": "forNoComma"
 }
