@@ -5,6 +5,6 @@ ringmenu - complete
 sidemenu - complete
 skin_1 - complete
 skin_2 - complete
-skin_3 - needs partial remaster and separation
+skin_3 - complete
 skin_circle_2 - from original assets (needs psd for other languages)
 tutorial - complete

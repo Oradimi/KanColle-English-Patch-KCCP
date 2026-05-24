@@ -1,7 +1,7 @@
 animation - complete
-gradeup - needs remaster and separation
+gradeup - complete
 main - complete
-powerup - needs remaster and separation
+powerup - complete
 preset - complete
 preset_slot_text - complete
 

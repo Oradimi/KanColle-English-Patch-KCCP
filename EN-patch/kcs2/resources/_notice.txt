@@ -1,0 +1,1 @@
+ship, slot/card and slot/card_t generated using Godot

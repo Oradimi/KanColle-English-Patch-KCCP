@@ -1,5 +1,5 @@
-anchorage_repair - needs remaster and separation
-cell_event - needs slight remaster and separation
+anchorage_repair - complete
+cell_event - complete
 decision - complete
-flagship_damage - needs separation
+flagship_damage - complete
 telop - complete

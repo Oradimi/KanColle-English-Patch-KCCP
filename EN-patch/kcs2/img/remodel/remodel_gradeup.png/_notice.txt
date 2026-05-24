@@ -1,2 +1,4 @@
 004 and 009 from repair_main_006 and _010
 remodel_gradeup_006 covers _006, _007 and _008
+026 and 028 from remodel_main_053 and _054
+remodel_gradeup_016 to _019 from common_main_023 to _026 respectively

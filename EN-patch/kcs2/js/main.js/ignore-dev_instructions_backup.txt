@@ -1,21 +1,61 @@
 Print in-game drawn text (paste code in "index.php") (Use this code without "console.log" line to pause printing):
-Object.defineProperty(PIXI.Text.prototype, "text", {  get() { return this._text; }, set(text) {
-        console.log(`${text}`)
-        const replaced = KCT_TLS[text]
-        if (replaced !== undefined)
-            text = replaced
-        else if (text != null) {
-            for (const [from, to] of KCT_REPLACEMENTS)
-                text = text.replace(new RegExp(from, "g"), to)
+Object.defineProperty(PIXI.Text.prototype, "text", {
+    get: KCT_OG_PIXI_TEXT.get,
+    set(text) {
+        console.log(`${text}`);
+        console.log(this.style);
+        // --- translation ---
+        const replaced = KCT_TLS[text];
+        if (replaced !== undefined) {
+            text = replaced;
+        } else if (text != null) {
+            for (const [regex, to] of KCT_COMPILED_REGEX) {
+                text = text.replace(regex, to);
+            }
         }
-        text = String(text === '' || text === null || text === undefined ? ' ' : text);
-
-        if (this._text === text)
-            return;
         
-        this._text = text;
-        this.dirty = true;
-}})
+        // --- parse tags ---
+        text = String(text ?? " ");
+        const parsed = kctParseTags(text);
+
+        if (!this._kctBaseStyle && this.style) {
+            this._kctBaseStyle = new PIXI.TextStyle(this.style);
+        }
+
+        if (!parsed.hasTags) {
+            this.style = this._kctBaseStyle;
+            KCT_OG_PIXI_TEXT.set.call(this, parsed.text);
+            return;
+        }
+
+        const base = this._kctBaseStyle;
+        if (base) {
+            const next = new PIXI.TextStyle(base);
+
+            if (parsed.scale !== 1)
+                next.fontSize = base.fontSize * parsed.scale;
+
+            if (parsed.color)
+                next.fill = parsed.color;
+
+            if (parsed.weight)
+                next.fontWeight = parsed.weight;
+
+            if (parsed.line) {
+                next.wordWrap = true;
+                next.wordWrapWidth = parsed.line;
+            }
+
+            if (parsed.leading)
+                next.leading = parsed.leading;
+
+            this.style = next;
+        }
+
+        // --- assign text ---
+        KCT_OG_PIXI_TEXT.set.call(this, parsed.text);
+    }
+});
 
 json match to trim text and add (... $1",)
 Find	^(.*": "[^\n]{18,}?)(?!\s×",) .*",$

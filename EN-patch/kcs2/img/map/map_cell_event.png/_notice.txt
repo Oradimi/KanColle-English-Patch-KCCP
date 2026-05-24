@@ -1,3 +1,3 @@
-map_cell_event_079 comes from somwhere else
-map_cell_event_053 covers _051 and _052
-map_cell_event_053 covers _053 and _054
+map_cell_event_079 comes from expeditions
+map_cell_event_056 covers _056 and _057
+map_cell_event_058 covers _058 and _059

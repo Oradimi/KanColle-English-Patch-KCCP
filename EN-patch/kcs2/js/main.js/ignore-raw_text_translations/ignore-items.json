@@ -192,6 +192,12 @@
 	"_item_id_102": "_item_id_102",
 	"航空特別増加食": "Special Aviation Ration",
 	"基地航空隊の疲労を緩和、士気\nを高める航空特別増加食です。\n※一つ消費で一航空隊(最大四個\n　中隊)に効果を発揮します。": "A specially increased aviation meal that relieves fatigue and boosts morale of land-based air units.\n※ Consuming one will apply the effect to 1 LBAS group (maximum of 4 slots).",
+	"_item_id_103": "_item_id_103",
+	"工廠拡張キー": "Arsenal Expansion Key",
+	"装備開発の資源配分を記録可能\nな枠を1つ拡張できるキー。": "A key that can expand by 1 the slot for recording resource allocation for equipment development.",
+	"_item_id_104": "_item_id_104",
+	"工廠資源": "Arsenal Resource",
+	"工廠を本格的に使用した艦娘\nの高度な改装や最新装備改修\n及び改修装備の状態回復など\nにも使用可能です。": "Can be used for advanced refits of shipgirls utilizing the Arsenal in full, upgrades to the latest equipment, and restoring the condition of upgraded equipment.",
 
 	"dummy": "forNoComma"
 }

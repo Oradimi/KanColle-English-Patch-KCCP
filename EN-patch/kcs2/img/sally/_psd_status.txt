@@ -2,8 +2,8 @@ alert_ - complete
 airbase_maint - complete
 airunit - complete
 common - complete
-event - needs partial remaster and separation
-expedition - needs remaster and separation
+event - complete
+expedition - complete
 jin - might need partial remaster
 map_parts - complete
 practice - complete

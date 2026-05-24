@@ -1,22 +1,22 @@
 album - complete
 arsenal - complete
-battle - more details in the folder
+battle - more details in the folder (complete)
 battle_result - complete (guide might need instructions)
-common - more details in the folder
+common - more details in the folder (complete)
 duty - complete
-interior - needs remaster
-item - more details in the folder
+interior - complete
+item - more details in the folder (complete)
 jukebox - complete
-map - more details in the folder
+map - more details in the folder (complete)
 minigame - complete
-organize - more details in the folder
-port - more details in the folder
+organize - more details in the folder (complete)
+port - more details in the folder (complete)
 record - complete
-remodel - more details in the folder
+remodel - more details in the folder (complete)
 repair - complete
-revamp - more details in the folder
-sally - more details in the folder
-supply - needs separation
-title - separated, but logo missing psd
+revamp - more details in the folder (complete)
+sally - more details in the folder (complete)
+supply - complete
+title - complete, but logo missing psd
 tutorial - complete (might fine tune later)
 wedding - complete (guide needs explanation)

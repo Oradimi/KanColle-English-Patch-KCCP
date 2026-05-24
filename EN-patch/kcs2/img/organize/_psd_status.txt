@@ -1,7 +1,7 @@
 filter - complete
-hokyu_dialog_default - needs remaster
-hokyu_dialog_default - needs remaster
-hokyu_dialog_default - needs remaster
-main - needs partial remaster
+hokyu_dialog_default - complete
+hokyu_dialog_default - complete
+hokyu_dialog_default - complete
+main - complete
 mamiya_animation_common - complete
 rengo - complete
