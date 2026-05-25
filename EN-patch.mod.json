@@ -1,10 +1,10 @@
 {
   "name": "KanColle English Patch",
-  "version": "3.26.0",
+  "version": "4.0.0",
   "authors": ["Oradimi", "Inochi-PM", "Tibo"],
   "requireScripts": true,
   "url": "https://github.com/Oradimi/KanColle-English-Patch-KCCP",
   "updateUrl": "https://raw.githubusercontent.com/Oradimi/KanColle-English-Patch-KCCP/master/EN-patch.mod.json",
   "downloadUrl": "https://github.com/Oradimi/KanColle-English-Patch-KCCP/archive/master.zip",
-  "size": 322823402
+  "size": 1081682822
 }
