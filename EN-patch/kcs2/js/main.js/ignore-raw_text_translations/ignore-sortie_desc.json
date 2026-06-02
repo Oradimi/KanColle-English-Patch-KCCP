@@ -132,6 +132,11 @@
 	"第二次サーモン海戦": "Second Battle of the\nSalmon Sea",
 	"南方海域に敵の有力な機動部隊\nの接近が確認された。空母機動\n部隊を以て、これを迎撃せよ！": "A powerful enemy task force\nhas been confirmed to be\napproaching in the Southern\nArea. Send a carrier task force\nto intercept it!",
 
+	"map_code": "5-6",
+	"ラバウル方面海域": "Rabaul Sea Area",
+	"ラバウル空襲艦隊を討て": "Destroy the Rabaul\nAir Raid Force",
+	"ラエへの増援輸送を実施後、\n遊撃部隊をラバウルへ展開！\n空襲を企図する敵艦隊を討て！": "After carrying out\nreinforcement transport\nto Lae, deploy the strike\nforce to Rabaul!\nDestroy the enemy fleet\nattempting an air raid!",
+
 	"map_code": "6-1",
 	"中部海域哨戒線": "Central Area Patrol Line",
 	"潜水艦作戦": "Submarine Operation",
