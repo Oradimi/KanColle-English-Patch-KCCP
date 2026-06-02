@@ -56,7 +56,7 @@
 	"42号対空電探改二(×|」)": "T42 Kai 2 Air Radar$1",
 	"15m二重測距儀\\+21号電探改二(×|」)": "15m Duplex Rangefinder...$1",
 	"15m二重測距儀改\\+21号電探改二\\+熟練射撃指揮所(×|」)": "15m Kai Duplex Rangefinder...$1",
-	"試製 23号電探改三(×|」)" : "Proto. T23 Kai 3 Radar$1",
+	"試製 23号電探改三(×|」)": "Proto. T23 Kai 3 Radar$1",
 	"改良型艦本式タービン(×|」)": "Improved Turbine (Kanhon...$1",
 	"強化型艦本式缶(×|」)": "Enhanced Boiler (Kanhon...$1",
 	"三式弾(×|」)": "Type 3 Shell$1",
@@ -209,7 +209,7 @@
 	"天山一二型甲(×|」)": "Tenzan M12A$1",
 	"天山一二型甲改\\(空六号電探改装備機\\)(×|」)": "Tenzan M12A Kai (w/...$1",
 	"天山一二型甲改\\(熟練/空六号電探改装備機\\)(×|」)": "Tenzan M12A Kai (Sk...$1",
-	"天山一二型甲改二\\(村田隊/電探装備\\)(×|」)" : "Tenzan M12A Kai 2 (Murata...$1",
+	"天山一二型甲改二\\(村田隊/電探装備\\)(×|」)": "Tenzan M12A Kai 2 (Murata...$1",
 	"2cm 四連装FlaK 38(×|」)": "2cm Flakvierling 38$1",
 	"3\\.7cm FlaK M42(×|」)": "3.7cm FlaK M42$1",
 	"艦艇修理施設(×|」)": "Ship Repair Facility$1",
@@ -573,7 +573,8 @@
 	"21cm単装主砲(×|」)": "21cm Single Main...$1",
 	"15cm単装副砲(×|」)": "15cm Single Secondary...$1",
 	"10.2cm三連装副砲(×|」)": "10.2cm Triple Secondary...$1",
-	"Sea Gladiato(×|」)": "Sea Gladiator$1",
+	"Sea Gladiator(×|」)": "Sea Gladiator$1",
+	"25mm連装機銃\\(熟練機銃員分隊\\)(×|」)": "25mm Twin Autocannon (Sk...$1",
 
 	"dummy": "forNoComma"
 }

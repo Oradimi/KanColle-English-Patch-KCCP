@@ -836,6 +836,10 @@
 	"(\n|^)駆逐艦 (「?)玉波改二(」?)(\n|$)": "$1DD $2Tamanami Kai Ni$3$4",
 	"(\n|^)駆逐艦 (「?)吹雪改三(」?)(\n|$)": "$1DD $2Fubuki Kai San$3$4",
 	"(\n|^)駆逐艦 (「?)吹雪改三護(六式)(」?)(\n|$)": "$1DD $2Fubuki Kai San Go (Type 6)$3$4",
+	"(\n|^)駆逐艦 (「?)涼波改二(」?)(\n|$)": "$1DD $2Suzukaze Kai Ni$3$4",
+	"(\n|^)駆逐艦 (「?)涼波改二補(」?)(\n|$)": "$1DD $2Suzukaze Kai Ni Ho$3$4",
+	"(\n|^)駆逐艦 (「?)朝霜改二補(」?)(\n|$)": "$1DD $2Asashimo Kai Ni Ho$3$4",
+	"(\n|^)駆逐艦 (「?)長波改二補(」?)(\n|$)": "$1DD $2Nagatsuki Kai Ni Ho$3$4",
 
 	"dummy": "forNoComma"
 }
