@@ -177,6 +177,7 @@
 	"てるてる坊主": "Teru Teru Bouzu",
 	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n複数集めると梅雨明け頃に何か\nちょっといいコトあるかも！　　　\n※夏本格到来時に消滅します。": "Teru Teru Bouzu (paper doll)\nmade and assembled by the\nshipgirls. You may get some\npretty good stuff at the end\nof the rainy season if you\ncollect many!\n※ Will disappear when the\n　 summer really begins.",
 	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n※海色リボンや限定家具、装備\n　や資材などと交換可能です。\n※夏本格到来時に消滅します。": "Cloth doll made and\nassembled by the shipgirls.\n※ Can be exchanged for\n　 Sea-colored Ribbons,\n　 limited-edition furniture,\n　 equipment and materials.\n※ Will disappear when the\n　 summer really begins.",
+	"艦娘が集めたり、作ったりした\n「てるてる坊主」です。　　　\n※海色リボンや装備、貴重な新\n　アイテム等と交換可能です！\n※夏到来時に消滅します。": "Cloth doll made and\nassembled by the shipgirls.\n※ Can be exchanged for\n　 Sea-colored Ribbons,\n　 valuable new items,\n　 equipment and materials.\n※ Will disappear when the\n　 summer arrives.",
 	"_item_id_98": "_item_id_98",
 	"海色リボン": "Sea-colored Ribbon",
 	"旗艦に付与されます(既に同様 \nのものが付与されている場合は\n上書きして付与されます)。　 \n※艦娘の能力が微上昇します。": "Assigned to the flagship\n(if a similar item has already\nbeen assigned, it will be\noverwritten).\n※ Slightly increases the\n　 abilities of the shipgirl.",
@@ -198,6 +199,9 @@
 	"_item_id_104": "_item_id_104",
 	"工廠資源": "Arsenal Resource",
 	"工廠を本格的に使用した艦娘\nの高度な改装や最新装備改修\n及び改修装備の状態回復など\nにも使用可能です。": "Can be used for advanced refits of shipgirls utilizing the Arsenal in full, upgrades to the latest equipment, and restoring the condition of upgraded equipment.",
+	"_item_id_105": "_item_id_105",
+	"格納庫増設": "Hangar Expansion",
+	"航空母艦などの格納庫の拡張に\n使う基本資材及び設計図です。\n※イベントや任務などでも獲得\n可能です。他の資材と合わせて\n使用します。": "These are the basic materials and blueprints used to expand hangars on aircraft carriers and similar vessels.\n※ They can also be obtained through events, missions, and the like. They are used in conjunction with other resources.",
 
 	"dummy": "forNoComma"
 }
