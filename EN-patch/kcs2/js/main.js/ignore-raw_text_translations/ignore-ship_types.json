@@ -35,6 +35,7 @@
 	"巡洋戦艦 ": "BC ",
 	"雑役船 ": "AF ",
 	"給糧艦 ": "APF ",
+	"潜水母艦/特設運送艦 ": "ASP ",
 	
 	"戦艦": "BB",
 	"航空戦艦": "BBV",
@@ -72,6 +73,7 @@
 	"巡洋戦艦": "BC",
 	"雑役船": "AF",
 	"給糧艦": "APF",
+	"潜水母艦/特設運送艦": "ASP",
 
 	"高速戦艦": "FBB",
 	"新型戦艦": "New Type Battleship",
@@ -119,6 +121,8 @@
 	"砕氷巡洋艦": "Icebreaker Cruiser",
 	"深海軽巡洋艦": "Abyssal Light Cruiser",
 	"新型防空巡洋艦": "New Model Anti-air Cruiser",
+	"深海航空母艦": "Abyssal Aircraft Carrier",
+	"深海重巡洋艦旗艦": "Abyssal Heavy Cruiser Flagship",
 
 	"dummy": "forNoComma"
 }
