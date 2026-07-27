@@ -851,6 +851,17 @@
 	"(\n|^)軽空母 (「?)Independence Flight II(」?)(\n|$)": "$1CVL $2Independence Flight II$3$4",
 	"(\n|^)戦艦 (「?)Indiana(」?)(\n|$)": "$1BB $2Indiana$3$4",
 	"(\n|^)戦艦 (「?)Indiana改(」?)(\n|$)": "$1BB $2Indiana Kai$3$4",
+	"(\n|^)重巡洋艦 (「?)Algérie(」?)(\n|$)": "$1CA $2Algérie$3$4",
+	"(\n|^)重巡洋艦 (「?)Algérie改(」?)(\n|$)": "$1CA $2Algérie Kai$3$4",
+	"(\n|^)正規空母 (「?)Béarn(」?)(\n|$)": "$1CA $2Béarn$3$4",
+	"(\n|^)正規空母 (「?)Béarn amélioration(」?)(\n|$)": "$1CA $2Béarn Amélioration$3$4",
+	"(\n|^)正規空母 (「?)Béarn改(」?)(\n|$)": "$1CA $2Béarn Kai$3$4",
+	"(\n|^)駆逐艦 (「?)Vautour(」?)(\n|$)": "$1DD $2Vautour$3$4",
+	"(\n|^)駆逐艦 (「?)Vautour改(」?)(\n|$)": "$1DD $2Vautour Kai$3$4",
+	"(\n|^)駆逐艦 (「?)Visby(」?)(\n|$)": "$1DD $2Visby$3$4",
+	"(\n|^)駆逐艦 (「?)Visby改(」?)(\n|$)": "$1DD $2Visby Kai$3$4",
+	"(\n|^)潜水母艦 (「?)日枝丸(」?)(\n|$)": "$1AS $2Hie Maru$3$4",
+	"(\n|^)潜水母艦/特設運送艦 (「?)日枝丸改(」?)(\n|$)": "$1ASP $2Hie Maru Kai$3$4",
 
 	"dummy": "forNoComma"
 }

@@ -846,6 +846,17 @@
 	"Independence Flight II": "Independence Flight II",
 	"Indiana": "Indiana",
 	"Indiana改": "Indiana Kai",
+	"Algérie": "Algérie",
+	"Algérie改": "Algérie Kai",
+	"Béarn": "Béarn",
+	"Béarn amélioration": "Béarn Amélioration",
+	"Béarn改": "Béarn Kai",
+	"Vautour": "Vautour",
+	"Vautour改": "Vautour Kai",
+	"Visby": "Visby",
+	"Visby改": "Visby Kai",
+	"日枝丸": "Hie Maru",
+	"日枝丸改": "Hie Maru Kai",
 
 	"駆逐イ級": "I-Class Destroyer",
 	"駆逐イ級後期型": "I-Class Destroyer Late Model",
@@ -1174,6 +1185,13 @@
 	"防空巡新棲姫-壊": "New Anti-Air Cruiser Princess (Damaged)",
 	"高速軽空母首鬼": "Fast Light Carrier Head Demon",
 	"高速軽空母首鬼-壊": "Fast Light Carrier Head Demon (Damaged)",
+	"軽巡ウ級": "U-Class Light Cruiser",
+	"重巡ヰ級": "Wi-Class Heavy Cruiser",
+	"重巡ヰ級-壊": "Wi-Class Heavy Cruiser (Damaged)",
+	"仏蘭西哀重姫": "Tragic French Heavy Princess",
+	"仏蘭西哀重姫-壊": "Tragic French Heavy Princess (Damaged)",
+	"仏蘭西空母籠姫": "Caged French Aircraft Carrier Princess",
+	"仏蘭西空母籠姫-壊": "Caged French Aircraft Carrier Princess (Damaged)",
 
 	"dummy": "forNoComma"
 }

@@ -578,6 +578,16 @@
 	"10.2cm三連装副砲": "10.2cm Triple Secondary Gun Mount",
 	"Sea Gladiator": "Sea Gladiator",
 	"25mm連装機銃(熟練機銃員分隊)": "25mm Twin Autocannon (Sk. Gunner Squad)",
+	"13.8cm単装砲 Modèle 1927": "13.8cm Single Gun Mount Modèle 1927",
+	"55cm三連装魚雷 Modèle 1924": "55cm Triple Torpedo Mount Modèle 1924",
+	"55cm複合配置五連装魚雷 Modèle 1932": "55cm Composite Arrangement Quintuple Torpedo Mount Modèle 1932",
+	"20.3cm/50 連装砲 Modèle 1931": "20.3cm/50 Twin Gun Mount Modèle 1931",
+	"20.3cm/50 連装砲改(SHS改良弾)": "20.3cm/50 Kai Twin Gun Mount (SHS Improved Shells)",
+	"Bofors 12cm単装両用砲": "Bofors 12cm Single Dual-purpose Gun Mount",
+	"PL101(偵察)": "PL 101 (Recon.)",
+	"PL101(爆装)": "PL 101 (Bomb-carrying)",
+	"V-156F(SB2U輸出型)": "V-156F (SB2U Export Model)",
+	"G-36A(F4F輸出型)": "G-36A (F4F Export Model)",
 
 	"dummy": "forNoComma"
 }
