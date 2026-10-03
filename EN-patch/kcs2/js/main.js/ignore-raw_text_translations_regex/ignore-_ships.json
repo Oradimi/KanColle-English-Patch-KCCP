@@ -862,6 +862,9 @@
 	"(\n|^)駆逐艦 (「?)Visby改(」?)(\n|$)": "$1DD $2Visby Kai$3$4",
 	"(\n|^)潜水母艦 (「?)日枝丸(」?)(\n|$)": "$1AS $2Hie Maru$3$4",
 	"(\n|^)潜水母艦/特設運送艦 (「?)日枝丸改(」?)(\n|$)": "$1ASP $2Hie Maru Kai$3$4",
+	"(\n|^)航空戦艦 (「?)扶桑改二補": "$1BBV $2Fusou Kai Ni Ho$3$4",
+	"(\n|^)航空戦艦 (「?)山城改二補": "$1BBV $2Yamashiro Kai Ni Ho$3$4",
+	"(\n|^)改装多目的搭載母艦 (「?)北上改三": "$1CLT (Sp.) $2Kitakami Kai San$3$4",
 
 	"dummy": "forNoComma"
 }
