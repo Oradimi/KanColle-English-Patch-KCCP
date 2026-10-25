@@ -865,6 +865,7 @@
 	"(\n|^)航空戦艦 (「?)扶桑改二補": "$1BBV $2Fusou Kai Ni Ho$3$4",
 	"(\n|^)航空戦艦 (「?)山城改二補": "$1BBV $2Yamashiro Kai Ni Ho$3$4",
 	"(\n|^)改装多目的搭載母艦 (「?)北上改三": "$1CLT (Sp.) $2Kitakami Kai San$3$4",
+	"(\n|^)駆逐艦 (「?)狭霧改二(」?)(\n|$)": "$1DD $2Sagiri Kai Ni$3$4",
 
 	"dummy": "forNoComma"
 }
